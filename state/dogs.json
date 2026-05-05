@@ -48,6 +48,18 @@
     "first_seen": "2026-05-04T19:55:10.462221+00:00"
   },
   {
+    "url": "https://agilitynet.co.uk/activepages/rescues.asp#hattie",
+    "name": "Hattie",
+    "breed": "Terrier x Spaniel",
+    "age": "12 months",
+    "sex": "Bitch",
+    "location": "Gloucester",
+    "distance_miles": null,
+    "source": "AgilityNet",
+    "reserved": false,
+    "first_seen": "2026-05-04T14:24:25.321285+00:00"
+  },
+  {
     "url": "https://ukspanielrescue.co.uk/our-dogs-2/#bruno",
     "name": "Bruno",
     "breed": "English Show Cocker Spaniel",
@@ -94,18 +106,6 @@
     "source": "Dogsblog",
     "reserved": false,
     "first_seen": "2026-05-02T03:51:37.398192+00:00"
-  },
-  {
-    "url": "https://heathlands.org.uk/dog.php?id=850",
-    "name": "RESERVED Tammy",
-    "breed": "Border Collie",
-    "age": "9 years",
-    "sex": null,
-    "location": "Heathlands Animal Sanctuary (Royston, Herts)",
-    "distance_miles": 96.9,
-    "source": "Heathlands Animal Sanctuary",
-    "reserved": false,
-    "first_seen": "2026-04-30T19:21:24.464037+00:00"
   },
   {
     "url": "https://furbuddies.org/buddy",
@@ -168,6 +168,18 @@
     "first_seen": "2026-04-30T12:41:19.390823+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/amber-sa5366/",
+    "name": "Amber",
+    "breed": "Springer spaniel",
+    "age": "8 years",
+    "sex": "Female",
+    "location": "Walmer, Kent, England",
+    "distance_miles": 75.1,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-04-30T10:56:07.276835+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/tommy-sa5449/",
     "name": "Tommy",
     "breed": "Springer spaniel",
@@ -175,6 +187,18 @@
     "sex": "Male",
     "location": "Colwyn Bay, Wales",
     "distance_miles": 152.1,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-04-30T10:56:07.276835+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/charlie-sa4932/",
+    "name": "Charlie",
+    "breed": "Cocker Spaniel (working)",
+    "age": null,
+    "sex": "Male",
+    "location": "Milton Keynes",
+    "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-04-30T10:56:07.276835+00:00"
@@ -728,42 +752,6 @@
     "location": "Help 4 Hounds (Highbridge, Somerset)",
     "distance_miles": 91.7,
     "source": "Help 4 Hounds",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://heathlands.org.uk/dog.php?id=744",
-    "name": "Penn",
-    "breed": "Border Collie cross",
-    "age": "5yrs",
-    "sex": null,
-    "location": "Heathlands Animal Sanctuary (Royston, Herts)",
-    "distance_miles": 96.9,
-    "source": "Heathlands Animal Sanctuary",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://heathlands.org.uk/dog.php?id=844",
-    "name": "RESERVED Shadow",
-    "breed": "Border Collie",
-    "age": "3 years",
-    "sex": null,
-    "location": "Heathlands Animal Sanctuary (Royston, Herts)",
-    "distance_miles": 96.9,
-    "source": "Heathlands Animal Sanctuary",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://heathlands.org.uk/dog.php?id=847",
-    "name": "Todd",
-    "breed": "Border collie mix",
-    "age": "3 years",
-    "sex": null,
-    "location": "Heathlands Animal Sanctuary (Royston, Herts)",
-    "distance_miles": 96.9,
-    "source": "Heathlands Animal Sanctuary",
     "reserved": false,
     "first_seen": null
   },
@@ -1632,18 +1620,6 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/dolly-sa4872/",
-    "name": "Dolly",
-    "breed": "Cocker spaniel (show type)",
-    "age": null,
-    "sex": "Female",
-    "location": "Doncaster, South",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
     "url": "https://spanielaid.co.uk/spaniel/miles-sa4885/",
     "name": "Miles",
     "breed": "Cocker spaniel",
@@ -1656,15 +1632,27 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/rollo-sa4617/",
-    "name": "Rollo",
-    "breed": "Springador (Labrador x English Springer Spaniel",
+    "url": "https://spanielaid.co.uk/spaniel/reggie-sa4534/",
+    "name": "Reggie",
+    "breed": "Springer spaniel",
     "age": null,
-    "sex": "Male",
-    "location": "Spaniel Aid foster (UK)",
+    "sex": null,
+    "location": "High Peak, England",
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
+    "first_seen": null
+  },
+  {
+    "url": "https://agilitynet.co.uk/activepages/rescues.asp#rex",
+    "name": "Rex",
+    "breed": "Border Collie",
+    "age": "1 1/2 years",
+    "sex": "Dog",
+    "location": "Wethersfield, Essex CM7 4EP",
+    "distance_miles": 92.2,
+    "source": "AgilityNet",
+    "reserved": false,
     "first_seen": null
   },
   {
@@ -1925,7 +1913,7 @@
     "breed": "Working Cocker Spaniel",
     "age": null,
     "sex": null,
-    "location": "NESSR (North of England)",
+    "location": "NESSR (Co Durham)",
     "distance_miles": 232.5,
     "source": "NESSR",
     "reserved": false,
@@ -2004,36 +1992,12 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/louie-sa4127-2/",
-    "name": "Louie",
-    "breed": "Springer",
-    "age": null,
-    "sex": "Male",
-    "location": "LE9, Leicestershire, England",
-    "distance_miles": 127.8,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
     "url": "https://spanielaid.co.uk/spaniel/mila-sa4409-2/",
     "name": "Mila",
     "breed": "Honorary spaniel",
     "age": null,
     "sex": "Female",
     "location": "Ashbourne, Derbyshire, England",
-    "distance_miles": 161.1,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/woody-sa4783/",
-    "name": "Woody",
-    "breed": "Working cocker spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Ashbourne, Derbyshire",
     "distance_miles": 161.1,
     "source": "Spaniel Aid",
     "reserved": true,
