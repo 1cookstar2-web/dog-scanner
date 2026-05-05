@@ -13,8 +13,10 @@ on:
           - dry-run
           - live
         default: dry-run
-  # schedule:
-  #   - cron: "*/10 * * * *"
+  schedule:
+    # Every 10 minutes. Cron in Actions is best-effort and can drift up to
+    # a few minutes during high-load windows — fine for a dog scanner.
+    - cron: "*/10 * * * *"
 
 permissions:
   contents: write
