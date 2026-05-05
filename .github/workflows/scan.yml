@@ -1,0 +1,86 @@
+name: Dog Scan
+
+# Phase 1 (current): manual trigger only — verify behaviour before automating.
+# Phase 2 (after first clean live run): uncomment the schedule below.
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Run mode"
+        type: choice
+        options:
+          - dry-run
+          - live
+        default: dry-run
+  # schedule:
+  #   - cron: "*/10 * * * *"
+
+permissions:
+  contents: write
+
+# Don't let two scans race; if one is still running when cron fires again,
+# queue the new one rather than running concurrently against the same state.
+concurrency:
+  group: dog-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scan
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_FROM_EMAIL: ${{ secrets.BREVO_FROM_EMAIL }}
+          BREVO_FROM_NAME: ${{ secrets.BREVO_FROM_NAME }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM: ${{ secrets.RESEND_FROM }}
+          EMAIL_TRANSPORT: ${{ secrets.EMAIL_TRANSPORT }}
+          FORMSUBMIT_ORIGIN: ${{ secrets.FORMSUBMIT_ORIGIN }}
+          FORMSUBMIT_COOLDOWN_SECS: ${{ secrets.FORMSUBMIT_COOLDOWN_SECS }}
+          SCAN_INTERVAL_SECS: ${{ secrets.SCAN_INTERVAL_SECS }}
+          # Default to "live" when triggered by cron (inputs.mode is null then).
+          MODE: ${{ inputs.mode || 'live' }}
+        run: |
+          if [ "$MODE" = "dry-run" ]; then
+            echo "::notice::Running in DRY-RUN mode — Telegram suppressed"
+            python scan_once.py --dry-run
+          else
+            echo "::notice::Running in LIVE mode"
+            python scan_once.py
+          fi
+
+      - name: Commit state changes
+        run: |
+          git config user.name "dog-scanner[bot]"
+          git config user.email "dog-scanner-bot@users.noreply.github.com"
+          git add state/
+          if git diff --staged --quiet; then
+            echo "No state changes to commit"
+          else
+            git commit -m "state: scan @ $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+            echo "::notice::State updates committed"
+          fi

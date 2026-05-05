@@ -8,6 +8,15 @@ state/watcher.lock
 state/watcher_heartbeat.json
 state/*.bak-*
 
+# PII — email subscribers list (real addresses)
+state/subscribers.json
+
+# Claude Code local settings — must not ship
+.claude/
+
+# Gradio local self-signed TLS cert — host-specific
+.gradio/
+
 # Logs
 *.log
 *.log.*
