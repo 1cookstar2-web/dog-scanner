@@ -210,18 +210,21 @@ async function load() {
   const meta = document.getElementById("meta");
   const content = document.getElementById("content");
   try {
-    const [dogs, hb] = await Promise.all([
-      fetchJSON("dogs.json"),
-      fetchJSON("watcher_heartbeat.json").catch(() => null),
-    ]);
+    const dogs = await fetchJSON("dogs.json");
 
     const { today, thisWeek, older } = classify(dogs);
-    const lastScan = hb && hb.last_cycle_utc;
+    // Use the most recent first_seen as a proxy for "last scan" — the page
+    // updates whenever a new dog appears, which is when it matters.
+    const newest = dogs
+      .map(d => d.first_seen)
+      .filter(Boolean)
+      .sort()
+      .pop();
 
     meta.innerHTML = `
       <span><strong>${dogs.length}</strong> dog${dogs.length === 1 ? "" : "s"} listed</span>
       <span><strong>${today.length}</strong> new today</span>
-      ${lastScan ? `<span>Last scan: <strong>${fmtAge(lastScan)}</strong></span>` : ""}
+      ${newest ? `<span>Newest: <strong>${fmtAge(newest)}</strong></span>` : ""}
     `;
 
     if (dogs.length === 0) {
