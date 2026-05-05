@@ -31,6 +31,9 @@ KNOWN_FILE = STATE_DIR / "known_dogs.json"
 PREV_SCAN_FILE = STATE_DIR / "prev_scan_urls.json"
 FIRST_SEEN_FILE = STATE_DIR / "first_seen.json"
 HEARTBEAT_FILE = STATE_DIR / "watcher_heartbeat.json"
+# Rich snapshot of currently-available dogs, consumed by the public
+# dashboard at scanner.cookstar.cc. Rewritten in full on each run.
+DOGS_FILE = STATE_DIR / "dogs.json"
 
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "").strip()
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
@@ -154,6 +157,28 @@ def main() -> int:
                 print(f"[alerts] telegram failed: {e}", file=sys.stderr)
     elif known:
         print("[alerts] no new dogs this cycle")
+
+    # Rich snapshot for the public dashboard. Joins each dog with its
+    # first-seen timestamp so the UI can group "new today / this week".
+    first_seen_map = _load_json(FIRST_SEEN_FILE, {}) or {}
+    snapshot = []
+    for d in dogs:
+        rec = {
+            "url": d.url,
+            "name": d.name,
+            "breed": d.breed,
+            "age": getattr(d, "age", None),
+            "sex": getattr(d, "sex", None),
+            "location": getattr(d, "location", None),
+            "distance_miles": d.distance_miles,
+            "source": d.source,
+            "reserved": getattr(d, "reserved", False),
+            "first_seen": first_seen_map.get(d.url),
+        }
+        snapshot.append(rec)
+    # Newest first; dogs without a first_seen timestamp sink to the bottom.
+    snapshot.sort(key=lambda r: (r["first_seen"] or ""), reverse=True)
+    _save_json_atomic(DOGS_FILE, snapshot)
 
     _save_json_atomic(HEARTBEAT_FILE, {
         "last_cycle_utc": datetime.now(timezone.utc).isoformat(),

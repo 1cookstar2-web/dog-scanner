@@ -31,16 +31,28 @@ def check(condition: bool, label: str) -> None:
         print(f"  {FAIL}  {label}")
 
 
+class _FakeDog:
+    """Plain object stand-in for scanner.Dog. Plain attributes so json.dumps
+    via getattr(d, ..., default) works correctly in scan_once."""
+    def __init__(self, url, name="Test", breed="Border Collie",
+                 distance=5.0, source="test-rescue",
+                 age=None, sex=None, location=None, reserved=False):
+        self.url = url
+        self.name = name
+        self.breed = breed
+        self.distance_miles = distance
+        self.source = source
+        self.age = age
+        self.sex = sex
+        self.location = location
+        self.reserved = reserved
+
+
 def make_dog(url: str, name: str = "Test", breed: str = "Border Collie",
              distance: float | None = 5.0, source: str = "test-rescue"):
     """Stand-in for scanner.Dog with the fields scan_once reads."""
-    d = MagicMock()
-    d.url = url
-    d.name = name
-    d.breed = breed
-    d.distance_miles = distance
-    d.source = source
-    return d
+    return _FakeDog(url=url, name=name, breed=breed,
+                    distance=distance, source=source)
 
 
 def reset_state_dir(scan_once_module, tmpdir: Path):
@@ -344,6 +356,71 @@ check("telegram failed" in err_text, "telegram failure: logged to stderr")
 known = set(json.loads((state_dir / "known_dogs.json").read_text()))
 check("https://a.org/NEW" in known,
       "telegram failure: state STILL updated (no duplicate-alert risk)")
+
+
+print("\n=== state/dogs.json (rich snapshot for dashboard) ===")
+
+# Set up: pre-populate first_seen with one of the dogs to test the join
+state_dir = Path(tempfile.mkdtemp())
+reset_state_dir(scan_once, state_dir)
+dogs = [
+    _FakeDog("https://r.org/luna", name="Luna", breed="Border Collie",
+             distance=8.5, source="r-rescue", age="3y", sex="F",
+             location="London", reserved=False),
+    _FakeDog("https://r.org/rex", name="Rex", breed="Springer Spaniel",
+             distance=22.0, source="x-rescue", age="5y", sex="M",
+             location="Bristol", reserved=True),
+    _FakeDog("https://r.org/mystery", name="Mystery"),  # no first_seen
+]
+# Pre-seed first_seen.json with two of three URLs at different timestamps
+(state_dir / "first_seen.json").write_text(json.dumps({
+    "https://r.org/rex": "2026-05-01T10:00:00+00:00",   # older
+    "https://r.org/luna": "2026-05-04T20:00:00+00:00",  # newer
+}))
+# Pre-seed known so we exercise the "no new" branch (clean test)
+(state_dir / "known_dogs.json").write_text(json.dumps([d.url for d in dogs]))
+
+with patch("scan_once.scan", return_value=dogs):
+    with patch("scan_once.urllib.request.urlopen") as urlopen:
+        urlopen.return_value.__enter__.return_value.status = 200
+        with patch.object(sys, "argv", ["scan_once.py"]):
+            with patch.dict(os.environ, TEST_ENV, clear=False):
+                scan_once.TELEGRAM_TOKEN = "T"
+                scan_once.TELEGRAM_CHAT_ID = "C"
+                with _CapturedStdout():
+                    code = scan_once.main()
+check(code == 0, "snapshot: scan exited 0")
+check(scan_once.DOGS_FILE.exists(), "snapshot: dogs.json was written")
+
+snap = json.loads(scan_once.DOGS_FILE.read_text())
+check(isinstance(snap, list) and len(snap) == 3, "snapshot: list of 3 records")
+
+# Field shape
+record_keys = set(snap[0].keys())
+expected_keys = {"url", "name", "breed", "age", "sex", "location",
+                 "distance_miles", "source", "reserved", "first_seen"}
+check(expected_keys <= record_keys,
+      f"snapshot: record has all expected fields (got {record_keys - expected_keys} missing)")
+
+# Sort order: newest first_seen first; missing first_seen sinks to bottom
+check(snap[0]["url"] == "https://r.org/luna", "snapshot: newest first_seen comes first")
+check(snap[1]["url"] == "https://r.org/rex", "snapshot: older first_seen second")
+check(snap[2]["url"] == "https://r.org/mystery", "snapshot: missing first_seen last")
+
+# first_seen join
+check(snap[0]["first_seen"] == "2026-05-04T20:00:00+00:00",
+      "snapshot: first_seen joined from first_seen.json")
+check(snap[2]["first_seen"] is None, "snapshot: missing first_seen is None")
+
+# Field passthrough
+luna = snap[0]
+check(luna["name"] == "Luna" and luna["breed"] == "Border Collie",
+      "snapshot: name/breed correct")
+check(luna["distance_miles"] == 8.5, "snapshot: distance_miles passes through")
+check(luna["age"] == "3y" and luna["sex"] == "F", "snapshot: age/sex pass through")
+check(luna["location"] == "London", "snapshot: location passes through")
+check(luna["reserved"] is False, "snapshot: reserved bool passes through")
+check(snap[1]["reserved"] is True, "snapshot: reserved=True passes through")
 
 
 print()
