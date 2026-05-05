@@ -34,7 +34,20 @@ HEARTBEAT_FILE = STATE_DIR / "watcher_heartbeat.json"
 
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "").strip()
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
-SCAN_INTERVAL = int(os.environ.get("SCAN_INTERVAL_SECS", "600"))
+
+
+def _int_env(key: str, default: int) -> int:
+    raw = os.environ.get(key, "").strip()
+    if not raw:
+        return default
+    try:
+        return int(raw)
+    except ValueError:
+        print(f"[warn] {key} is not a valid int; using default {default}", file=sys.stderr)
+        return default
+
+
+SCAN_INTERVAL = _int_env("SCAN_INTERVAL_SECS", 600)
 
 
 def _load_json(path: Path, default):
