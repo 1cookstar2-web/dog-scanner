@@ -59,8 +59,10 @@ jobs:
           RESEND_FROM: ${{ secrets.RESEND_FROM }}
           EMAIL_TRANSPORT: ${{ secrets.EMAIL_TRANSPORT }}
           FORMSUBMIT_ORIGIN: ${{ secrets.FORMSUBMIT_ORIGIN }}
-          FORMSUBMIT_COOLDOWN_SECS: ${{ secrets.FORMSUBMIT_COOLDOWN_SECS }}
-          SCAN_INTERVAL_SECS: ${{ secrets.SCAN_INTERVAL_SECS }}
+          # FORMSUBMIT_COOLDOWN_SECS / SCAN_INTERVAL_SECS are not sensitive —
+          # set them directly so log redaction doesn't mangle parsing.
+          FORMSUBMIT_COOLDOWN_SECS: "7200"
+          SCAN_INTERVAL_SECS: "600"
           # Default to "live" when triggered by cron (inputs.mode is null then).
           MODE: ${{ inputs.mode || 'live' }}
         run: |
