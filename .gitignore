@@ -1,0 +1,40 @@
+# Secrets — must never be committed
+.env
+.env.*
+!.env.example
+
+# Runtime state files (dynamic; written every scan)
+state/watcher.lock
+state/watcher_heartbeat.json
+state/*.bak-*
+
+# Logs
+*.log
+*.log.*
+app.log*
+diagnose-*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Build artefacts
+project-bundle/
+*.tar.gz
+*.zip
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Local-only — Postgres dumps, scratch responses, etc.
+dogstrust_page_data.json
+dt_gql_body.json
+dt_gql_response.json
+dt_query.txt
+logrotate.state

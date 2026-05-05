@@ -1,0 +1,51 @@
+[Unit]
+Description=Dog Scanner (scanner.cookstar.cc) — hourly watcher + Gradio UI
+Documentation=https://github.com/anthropics/claude-code
+After=network-online.target
+Wants=network-online.target
+
+# Don't hammer-restart if we genuinely can't start. 10 restarts in 10 minutes
+# is plenty — past that, something is truly wrong and needs attention.
+StartLimitIntervalSec=600
+StartLimitBurst=10
+
+[Service]
+Type=simple
+User=claude-dev
+Group=claude-dev
+WorkingDirectory=/home/claude-dev/dog-scanner
+
+# PYTHONUNBUFFERED is belt-and-braces; app.py also calls
+# sys.stdout.reconfigure(line_buffering=True) so this is redundant but
+# harmless on older Python versions.
+Environment=PYTHONUNBUFFERED=1
+
+ExecStart=/usr/bin/python3 /home/claude-dev/dog-scanner/app.py
+
+# Auto-restart on any exit (crash, clean exit, killed). Wait 10s between
+# restarts so we don't fight with port binding or stale locks.
+Restart=always
+RestartSec=10
+
+# Send SIGTERM on stop, give app.py 20s to clean up (close Gradio socket,
+# flush state files) before SIGKILL.
+KillSignal=SIGTERM
+TimeoutStopSec=20
+
+# Log stdout+stderr to journald. Read live with:
+#   sudo journalctl -u dog-scanner -f
+# Or the last 200 lines:
+#   sudo journalctl -u dog-scanner -n 200
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=dog-scanner
+
+# Hardening — reasonable defaults; none should break the scanner.
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=read-only
+ReadWritePaths=/home/claude-dev/dog-scanner
+
+[Install]
+WantedBy=multi-user.target

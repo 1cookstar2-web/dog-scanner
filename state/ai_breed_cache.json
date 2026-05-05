@@ -1,0 +1,207 @@
+{
+  "6ce5f67aba73e2f6": {
+    "match": true,
+    "breed": "Border Collie or Bearded Collie",
+    "confidence": "medium"
+  },
+  "da8a1b7bce3ad0c6": {
+    "match": false,
+    "breed": "Cockapoo",
+    "confidence": "high"
+  },
+  "7c7d16af40245386": {
+    "match": true,
+    "breed": "Cavalier x Springer",
+    "confidence": "high"
+  },
+  "285c9c8872d75827": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "5a8cdcad1d72725a": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "3cfa55fa3c22a92e": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "2c329140ae51a355": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "9aca22c7467ec791": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "58f68f06e65463a9": {
+    "match": false,
+    "breed": "Cavalier King Charles Spaniel",
+    "confidence": "high"
+  },
+  "4050b606be33ebd2": {
+    "match": false,
+    "breed": "Cavapoo",
+    "confidence": "high"
+  },
+  "4943e0eba5589deb": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "04d259c1cb42f5e0": {
+    "match": false,
+    "breed": "Cockapoo",
+    "confidence": "high"
+  },
+  "f54bd5df78d4d794": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "e2aba37464818218": {
+    "match": true,
+    "breed": "Springer Spaniel",
+    "confidence": "high"
+  },
+  "854f4da0f709b2cf": {
+    "match": false,
+    "breed": "None",
+    "confidence": "low"
+  },
+  "a0f2950e19437b70": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "93875303b6f95662": {
+    "match": false,
+    "breed": "None",
+    "confidence": "low"
+  },
+  "6c094c1c4e49e766": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "96df0a08fb3d3bb1": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "be898ff30c66e5cd": {
+    "match": false,
+    "breed": "unknown crossbreed",
+    "confidence": "low"
+  },
+  "cb765382f16f7002": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "63ebadf9996b2be0": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "e38422f62b7c5a38": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "479e9d0faeeeab2f": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "29733c7a43b4aee1": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "fd2ce6b5dbeb34e6": {
+    "match": true,
+    "breed": "Border Collie",
+    "confidence": "high"
+  },
+  "1de298805a94d1b8": {
+    "match": true,
+    "breed": "Border Collie",
+    "confidence": "high"
+  },
+  "4dad9e3ffea5817b": {
+    "match": false,
+    "breed": "Golden Retriever",
+    "confidence": "high"
+  },
+  "5e18b609e3a9d583": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "01512aba09474d7e": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "ba4ad06598570bd2": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "771e13f1dae4a333": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "f9c3b5f1e00b9626": {
+    "match": false,
+    "breed": "Cockapoo",
+    "confidence": "high"
+  },
+  "db0e50f288ba10ed": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "987e99b962dd5739": {
+    "match": false,
+    "breed": "Cavalier King Charles Spaniel",
+    "confidence": "high"
+  },
+  "e9f3e7af8ef95e73": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "6e14ac008d54d20d": {
+    "match": false,
+    "breed": "None",
+    "confidence": "high"
+  },
+  "9402f52c935ba5e9": {
+    "match": false,
+    "breed": "Cavapoo",
+    "confidence": "high"
+  },
+  "e54767d22335acb3": {
+    "match": false,
+    "breed": "Miniature Poodle",
+    "confidence": "high"
+  },
+  "f79d921527b728cf": {
+    "match": false,
+    "breed": "Cockapoo",
+    "confidence": "high"
+  },
+  "92f71e30a0a811ec": {
+    "match": false,
+    "breed": "Bichon Frise",
+    "confidence": "high"
+  }
+}
