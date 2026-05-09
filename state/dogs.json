@@ -60,6 +60,18 @@
     "first_seen": "2026-05-08T17:16:00.787344+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/preston-sa5451/",
+    "name": "Preston",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Stowmarket, Suffolk",
+    "distance_miles": 129.4,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-08T14:10:35.353552+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/5812/",
     "name": "Nom Nom",
     "breed": "Cocker Spaniel",
@@ -140,18 +152,6 @@
     "location": "Battersea London",
     "distance_miles": 60.4,
     "source": "Battersea",
-    "reserved": true,
-    "first_seen": "2026-05-05T11:06:03.536249+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/rags-sa5138/",
-    "name": "Rags",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Walmer, Kent, England",
-    "distance_miles": 75.1,
-    "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-05T11:06:03.536249+00:00"
   },
@@ -1508,18 +1508,6 @@
     "location": "Dogs Trust Harefield (West London)",
     "distance_miles": 60.6,
     "source": "Dogs Trust",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/charlie-sa4938/",
-    "name": "Charlie",
-    "breed": "English Springer Spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "London, N10",
-    "distance_miles": 62.7,
-    "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": null
   },
