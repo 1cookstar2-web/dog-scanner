@@ -132,18 +132,6 @@
     "first_seen": "2026-05-05T16:12:19.976424+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/reggie-sa5403/",
-    "name": "Reggie",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": null,
-    "location": "Birmingham, West Midlands",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-05T14:28:15.642241+00:00"
-  },
-  {
     "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/albie",
     "name": "Albie",
     "breed": "Spaniel: English Springer",
@@ -166,6 +154,18 @@
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-05T11:06:03.536249+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/maisie-sa4707/",
+    "name": "Maisie",
+    "breed": "Foster",
+    "age": null,
+    "sex": "Female",
+    "location": "view to Adopt Springer Spaniel, West Ealing",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-05-05T01:54:32.660488+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/max-sa4841/",
@@ -1512,18 +1512,6 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/indi-sa5437/",
-    "name": "Indi",
-    "breed": "English Springer Spaniel",
-    "age": "5 years",
-    "sex": "Female",
-    "location": "Ware, SG12",
-    "distance_miles": 84.3,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/retriever-labrador/3622163",
     "name": "Pippa",
     "breed": "Retriever (Labrador) Cross \u00d7 Collie (Border)",
@@ -1578,6 +1566,18 @@
     "age": null,
     "sex": "Male",
     "location": "Aylesbury, Bucks, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": null
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/ben-sa4687/",
+    "name": "Ben",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Stockport, England",
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
