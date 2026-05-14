@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://furbuddies.org/suki",
+    "name": "Suki",
+    "breed": "Border Collie",
+    "age": "4 months",
+    "sex": "Male",
+    "location": "FurBuddies (Hordle, New Forest)",
+    "distance_miles": 28.0,
+    "source": "FurBuddies",
+    "reserved": false,
+    "first_seen": "2026-05-14T10:37:05.397540+00:00"
+  },
+  {
     "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#finn",
     "name": "Finn",
     "breed": "Cocker / English Springer Spaniel",
@@ -80,7 +92,7 @@
     "location": "Battersea London",
     "distance_miles": 60.4,
     "source": "Battersea",
-    "reserved": false,
+    "reserved": true,
     "first_seen": "2026-05-12T12:28:08.344652+00:00"
   },
   {
@@ -416,6 +428,18 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
+    "name": "Floki",
+    "breed": "Collie/Springer match (Romanian rescue)",
+    "age": null,
+    "sex": null,
+    "location": "RRAUK (Hampshire / Bordon fosters)",
+    "distance_miles": 23.4,
+    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
@@ -2010,6 +2034,18 @@
     "age": null,
     "sex": "Female",
     "location": "Ashbourne, Derbyshire, England",
+    "distance_miles": 161.1,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": null
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/woody-sa4783/",
+    "name": "Woody",
+    "breed": "Working cocker spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Ashbourne, Derbyshire",
     "distance_miles": 161.1,
     "source": "Spaniel Aid",
     "reserved": true,
