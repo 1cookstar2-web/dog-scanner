@@ -396,18 +396,6 @@
     "first_seen": "2026-05-02T08:58:53.514349+00:00"
   },
   {
-    "url": "https://dogsnhomes.org.uk/adopt-a-dog/sky/",
-    "name": "Sky",
-    "breed": "Spaniel",
-    "age": "4 months",
-    "sex": "Male",
-    "location": "Dogs N Homes (Fleet, Hampshire)",
-    "distance_miles": 35.0,
-    "source": "Dogs N Homes",
-    "reserved": false,
-    "first_seen": "2026-05-01T09:09:31.623102+00:00"
-  },
-  {
     "url": "https://furbuddies.org/buddy",
     "name": "Buddy",
     "breed": "Sprocker",
@@ -1704,12 +1692,12 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/bailey-sa4580/",
-    "name": "Bailey",
-    "breed": "Springer spaniel x collie (sprollie)",
+    "url": "https://spanielaid.co.uk/spaniel/alf-sa4541/",
+    "name": "Alf",
+    "breed": "Working cocker spaniel",
     "age": null,
     "sex": "Male",
-    "location": "Telford",
+    "location": "Aylesbury, Bucks, England",
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
@@ -2094,18 +2082,6 @@
     "age": null,
     "sex": "Female",
     "location": "Ashbourne, Derbyshire, England",
-    "distance_miles": 161.1,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/woody-sa4783/",
-    "name": "Woody",
-    "breed": "Working cocker spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Ashbourne, Derbyshire",
     "distance_miles": 161.1,
     "source": "Spaniel Aid",
     "reserved": true,
