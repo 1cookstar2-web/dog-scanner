@@ -12,6 +12,18 @@
     "first_seen": "2026-05-24T11:18:14.511586+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/charlie-sa4746/",
+    "name": "Charlie",
+    "breed": "Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "Walton on Thames, Surry",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-23T20:29:59.469110+00:00"
+  },
+  {
     "url": "https://www.nawt.org.uk/rehoming/animal/12207/",
     "name": "Lexie",
     "breed": "Border Collie Can be left alone for a period",
@@ -372,6 +384,18 @@
     "first_seen": "2026-05-05T11:06:03.536249+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/rags-sa5138/",
+    "name": "Rags",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Walmer, Kent, England",
+    "distance_miles": 75.1,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-05T11:06:03.536249+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/jaycob-sa4688/",
     "name": "Jaycob",
     "breed": "Foster View to Adopt Springer spaniel",
@@ -418,6 +442,18 @@
     "source": "Spaniel Rescue Foundation",
     "reserved": false,
     "first_seen": "2026-05-04T19:55:10.462221+00:00"
+  },
+  {
+    "url": "https://agilitynet.co.uk/activepages/rescues.asp#hattie",
+    "name": "Hattie",
+    "breed": "Terrier x Spaniel",
+    "age": "12 months",
+    "sex": "Bitch",
+    "location": "Gloucester",
+    "distance_miles": null,
+    "source": "AgilityNet",
+    "reserved": false,
+    "first_seen": "2026-05-04T14:24:25.321285+00:00"
   },
   {
     "url": "https://furbuddies.org/buddy",
@@ -1236,18 +1272,6 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/loki-sa5213/",
-    "name": "Loki",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Colwyn bay, Wales",
-    "distance_miles": 152.1,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
     "url": "https://www.spanielrescuefoundation.org/srf141",
     "name": "Thor",
     "breed": "Cocker Spaniel",
@@ -1569,6 +1593,18 @@
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
+    "first_seen": null
+  },
+  {
+    "url": "https://agilitynet.co.uk/activepages/rescues.asp#rex",
+    "name": "Rex",
+    "breed": "Border Collie",
+    "age": "1 1/2 years",
+    "sex": "Dog",
+    "location": "Wethersfield, Essex CM7 4EP",
+    "distance_miles": 92.2,
+    "source": "AgilityNet",
+    "reserved": false,
     "first_seen": null
   },
   {
