@@ -384,6 +384,18 @@
     "first_seen": "2026-05-12T15:23:46.604947+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/ralph-sa4292/",
+    "name": "Ralph",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Nelson, BB9, England",
+    "distance_miles": 214.5,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-10T14:08:14.783169+00:00"
+  },
+  {
     "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#billy",
     "name": "Billy",
     "breed": "Cocker / English Springer Spaniel",
@@ -430,6 +442,18 @@
     "source": "Dogs Trust",
     "reserved": false,
     "first_seen": "2026-05-06T11:31:59.834635+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/ada-sa4904/",
+    "name": "Ada",
+    "breed": "Cocker spaniel (show type)",
+    "age": null,
+    "sex": "Female",
+    "location": "York, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-06T09:43:45.679026+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/256218/",
@@ -1596,25 +1620,13 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/indi-sa5437/",
-    "name": "Indi",
-    "breed": "English Springer Spaniel",
-    "age": "5 years",
-    "sex": "Female",
-    "location": "Ware, SG12",
-    "distance_miles": 84.3,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/percy-sa5099/",
-    "name": "Percy",
-    "breed": "Cocker Spaniel",
+    "url": "https://spanielaid.co.uk/spaniel/oreo-sa4694/",
+    "name": "Oreo",
+    "breed": "Springer Spaniel",
     "age": null,
     "sex": "Male",
-    "location": "Newport, Essex - Spaniel Aid CIO",
-    "distance_miles": 92.2,
+    "location": "Pembroke Dock, Wales",
+    "distance_miles": 152.1,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": null
@@ -1626,18 +1638,6 @@
     "age": null,
     "sex": "Male",
     "location": "Stockport, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/dolly-sa4872/",
-    "name": "Dolly",
-    "breed": "Cocker spaniel (show type)",
-    "age": null,
-    "sex": "Female",
-    "location": "Doncaster, South",
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
