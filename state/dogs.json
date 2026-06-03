@@ -24,18 +24,6 @@
     "first_seen": "2026-06-03T14:35:18.289362+00:00"
   },
   {
-    "url": "https://www.dogstrust.org.uk/rehoming/dogs/retriever-labrador/3645227",
-    "name": "Paddy",
-    "breed": "Retriever (Labrador) Cross \u00d7 Collie (Border)",
-    "age": "6 months",
-    "sex": "Male",
-    "location": "Dogs Trust Salisbury (Wiltshire)",
-    "distance_miles": 40.5,
-    "source": "Dogs Trust",
-    "reserved": false,
-    "first_seen": "2026-06-03T12:52:56.359044+00:00"
-  },
-  {
     "url": "https://woodgreen.org.uk/pets/ozzy-border-collie-dog/",
     "name": "Ozzy",
     "breed": "border collie",
@@ -201,18 +189,6 @@
     "distance_miles": 40.5,
     "source": "Dogs Trust",
     "reserved": false,
-    "first_seen": "2026-05-27T08:34:32.253877+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/tank-sa5415/",
-    "name": "Tank",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Matlock, Derbyshire, England",
-    "distance_miles": 161.1,
-    "source": "Spaniel Aid",
-    "reserved": true,
     "first_seen": "2026-05-27T08:34:32.253877+00:00"
   },
   {
@@ -432,6 +408,18 @@
     "first_seen": "2026-05-07T12:06:24.124362+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/jasper-sa4589/",
+    "name": "Jasper",
+    "breed": "Springer Spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Wakefield, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-05-07T12:06:24.124362+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3636821",
     "name": "Mojo",
     "breed": "Collie (Border)",
@@ -444,16 +432,16 @@
     "first_seen": "2026-05-06T11:31:59.834635+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/ada-sa4904/",
-    "name": "Ada",
-    "breed": "Cocker spaniel (show type)",
+    "url": "https://spanielaid.co.uk/spaniel/bella-sa4655/",
+    "name": "Bella",
+    "breed": "- Spaniel Aid CIO",
     "age": null,
     "sex": "Female",
-    "location": "York, England",
+    "location": "Spaniel Aid foster (UK)",
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
-    "first_seen": "2026-05-06T09:43:45.679026+00:00"
+    "first_seen": "2026-05-06T11:31:59.834635+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/256218/",
@@ -488,6 +476,18 @@
     "location": "Battersea London",
     "distance_miles": 60.4,
     "source": "Battersea",
+    "reserved": true,
+    "first_seen": "2026-05-05T11:06:03.536249+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/rags-sa5138/",
+    "name": "Rags",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Walmer, Kent, England",
+    "distance_miles": 75.1,
+    "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-05T11:06:03.536249+00:00"
   },
@@ -1284,18 +1284,6 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/loki-sa5213/",
-    "name": "Loki",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Colwyn bay, Wales",
-    "distance_miles": 152.1,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
     "url": "https://www.fostbc.org.uk/portfolio-item/cap/",
     "name": "Cap",
     "breed": "Border Collie (rescue specialist)",
@@ -1567,18 +1555,6 @@
     "sex": "Male",
     "location": "Newport, Essex - Spaniel Aid CIO",
     "distance_miles": 92.2,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/oreo-sa4694/",
-    "name": "Oreo",
-    "breed": "Springer Spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Pembroke Dock, Wales",
-    "distance_miles": 152.1,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": null
