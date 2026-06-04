@@ -24,18 +24,6 @@
     "first_seen": "2026-06-03T14:35:18.289362+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/willow-sa4853/",
-    "name": "Willow",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Female",
-    "location": "Chester, Cheshire, England",
-    "distance_miles": 177.9,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-06-03T14:35:18.289362+00:00"
-  },
-  {
     "url": "https://woodgreen.org.uk/pets/ozzy-border-collie-dog/",
     "name": "Ozzy",
     "breed": "border collie",
@@ -58,18 +46,6 @@
     "source": "FOSTBC",
     "reserved": false,
     "first_seen": "2026-06-02T18:39:28.835310+00:00"
-  },
-  {
-    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3643309",
-    "name": "Roxy",
-    "breed": "Collie (Border) Cross",
-    "age": "3y 6m",
-    "sex": "Female",
-    "location": "Dogs Trust Shoreham (Sussex)",
-    "distance_miles": 31.3,
-    "source": "Dogs Trust",
-    "reserved": false,
-    "first_seen": "2026-06-02T14:18:23.854951+00:00"
   },
   {
     "url": "https://wadars.co.uk/wadars_dogs/winnie/",
@@ -574,18 +550,6 @@
     "source": "FurBuddies",
     "reserved": false,
     "first_seen": "2026-04-30T16:22:35.538571+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/amber-sa5366/",
-    "name": "Amber",
-    "breed": "Springer spaniel",
-    "age": "8 years",
-    "sex": "Female",
-    "location": "Walmer, Kent, England",
-    "distance_miles": 75.1,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-04-30T10:56:07.276835+00:00"
   },
   {
     "url": "https://www.secondchanceanimalrescue.co.uk/2026/04/27/lola/",
@@ -1172,6 +1136,18 @@
     "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
     "distance_miles": 150.3,
     "source": "Many Tears",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/loki-sa5213/",
+    "name": "Loki",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Colwyn bay, Wales",
+    "distance_miles": 152.1,
+    "source": "Spaniel Aid",
     "reserved": false,
     "first_seen": null
   },
