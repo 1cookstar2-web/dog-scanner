@@ -44,7 +44,7 @@
     "location": "Dogs Trust Evesham (Worcestershire)",
     "distance_miles": 99.5,
     "source": "Dogs Trust",
-    "reserved": false,
+    "reserved": true,
     "first_seen": "2026-06-04T15:51:09.031478+00:00"
   },
   {
@@ -58,6 +58,18 @@
     "source": "Dogs Trust",
     "reserved": false,
     "first_seen": "2026-06-04T12:24:06.246414+00:00"
+  },
+  {
+    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/roo",
+    "name": "Roo",
+    "breed": "Spaniel: Cocker",
+    "age": "6 Months",
+    "sex": null,
+    "location": "Battersea London",
+    "distance_miles": 60.4,
+    "source": "Battersea",
+    "reserved": true,
+    "first_seen": "2026-06-04T11:17:43.727343+00:00"
   },
   {
     "url": "https://dogsnhomes.org.uk/adopt-a-dog/snowy/",
@@ -408,18 +420,6 @@
     "first_seen": null
   },
   {
-    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
-    "name": "Floki",
-    "breed": "Collie/Springer match (Romanian rescue)",
-    "age": null,
-    "sex": null,
-    "location": "RRAUK (Hampshire / Bordon fosters)",
-    "distance_miles": 23.4,
-    "source": "RRAUK",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
     "url": "https://www.helpinghoundshampshire.com/dog-information/chloe",
     "name": "Chloe",
     "breed": "Collie/Springer match",
@@ -632,6 +632,18 @@
     "location": "Mutts in Distress (Herts/Essex)",
     "distance_miles": 87.0,
     "source": "Mutts in Distress",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://help4hounds.org/services/#roxy",
+    "name": "Roxy",
+    "breed": "springer x cocker spaniel",
+    "age": "4 years",
+    "sex": "Female",
+    "location": "Help 4 Hounds (Highbridge, Somerset)",
+    "distance_miles": 91.7,
+    "source": "Help 4 Hounds",
     "reserved": false,
     "first_seen": null
   },
