@@ -120,6 +120,18 @@
     "first_seen": "2026-06-06T10:02:58.979529+00:00"
   },
   {
+    "url": "https://heathlands.org.uk/dog.php?id=859",
+    "name": "RESERVED Ace",
+    "breed": "Collie/Shetland Sheepdog cross",
+    "age": "8 months",
+    "sex": null,
+    "location": "Heathlands Animal Sanctuary (Royston, Herts)",
+    "distance_miles": 96.9,
+    "source": "Heathlands Animal Sanctuary",
+    "reserved": false,
+    "first_seen": "2026-06-06T09:11:42.861100+00:00"
+  },
+  {
     "url": "https://furbuddies.org/remy",
     "name": "Remy",
     "breed": "Collie",
@@ -238,6 +250,18 @@
     "source": "Helping Hounds",
     "reserved": false,
     "first_seen": "2026-05-31T12:45:55.805572+00:00"
+  },
+  {
+    "url": "https://heathlands.org.uk/dog.php?id=855",
+    "name": "Bodhi",
+    "breed": "Collie cross",
+    "age": "3 years",
+    "sex": null,
+    "location": "Heathlands Animal Sanctuary (Royston, Herts)",
+    "distance_miles": 96.9,
+    "source": "Heathlands Animal Sanctuary",
+    "reserved": false,
+    "first_seen": "2026-05-30T09:49:43.293946+00:00"
   },
   {
     "url": "https://www.spanielassist.com/adopt#enzo",
@@ -382,6 +406,18 @@
     "source": "PPBC",
     "reserved": false,
     "first_seen": "2026-05-15T17:11:25.750652+00:00"
+  },
+  {
+    "url": "https://heathlands.org.uk/dog.php?id=815",
+    "name": "Andy",
+    "breed": "Collie Lurcher",
+    "age": "1 year",
+    "sex": null,
+    "location": "Heathlands Animal Sanctuary (Royston, Herts)",
+    "distance_miles": 96.9,
+    "source": "Heathlands Animal Sanctuary",
+    "reserved": false,
+    "first_seen": "2026-05-14T16:54:03.805214+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/ralph-sa4292/",
@@ -812,6 +848,18 @@
     "location": "Help 4 Hounds (Highbridge, Somerset)",
     "distance_miles": 91.7,
     "source": "Help 4 Hounds",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://heathlands.org.uk/dog.php?id=744",
+    "name": "Penn",
+    "breed": "Border Collie cross",
+    "age": "5yrs",
+    "sex": null,
+    "location": "Heathlands Animal Sanctuary (Royston, Herts)",
+    "distance_miles": 96.9,
+    "source": "Heathlands Animal Sanctuary",
     "reserved": false,
     "first_seen": null
   },
