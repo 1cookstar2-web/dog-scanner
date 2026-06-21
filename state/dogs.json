@@ -144,6 +144,18 @@
     "first_seen": "2026-06-17T18:39:06.590145+00:00"
   },
   {
+    "url": "https://themayhew.org/dogs/ruby/",
+    "name": "Ruby",
+    "breed": "Cocker Spaniel x Poodle",
+    "age": "1 years old",
+    "sex": null,
+    "location": "Mayhew (London NW10)",
+    "distance_miles": 62.1,
+    "source": "Mayhew",
+    "reserved": false,
+    "first_seen": "2026-06-17T16:43:06.772901+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/5929/",
     "name": "Puzzle",
     "breed": "Cocker Spaniel",
@@ -334,18 +346,6 @@
     "source": "Dogs Trust",
     "reserved": false,
     "first_seen": "2026-06-04T12:24:06.246414+00:00"
-  },
-  {
-    "url": "https://dogsnhomes.org.uk/adopt-a-dog/snowy/",
-    "name": "Snowy",
-    "breed": "Spaniel",
-    "age": "6 months",
-    "sex": "Male",
-    "location": "Dogs N Homes (Fleet, Hampshire)",
-    "distance_miles": 35.0,
-    "source": "Dogs N Homes",
-    "reserved": false,
-    "first_seen": "2026-06-03T20:34:01.107270+00:00"
   },
   {
     "url": "https://www.manytearsrescue.org/adopt/dogs/5881/",
@@ -540,18 +540,6 @@
     "first_seen": "2026-05-20T18:37:03.745299+00:00"
   },
   {
-    "url": "https://www.dogsblog.com/kenny-29/",
-    "name": "Kenny",
-    "breed": "Springer Spaniel",
-    "age": "6+ years",
-    "sex": "Male",
-    "location": "Location not tagged",
-    "distance_miles": null,
-    "source": "Dogsblog",
-    "reserved": false,
-    "first_seen": "2026-05-20T16:39:41.985143+00:00"
-  },
-  {
     "url": "https://spanielaid.co.uk/spaniel/macca-sa4751-foster-view-to-adopt/",
     "name": "Macca",
     "breed": "Springer spaniel",
@@ -672,6 +660,18 @@
     "first_seen": "2026-05-07T12:06:24.124362+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/toby-sa4979/",
+    "name": "Toby",
+    "breed": "Springer x Clumber x WCS",
+    "age": null,
+    "sex": "Male",
+    "location": "Ipswich, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-07T12:06:24.124362+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/mabel-sa4920-foster-view-to-adopt/",
     "name": "Mabel",
     "breed": "Working cocker spaniel",
@@ -679,18 +679,6 @@
     "sex": "Female",
     "location": "New Forest, Hampshire",
     "distance_miles": 25.2,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-06T15:39:56.868036+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/jock-sa4698/",
-    "name": "Jock",
-    "breed": "Sprocker spaniel (springer x cocker)",
-    "age": null,
-    "sex": "Male",
-    "location": "Near",
-    "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-06T15:39:56.868036+00:00"
@@ -1572,6 +1560,18 @@
     "first_seen": null
   },
   {
+    "url": "https://themayhew.org/dogs/kenny/",
+    "name": "Kenny",
+    "breed": "Springer Spaniel",
+    "age": "10 years 11 months old",
+    "sex": null,
+    "location": "Mayhew (London NW10)",
+    "distance_miles": 62.1,
+    "source": "Mayhew",
+    "reserved": true,
+    "first_seen": null
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/charlie-sa4938/",
     "name": "Charlie",
     "breed": "English Springer Spaniel",
@@ -1596,13 +1596,13 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/indi-sa5437/",
-    "name": "Indi",
-    "breed": "English Springer Spaniel",
-    "age": "5 years",
-    "sex": "Female",
-    "location": "Ware, SG12",
-    "distance_miles": 84.3,
+    "url": "https://spanielaid.co.uk/spaniel/ben-sa4687/",
+    "name": "Ben",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Stockport, England",
+    "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": null
