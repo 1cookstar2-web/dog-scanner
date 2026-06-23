@@ -84,18 +84,6 @@
     "first_seen": "2026-06-20T22:28:51.468044+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/fred-sa4729-foster-view-to-adopt/",
-    "name": "Fred",
-    "breed": "Sprocker",
-    "age": null,
-    "sex": "Male",
-    "location": "Basingstoke, Hampshire, England",
-    "distance_miles": 25.2,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-06-20T15:36:34.541207+00:00"
-  },
-  {
     "url": "https://thebordercolliespot.com/dogs-needing-homes/#buddy",
     "name": "Buddy",
     "breed": "Border Collie (rescue specialist)",
@@ -540,18 +528,6 @@
     "first_seen": "2026-05-25T13:46:54.523711+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/baaj-sa4978/",
-    "name": "Baaj",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Doncaster, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-23T17:42:23.629665+00:00"
-  },
-  {
     "url": "https://woodgreen.org.uk/pets/molly-border-collie-dog/",
     "name": "Molly",
     "breed": "border collie",
@@ -720,6 +696,18 @@
     "first_seen": "2026-05-08T18:47:52.792402+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/jasper-sa4589/",
+    "name": "Jasper",
+    "breed": "Springer Spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Wakefield, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-05-07T12:06:24.124362+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/mabel-sa4920-foster-view-to-adopt/",
     "name": "Mabel",
     "breed": "Working cocker spaniel",
@@ -732,16 +720,16 @@
     "first_seen": "2026-05-06T15:39:56.868036+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/jaycob-sa4688/",
-    "name": "Jaycob",
-    "breed": "Foster View to Adopt Springer spaniel",
+    "url": "https://spanielaid.co.uk/spaniel/alba-sa5034/",
+    "name": "Alba",
+    "breed": "Sprocker",
     "age": null,
     "sex": "Male",
-    "location": "Highbridge",
+    "location": "Swindon, England",
     "distance_miles": null,
     "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-05-05T09:31:34.193242+00:00"
+    "reserved": true,
+    "first_seen": "2026-05-05T11:16:26.397278+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/bandit-sa4907/",
@@ -754,6 +742,18 @@
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-05T09:31:34.193242+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/maisie-sa4707/",
+    "name": "Maisie",
+    "breed": "Foster",
+    "age": null,
+    "sex": "Female",
+    "location": "view to Adopt Springer Spaniel, West Ealing",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-05-05T01:54:32.660488+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/ted-sa4537/",
@@ -1536,18 +1536,6 @@
     "first_seen": null
   },
   {
-    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3630161",
-    "name": "Keeper",
-    "breed": "Collie (Border) Cross",
-    "age": "9 years",
-    "sex": "Male",
-    "location": "Dogs Trust Shoreham (Sussex)",
-    "distance_miles": 31.3,
-    "source": "Dogs Trust",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3601055",
     "name": "Meg",
     "breed": "Collie (Border)",
@@ -1632,13 +1620,13 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/ben-sa4687/",
-    "name": "Ben",
-    "breed": "Springer spaniel",
+    "url": "https://spanielaid.co.uk/spaniel/maggie-sa4817-skye-sa4818/",
+    "name": "Maggie",
+    "breed": "& SKYE SA4818 - RESERVED Springer Spaniels",
     "age": null,
-    "sex": "Male",
-    "location": "Stockport, England",
-    "distance_miles": null,
+    "sex": "Female",
+    "location": "Epping, Essex",
+    "distance_miles": 92.2,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": null
