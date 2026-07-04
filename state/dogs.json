@@ -468,6 +468,18 @@
     "first_seen": "2026-06-07T00:02:56.091902+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/harley-sa4667-quinn-sa4666/",
+    "name": "Harley",
+    "breed": "& QUINN SA4666 - RESERVED Springer & Springer Cross",
+    "age": null,
+    "sex": null,
+    "location": "Spaniel Aid foster (UK)",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-06-06T22:02:39.604621+00:00"
+  },
+  {
     "url": "https://dogsnhomes.org.uk/adopt-a-dog/batman/",
     "name": "Batman",
     "breed": "Spaniel",
@@ -514,18 +526,6 @@
     "source": "Helping Hounds",
     "reserved": false,
     "first_seen": "2026-06-01T17:11:13.004437+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/bella-sa5380/",
-    "name": "Bella",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Female",
-    "location": "Mold, CH7, North Wales",
-    "distance_miles": 152.1,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-06-01T13:06:06.811633+00:00"
   },
   {
     "url": "https://www.helpinghoundshampshire.com/dog-information/mavro",
@@ -672,6 +672,18 @@
     "first_seen": "2026-05-18T18:25:53.762971+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/clea-sa4717/",
+    "name": "Clea",
+    "breed": "Springer cross Setter",
+    "age": null,
+    "sex": "Female",
+    "location": "West Lothian - EH53",
+    "distance_miles": 368.4,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-15T21:30:42.932112+00:00"
+  },
+  {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#daisy",
     "name": "Daisy",
     "breed": "Border Collie (rescue specialist)",
@@ -720,6 +732,30 @@
     "first_seen": "2026-05-08T18:47:52.792402+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/toby-sa4979/",
+    "name": "Toby",
+    "breed": "Springer x Clumber x WCS",
+    "age": null,
+    "sex": "Male",
+    "location": "Ipswich, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-07T12:06:24.124362+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/255750/",
+    "name": "Benny",
+    "breed": "Working Cocker",
+    "age": null,
+    "sex": "Male",
+    "location": "Harlow, Essex, England",
+    "distance_miles": 92.2,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-07T07:42:15.018215+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/mabel-sa4920-foster-view-to-adopt/",
     "name": "Mabel",
     "breed": "Working cocker spaniel",
@@ -744,6 +780,18 @@
     "first_seen": "2026-05-06T15:39:56.868036+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/jock-sa4698/",
+    "name": "Jock",
+    "breed": "Sprocker spaniel (springer x cocker)",
+    "age": null,
+    "sex": "Male",
+    "location": "Near",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-06T15:39:56.868036+00:00"
+  },
+  {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#shadow",
     "name": "Shadow",
     "breed": "Border Collie (rescue specialist)",
@@ -754,18 +802,6 @@
     "source": "PPBC",
     "reserved": false,
     "first_seen": "2026-05-05T16:12:19.976424+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/rags-sa5138/",
-    "name": "Rags",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Walmer, Kent, England",
-    "distance_miles": 75.1,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-05T11:06:03.536249+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/jaycob-sa4688/",
@@ -828,30 +864,6 @@
     "first_seen": "2026-04-30T13:02:50.643981+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/charlie-sa4932/",
-    "name": "Charlie",
-    "breed": "Cocker Spaniel (working)",
-    "age": null,
-    "sex": "Male",
-    "location": "Milton Keynes",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-04-30T10:56:07.276835+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/luna-sa4620-long-term-foster/",
-    "name": "Luna",
-    "breed": "Cocker spaniel",
-    "age": null,
-    "sex": "Female",
-    "location": "Birmingham, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-04-30T10:56:07.276835+00:00"
-  },
-  {
     "url": "https://www.secondchanceanimalrescue.co.uk/2026/04/27/lola/",
     "name": "Lola",
     "breed": "Collie/Springer match",
@@ -872,18 +884,6 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/toby-sa5412/",
-    "name": "Toby",
-    "breed": "Sprocker (Springer x Cocker spaniel)",
-    "age": null,
-    "sex": "Male",
-    "location": "Totton, Southampton",
-    "distance_miles": 24.0,
-    "source": "Spaniel Aid",
     "reserved": false,
     "first_seen": null
   },
@@ -1016,90 +1016,6 @@
     "location": "Last Chance Edenbridge",
     "distance_miles": 53.5,
     "source": "Last Chance",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.wiccaweys.co.uk/dog/balou-2/",
-    "name": "Balou",
-    "breed": "Border Collie (rescue specialist)",
-    "age": null,
-    "sex": null,
-    "location": "Wiccaweys (Gillingham, Dorset)",
-    "distance_miles": 59.3,
-    "source": "Wiccaweys",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.wiccaweys.co.uk/dog/bobbi/",
-    "name": "Bobbi",
-    "breed": "Border Collie (rescue specialist)",
-    "age": null,
-    "sex": null,
-    "location": "Wiccaweys (Gillingham, Dorset)",
-    "distance_miles": 59.3,
-    "source": "Wiccaweys",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.wiccaweys.co.uk/dog/buster/",
-    "name": "Buster",
-    "breed": "Border Collie (rescue specialist)",
-    "age": null,
-    "sex": null,
-    "location": "Wiccaweys (Gillingham, Dorset)",
-    "distance_miles": 59.3,
-    "source": "Wiccaweys",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.wiccaweys.co.uk/dog/mollie/",
-    "name": "Mollie",
-    "breed": "Border Collie (rescue specialist)",
-    "age": null,
-    "sex": null,
-    "location": "Wiccaweys (Gillingham, Dorset)",
-    "distance_miles": 59.3,
-    "source": "Wiccaweys",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.wiccaweys.co.uk/dog/tedi-2/",
-    "name": "Tedi",
-    "breed": "Border Collie (rescue specialist)",
-    "age": null,
-    "sex": null,
-    "location": "Wiccaweys (Gillingham, Dorset)",
-    "distance_miles": 59.3,
-    "source": "Wiccaweys",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.wiccaweys.co.uk/dog/tilly/",
-    "name": "Tilly",
-    "breed": "Border Collie (rescue specialist)",
-    "age": null,
-    "sex": null,
-    "location": "Wiccaweys (Gillingham, Dorset)",
-    "distance_miles": 59.3,
-    "source": "Wiccaweys",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.wiccaweys.co.uk/dog/watson/",
-    "name": "Watson",
-    "breed": "Border Collie (rescue specialist)",
-    "age": null,
-    "sex": null,
-    "location": "Wiccaweys (Gillingham, Dorset)",
-    "distance_miles": 59.3,
-    "source": "Wiccaweys",
     "reserved": false,
     "first_seen": null
   },
@@ -1385,18 +1301,6 @@
     "breed": "Cocker Spaniel",
     "age": "5 years",
     "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/2135/",
-    "name": "Truso",
-    "breed": "Collie x Labrador",
-    "age": "11 years",
-    "sex": "Male",
     "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
     "distance_miles": 150.3,
     "source": "Many Tears",
@@ -1736,18 +1640,6 @@
     "location": "SYESSR (Sheffield, South Yorkshire)",
     "distance_miles": 219.6,
     "source": "SYESSR",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.dogsblog.com/reyna-4/",
-    "name": "Reyna",
-    "breed": "Border Collie",
-    "age": "6+ years",
-    "sex": "Female",
-    "location": "Location not tagged",
-    "distance_miles": null,
-    "source": "Dogsblog",
     "reserved": false,
     "first_seen": null
   },
