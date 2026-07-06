@@ -144,6 +144,18 @@
     "first_seen": "2026-06-28T19:06:30.883189+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/winnie-sa5464-elsie-sa5465/",
+    "name": "Winnie",
+    "breed": "& Elsie SA5465 - reserved Springer spaniel cross (unknown",
+    "age": null,
+    "sex": null,
+    "location": "Spaniel Aid foster (UK)",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-06-27T22:34:15.292953+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/rosa-sa5519/",
     "name": "Rosa",
     "breed": "Sprocker (Springer x Cocker spaniel)",
@@ -672,6 +684,18 @@
     "first_seen": "2026-05-18T18:25:53.762971+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/pablo-sa4713/",
+    "name": "Pablo",
+    "breed": "Cocker",
+    "age": null,
+    "sex": "Male",
+    "location": "North Lincolnshire, England",
+    "distance_miles": 158.9,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-15T23:33:54.989574+00:00"
+  },
+  {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#daisy",
     "name": "Daisy",
     "breed": "Border Collie (rescue specialist)",
@@ -790,18 +814,6 @@
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-05T09:31:34.193242+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/maisie-sa4707/",
-    "name": "Maisie",
-    "breed": "Foster",
-    "age": null,
-    "sex": "Female",
-    "location": "view to Adopt Springer Spaniel, West Ealing",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-05-05T01:54:32.660488+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/alf-sa4540/",
@@ -1436,6 +1448,18 @@
     "location": "London, N10",
     "distance_miles": 62.7,
     "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": null
+  },
+  {
+    "url": "https://mikeysdogrescue.co.uk/pages/adopt-a-dog-page-2-of-2",
+    "name": "Ramsey",
+    "breed": "Cocker Spaniel",
+    "age": "4 1/2 Years Old",
+    "sex": "Male",
+    "location": "Mikey's Dog Rescue (Dorset)",
+    "distance_miles": 63.4,
+    "source": "Mikey's Dog Rescue",
     "reserved": true,
     "first_seen": null
   },
