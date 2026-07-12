@@ -288,18 +288,6 @@
     "first_seen": "2026-06-27T12:14:27.892177+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/lucy-sa5515/",
-    "name": "Lucy",
-    "breed": "Sprocker (Springer x Cocker spaniel)",
-    "age": null,
-    "sex": "Female",
-    "location": "Frinton on",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-06-26T22:28:34.797240+00:00"
-  },
-  {
     "url": "https://collierescueroughandsmooth.co.uk/need-adoption/hugo/",
     "name": "Hugo",
     "breed": "Sable & White Rough Collie Dog",
@@ -562,18 +550,6 @@
     "source": "Helping Hounds",
     "reserved": false,
     "first_seen": "2026-06-01T17:11:13.004437+00:00"
-  },
-  {
-    "url": "https://www.helpinghoundshampshire.com/dog-information/mavro",
-    "name": "Mavro",
-    "breed": "Collie/Springer match",
-    "age": null,
-    "sex": null,
-    "location": "Helping Hounds (Grayshott, Surrey/Hants)",
-    "distance_miles": 25.3,
-    "source": "Helping Hounds",
-    "reserved": false,
-    "first_seen": "2026-05-31T12:45:55.805572+00:00"
   },
   {
     "url": "https://www.spanielassist.com/adopt#enzo",
@@ -1807,6 +1783,18 @@
     "sex": "Female",
     "location": "Ashbourne, Derbyshire, England",
     "distance_miles": 161.1,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": null
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/delboy-sa5476/",
+    "name": "Delboy",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Rotherham, South Yorkshire",
+    "distance_miles": 219.6,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": null
