@@ -336,6 +336,18 @@
     "first_seen": "2026-07-01T09:49:45.315281+00:00"
   },
   {
+    "url": "https://www.helpinghoundshampshire.com/dog-information/nessie",
+    "name": "Nessie",
+    "breed": "White/black springer spaniel cross",
+    "age": "7 months",
+    "sex": "Female",
+    "location": "Helping Hounds (Grayshott, Surrey/Hants)",
+    "distance_miles": 25.3,
+    "source": "Helping Hounds",
+    "reserved": false,
+    "first_seen": "2026-06-28T19:06:30.883189+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/chihuahua-long-coat/3644634",
     "name": "Lucy",
     "breed": "Chihuahua (Long Coat) Cross \u00d7 Collie (Border)",
@@ -442,18 +454,6 @@
     "source": "Pro Dogs Direct",
     "reserved": false,
     "first_seen": "2026-06-18T21:27:15.068164+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/fozzie-sa5433/",
-    "name": "Fozzie",
-    "breed": "Sproodle (Springer spaniel x poodle)",
-    "age": null,
-    "sex": null,
-    "location": "Preston",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-06-17T22:03:02.611004+00:00"
   },
   {
     "url": "https://www.syessr.org.uk/items/sonny",
@@ -648,6 +648,18 @@
     "first_seen": "2026-05-25T13:46:54.523711+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/baaj-sa4978/",
+    "name": "Baaj",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Doncaster, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-23T17:42:23.629665+00:00"
+  },
+  {
     "url": "https://www.dogsblog.com/kenny-29/",
     "name": "Kenny",
     "breed": "Springer Spaniel",
@@ -684,18 +696,6 @@
     "first_seen": "2026-05-15T17:11:25.750652+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/archer-sa5074/",
-    "name": "Archer",
-    "breed": "Cocker Cross",
-    "age": null,
-    "sex": "Male",
-    "location": "Epping, Essex",
-    "distance_miles": 92.2,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-15T13:03:33.498134+00:00"
-  },
-  {
     "url": "https://spanielaid.co.uk/spaniel/toby-sa4979/",
     "name": "Toby",
     "breed": "Springer x Clumber x WCS",
@@ -706,18 +706,6 @@
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-07T12:06:24.124362+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/mabel-sa4920-foster-view-to-adopt/",
-    "name": "Mabel",
-    "breed": "Working cocker spaniel",
-    "age": null,
-    "sex": "Female",
-    "location": "New Forest, Hampshire",
-    "distance_miles": 25.2,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-06T15:39:56.868036+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/xena-sa4886/",
@@ -826,6 +814,18 @@
     "source": "Chilterns Dog Rescue",
     "reserved": false,
     "first_seen": "2026-04-30T13:02:50.643981+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/amber-sa5366/",
+    "name": "Amber",
+    "breed": "Springer spaniel",
+    "age": "8 years",
+    "sex": "Female",
+    "location": "Walmer, Kent, England",
+    "distance_miles": 75.1,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-04-30T10:56:07.276835+00:00"
   },
   {
     "url": "https://www.secondchanceanimalrescue.co.uk/2026/04/27/lola/",
@@ -1028,18 +1028,6 @@
     "location": "Wiccaweys (Gillingham, Dorset)",
     "distance_miles": 59.3,
     "source": "Wiccaweys",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://mikeysdogrescue.co.uk/pages/adopt-a-dog",
-    "name": "Freddie",
-    "breed": "KC Registered American Show Cocker",
-    "age": "7 Years Old",
-    "sex": "Male",
-    "location": "Mikey's Dog Rescue (Dorset)",
-    "distance_miles": 63.4,
-    "source": "Mikey's Dog Rescue",
     "reserved": false,
     "first_seen": null
   },
@@ -1452,42 +1440,6 @@
     "first_seen": null
   },
   {
-    "url": "https://mikeysdogrescue.co.uk/pages/adopt-a-dog-page-2-of-2",
-    "name": "Ramsey",
-    "breed": "Cocker Spaniel",
-    "age": "4 1/2 Years Old",
-    "sex": "Male",
-    "location": "Mikey's Dog Rescue (Dorset)",
-    "distance_miles": 63.4,
-    "source": "Mikey's Dog Rescue",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/indi-sa5437/",
-    "name": "Indi",
-    "breed": "English Springer Spaniel",
-    "age": "5 years",
-    "sex": "Female",
-    "location": "Ware, SG12",
-    "distance_miles": 84.3,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/bailey-sa5010/",
-    "name": "Bailey",
-    "breed": "Springer spaniel cross",
-    "age": null,
-    "sex": "Female",
-    "location": "Narberth",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
     "url": "https://spanielaid.co.uk/spaniel/ben-sa4687/",
     "name": "Ben",
     "breed": "Springer spaniel",
@@ -1532,6 +1484,18 @@
     "location": "NWESSR (North West England)",
     "distance_miles": 183.0,
     "source": "NWESSR",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://www.syessr.org.uk/items/boy-puppy-%231",
+    "name": "Boy Puppy 1",
+    "breed": "Springer Spaniel Cross",
+    "age": "8 months",
+    "sex": null,
+    "location": "SYESSR (Sheffield, South Yorkshire)",
+    "distance_miles": 219.6,
+    "source": "SYESSR",
     "reserved": false,
     "first_seen": null
   },
@@ -1586,6 +1550,18 @@
   {
     "url": "https://www.syessr.org.uk/items/leo",
     "name": "Leo",
+    "breed": "Cocker Spaniel",
+    "age": "6y 6m",
+    "sex": "Male",
+    "location": "SYESSR (Sheffield, South Yorkshire)",
+    "distance_miles": 219.6,
+    "source": "SYESSR",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://www.syessr.org.uk/items/milo",
+    "name": "Milo",
     "breed": "Cocker Spaniel",
     "age": "6y 6m",
     "sex": "Male",
