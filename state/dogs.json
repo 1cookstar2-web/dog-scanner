@@ -156,18 +156,6 @@
     "first_seen": "2026-07-15T15:11:22.338166+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/kenzo-sa5545/",
-    "name": "Kenzo",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": null,
-    "location": "Telford TF2, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-07-14T23:14:24.227702+00:00"
-  },
-  {
     "url": "https://teckelsanimalsanctuaries.co.uk/animals/harriet/",
     "name": "Harriet",
     "breed": "Cocker Spaniel",
@@ -828,6 +816,18 @@
     "first_seen": "2026-05-19T10:06:03.945855+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/zuko-sa5167/",
+    "name": "Zuko",
+    "breed": "Sprocker (Springer x Cocker spaniel)",
+    "age": null,
+    "sex": null,
+    "location": "Preston",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-17T14:55:44.519351+00:00"
+  },
+  {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#daisy",
     "name": "Daisy",
     "breed": "Border Collie (rescue specialist)",
@@ -840,16 +840,16 @@
     "first_seen": "2026-05-15T17:11:25.750652+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/archer-sa5074/",
-    "name": "Archer",
-    "breed": "Cocker Cross",
+    "url": "https://spanielaid.co.uk/spaniel/poppy-sa4571/",
+    "name": "Poppy",
+    "breed": "Springer spaniel",
     "age": null,
-    "sex": "Male",
-    "location": "Epping, Essex",
-    "distance_miles": 92.2,
+    "sex": "Female",
+    "location": "Edinburgh, Scotland",
+    "distance_miles": 415.6,
     "source": "Spaniel Aid",
     "reserved": true,
-    "first_seen": "2026-05-15T13:03:33.498134+00:00"
+    "first_seen": "2026-05-08T21:12:56.156544+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/jasper-sa4589/",
@@ -861,6 +861,18 @@
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": false,
+    "first_seen": "2026-05-07T12:06:24.124362+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/toby-sa4979/",
+    "name": "Toby",
+    "breed": "Springer x Clumber x WCS",
+    "age": null,
+    "sex": "Male",
+    "location": "Ipswich, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
     "first_seen": "2026-05-07T12:06:24.124362+00:00"
   },
   {
@@ -883,18 +895,6 @@
     "sex": "Female",
     "location": "Tonbridge, Kent, England",
     "distance_miles": 75.1,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-06T15:39:56.868036+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/rex-sa5082/",
-    "name": "Rex",
-    "breed": "Springer",
-    "age": null,
-    "sex": "Male",
-    "location": "Hull, England",
-    "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-06T15:39:56.868036+00:00"
