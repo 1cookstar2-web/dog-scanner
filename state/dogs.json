@@ -684,18 +684,6 @@
     "first_seen": "2026-05-29T10:13:47.519397+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/baaj-sa4978/",
-    "name": "Baaj",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Doncaster, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-23T17:42:23.629665+00:00"
-  },
-  {
     "url": "https://collierescueroughandsmooth.co.uk/need-adoption/unnamed/",
     "name": "Unnamed",
     "breed": "Sable Rough Collie Bitch No Photo",
@@ -730,6 +718,18 @@
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-15T13:03:33.498134+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/poppy-sa4571/",
+    "name": "Poppy",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Female",
+    "location": "Edinburgh, Scotland",
+    "distance_miles": 415.6,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-08T21:12:56.156544+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/jasper-sa4589/",
