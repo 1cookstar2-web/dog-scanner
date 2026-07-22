@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/chilli",
+    "name": "Chilli",
+    "breed": "Spaniel: Tibetan",
+    "age": "5 Years",
+    "sex": null,
+    "location": "Battersea London",
+    "distance_miles": 60.4,
+    "source": "Battersea",
+    "reserved": false,
+    "first_seen": "2026-07-22T08:42:05.014768+00:00"
+  },
+  {
     "url": "https://alldogsmatter.co.uk/dogs/jasper-4/",
     "name": "Jasper",
     "breed": "Collie Cross",
@@ -166,6 +178,18 @@
     "source": "Many Tears",
     "reserved": false,
     "first_seen": "2026-07-16T23:41:58.482795+00:00"
+  },
+  {
+    "url": "https://www.rspca.org.uk/local/sussex-west-branch/findapet/details/WILFRED_/BSA2150037/rehome",
+    "name": "Wilfred",
+    "breed": "Welsh Border Collie",
+    "age": "5 Years (approx)",
+    "sex": null,
+    "location": "RSPCA Sussex West (Mount Noddy, Chichester)",
+    "distance_miles": 11.1,
+    "source": "RSPCA Sussex West",
+    "reserved": true,
+    "first_seen": "2026-07-15T15:11:22.338166+00:00"
   },
   {
     "url": "https://alldogsmatter.co.uk/dogs/bear/",
@@ -480,6 +504,18 @@
     "first_seen": "2026-06-18T21:27:15.068164+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/fozzie-sa5433/",
+    "name": "Fozzie",
+    "breed": "Sproodle (Springer spaniel x poodle)",
+    "age": null,
+    "sex": null,
+    "location": "Preston",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-06-17T22:03:02.611004+00:00"
+  },
+  {
     "url": "https://www.syessr.org.uk/items/sonny",
     "name": "Sonny",
     "breed": "Collie/Springer match",
@@ -624,18 +660,6 @@
     "first_seen": "2026-05-24T10:04:00.361449+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/baaj-sa4978/",
-    "name": "Baaj",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Doncaster, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-23T17:42:23.629665+00:00"
-  },
-  {
     "url": "https://collierescueroughandsmooth.co.uk/need-adoption/unnamed/",
     "name": "Unnamed",
     "breed": "Sable Rough Collie Bitch No Photo",
@@ -670,6 +694,18 @@
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-15T13:03:33.498134+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/poppy-sa4571/",
+    "name": "Poppy",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Female",
+    "location": "Edinburgh, Scotland",
+    "distance_miles": 415.6,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-08T21:12:56.156544+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/toby-sa4979/",
@@ -720,16 +756,16 @@
     "first_seen": "2026-05-06T15:39:56.868036+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/256218/",
-    "name": "Milo",
-    "breed": "New Forest - RESERVED Springer Spaniel",
+    "url": "https://spanielaid.co.uk/spaniel/rex-sa5082/",
+    "name": "Rex",
+    "breed": "Springer",
     "age": null,
     "sex": "Male",
-    "location": "New Forest",
+    "location": "Hull, England",
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
-    "first_seen": "2026-05-06T01:15:23.335704+00:00"
+    "first_seen": "2026-05-06T15:39:56.868036+00:00"
   },
   {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#shadow",
@@ -836,6 +872,18 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
+    "name": "Floki",
+    "breed": "Collie/Springer match (Romanian rescue)",
+    "age": null,
+    "sex": null,
+    "location": "RRAUK (Hampshire / Bordon fosters)",
+    "distance_miles": 23.4,
+    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
