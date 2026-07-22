@@ -300,18 +300,6 @@
     "first_seen": "2026-07-15T15:11:22.338166+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/kenzo-sa5545/",
-    "name": "Kenzo",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": null,
-    "location": "Telford TF2, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-07-14T23:14:24.227702+00:00"
-  },
-  {
     "url": "https://teckelsanimalsanctuaries.co.uk/animals/harriet/",
     "name": "Harriet",
     "breed": "Cocker Spaniel",
@@ -430,18 +418,6 @@
     "source": "Spaniel Rescue Foundation",
     "reserved": false,
     "first_seen": "2026-07-09T21:52:01.989009+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/croc-sa5571/",
-    "name": "Croc",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Portknockie in Moray, AB56, Scotland",
-    "distance_miles": 415.6,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-07-08T20:48:44.987911+00:00"
   },
   {
     "url": "https://www.englishspringerrescue.co.uk/murphy-6/",
@@ -792,6 +768,30 @@
     "first_seen": "2026-05-29T10:13:47.519397+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/rusty-sa4559/",
+    "name": "Rusty",
+    "breed": "Show Cocker",
+    "age": null,
+    "sex": null,
+    "location": "New Forest, Hampshire, England",
+    "distance_miles": 25.2,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-24T10:04:00.361449+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/baaj-sa4978/",
+    "name": "Baaj",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Doncaster, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-23T17:42:23.629665+00:00"
+  },
+  {
     "url": "https://collierescueroughandsmooth.co.uk/need-adoption/unnamed/",
     "name": "Unnamed",
     "breed": "Sable Rough Collie Bitch No Photo",
@@ -871,18 +871,6 @@
     "sex": "Female",
     "location": "Tonbridge, Kent, England",
     "distance_miles": 75.1,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-06T15:39:56.868036+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/rex-sa5082/",
-    "name": "Rex",
-    "breed": "Springer",
-    "age": null,
-    "sex": "Male",
-    "location": "Hull, England",
-    "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-06T15:39:56.868036+00:00"
@@ -1591,6 +1579,18 @@
     "sex": "Female",
     "location": "Ware, SG12",
     "distance_miles": 84.3,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": null
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/oreo-sa4694/",
+    "name": "Oreo",
+    "breed": "Springer Spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Pembroke Dock, Wales",
+    "distance_miles": 152.1,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": null
