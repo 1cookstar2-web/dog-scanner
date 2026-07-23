@@ -324,18 +324,6 @@
     "first_seen": "2026-07-15T15:11:22.338166+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/kenzo-sa5545/",
-    "name": "Kenzo",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": null,
-    "location": "Telford, Shropshire, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-07-14T23:14:24.227702+00:00"
-  },
-  {
     "url": "https://teckelsanimalsanctuaries.co.uk/animals/harriet/",
     "name": "Harriet",
     "breed": "Cocker Spaniel",
@@ -840,6 +828,18 @@
     "first_seen": "2026-05-23T20:29:59.469110+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/baaj-sa4978/",
+    "name": "Baaj",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Doncaster, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-23T17:42:23.629665+00:00"
+  },
+  {
     "url": "https://collierescueroughandsmooth.co.uk/need-adoption/unnamed/",
     "name": "Unnamed",
     "breed": "Sable Rough Collie Bitch No Photo",
@@ -862,6 +862,18 @@
     "source": "PPBC",
     "reserved": false,
     "first_seen": "2026-05-15T17:11:25.750652+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/jasper-sa4608/",
+    "name": "Jasper",
+    "breed": "Springer",
+    "age": null,
+    "sex": "Male",
+    "location": "Bexhill on Sea, East Sussex, England",
+    "distance_miles": 56.3,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-15T13:03:33.498134+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/archer-sa5074/",
