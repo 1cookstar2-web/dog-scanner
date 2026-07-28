@@ -1,5 +1,29 @@
 [
   {
+    "url": "https://www.englishspringerrescue.co.uk/lottie/",
+    "name": "Lottie",
+    "breed": "English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "NWESSR (North West England)",
+    "distance_miles": 183.0,
+    "source": "NWESSR",
+    "reserved": false,
+    "first_seen": "2026-07-27T21:34:27.537000+00:00"
+  },
+  {
+    "url": "https://www.englishspringerrescue.co.uk/sirius-2/",
+    "name": "Sirius",
+    "breed": "English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "NWESSR (North West England)",
+    "distance_miles": 183.0,
+    "source": "NWESSR",
+    "reserved": false,
+    "first_seen": "2026-07-27T21:34:27.537000+00:00"
+  },
+  {
     "url": "https://www.dogsblog.com/glen-17/",
     "name": "Glen",
     "breed": "Collie Cross",
@@ -408,6 +432,30 @@
     "first_seen": "2026-07-13T13:33:44.312990+00:00"
   },
   {
+    "url": "https://www.englishspringerrescue.co.uk/bella-4/",
+    "name": "Bella",
+    "breed": "English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "NWESSR (North West England)",
+    "distance_miles": 183.0,
+    "source": "NWESSR",
+    "reserved": false,
+    "first_seen": "2026-07-12T14:12:35.025419+00:00"
+  },
+  {
+    "url": "https://www.englishspringerrescue.co.uk/emily/",
+    "name": "Emily",
+    "breed": "English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "NWESSR (North West England)",
+    "distance_miles": 183.0,
+    "source": "NWESSR",
+    "reserved": false,
+    "first_seen": "2026-07-11T01:12:14.843799+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/5958/",
     "name": "Berry",
     "breed": "Cocker Spaniel",
@@ -418,6 +466,30 @@
     "source": "Many Tears",
     "reserved": false,
     "first_seen": "2026-07-10T23:41:45.046632+00:00"
+  },
+  {
+    "url": "https://www.englishspringerrescue.co.uk/bear/",
+    "name": "Bear",
+    "breed": "English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "NWESSR (North West England)",
+    "distance_miles": 183.0,
+    "source": "NWESSR",
+    "reserved": false,
+    "first_seen": "2026-07-10T17:46:32.191843+00:00"
+  },
+  {
+    "url": "https://www.englishspringerrescue.co.uk/mylo/",
+    "name": "Mylo",
+    "breed": "English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "NWESSR (North West England)",
+    "distance_miles": 183.0,
+    "source": "NWESSR",
+    "reserved": false,
+    "first_seen": "2026-07-10T17:46:32.191843+00:00"
   },
   {
     "url": "https://www.spanielrescuefoundation.org/srf156",
@@ -442,6 +514,30 @@
     "source": "Spaniel Aid",
     "reserved": false,
     "first_seen": "2026-07-08T20:48:44.987911+00:00"
+  },
+  {
+    "url": "https://www.englishspringerrescue.co.uk/murphy-6/",
+    "name": "Murphy",
+    "breed": "English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "NWESSR (North West England)",
+    "distance_miles": 183.0,
+    "source": "NWESSR",
+    "reserved": false,
+    "first_seen": "2026-07-08T03:40:54.418121+00:00"
+  },
+  {
+    "url": "https://www.englishspringerrescue.co.uk/sam/",
+    "name": "Sam",
+    "breed": "English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "NWESSR (North West England)",
+    "distance_miles": 183.0,
+    "source": "NWESSR",
+    "reserved": false,
+    "first_seen": "2026-07-08T03:40:54.418121+00:00"
   },
   {
     "url": "https://www.manytearsrescue.org/adopt/dogs/5956/",
@@ -660,6 +756,18 @@
     "first_seen": "2026-06-17T11:24:30.626286+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/dude-sa5061/",
+    "name": "Dude",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": null,
+    "location": "North Devon",
+    "distance_miles": 120.6,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-06-10T19:23:30.042048+00:00"
+  },
+  {
     "url": "https://www.dogsblog.com/margot-17/",
     "name": "Margot",
     "breed": "Collie Cross",
@@ -670,6 +778,18 @@
     "source": "Dogsblog",
     "reserved": false,
     "first_seen": "2026-06-09T10:17:29.124426+00:00"
+  },
+  {
+    "url": "https://www.englishspringerrescue.co.uk/millie-4/",
+    "name": "Millie",
+    "breed": "English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "NWESSR (North West England)",
+    "distance_miles": 183.0,
+    "source": "NWESSR",
+    "reserved": false,
+    "first_seen": "2026-06-08T12:16:41.903704+00:00"
   },
   {
     "url": "https://www.dogsblog.com/lilly-109/",
@@ -706,18 +826,6 @@
     "source": "FurBuddies",
     "reserved": false,
     "first_seen": "2026-06-05T15:30:05.439958+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/chester-sa4782/",
-    "name": "Chester",
-    "breed": "Sprocker spaniel",
-    "age": null,
-    "sex": null,
-    "location": "Vale of Glamorgan, South",
-    "distance_miles": 114.2,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-06-03T05:52:00.138745+00:00"
   },
   {
     "url": "https://www.manytearsrescue.org/adopt/dogs/5881/",
@@ -766,6 +874,18 @@
     "source": "Wadars",
     "reserved": false,
     "first_seen": "2026-05-29T10:13:47.519397+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/rusty-sa4559/",
+    "name": "Rusty",
+    "breed": "Show Cocker",
+    "age": null,
+    "sex": null,
+    "location": "New Forest, Hampshire, England",
+    "distance_miles": 25.2,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-24T10:04:00.361449+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/baaj-sa4978/",
@@ -826,18 +946,6 @@
     "source": "Many Tears",
     "reserved": false,
     "first_seen": "2026-05-08T15:52:18.510575+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/jasper-sa4589/",
-    "name": "Jasper",
-    "breed": "Springer Spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Wakefield, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-05-07T12:06:24.124362+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/255750/",
@@ -1512,13 +1620,13 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/indi-sa5437/",
-    "name": "Indi",
-    "breed": "English Springer Spaniel",
-    "age": "5 years",
-    "sex": "Female",
-    "location": "Ware, SG12",
-    "distance_miles": 84.3,
+    "url": "https://spanielaid.co.uk/spaniel/ben-sa4687/",
+    "name": "Ben",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Stockport, England",
+    "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": null
@@ -1544,6 +1652,18 @@
     "location": "Wethersfield, Essex CM7 4EP",
     "distance_miles": 92.2,
     "source": "AgilityNet",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://www.englishspringerrescue.co.uk/charlie-9/",
+    "name": "Charlie",
+    "breed": "English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "NWESSR (North West England)",
+    "distance_miles": 183.0,
+    "source": "NWESSR",
     "reserved": false,
     "first_seen": null
   },
@@ -1701,18 +1821,6 @@
     "distance_miles": null,
     "source": "Dogsblog",
     "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/mila-sa4409-2/",
-    "name": "Mila",
-    "breed": "Honorary spaniel",
-    "age": null,
-    "sex": "Female",
-    "location": "Ashbourne, Derbyshire, England",
-    "distance_miles": 161.1,
-    "source": "Spaniel Aid",
-    "reserved": true,
     "first_seen": null
   }
 ]
