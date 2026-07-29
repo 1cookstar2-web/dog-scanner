@@ -36,18 +36,6 @@
     "first_seen": "2026-07-29T09:45:49.601523+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/ellie-sa4958/",
-    "name": "Ellie",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Female",
-    "location": "Mid Cornwall, England",
-    "distance_miles": 167.3,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-07-29T09:45:49.601523+00:00"
-  },
-  {
     "url": "https://www.syessr.org.uk/items/toffee",
     "name": "Toffee",
     "breed": "Collie/Springer match",
@@ -68,7 +56,7 @@
     "location": "Battersea London",
     "distance_miles": 60.4,
     "source": "Battersea",
-    "reserved": false,
+    "reserved": true,
     "first_seen": "2026-07-28T16:18:41.309149+00:00"
   },
   {
@@ -202,18 +190,6 @@
     "source": "Pro Dogs Direct",
     "reserved": false,
     "first_seen": "2026-07-24T12:43:56.782157+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/brandy-sa5527-lucille-sa5528/",
-    "name": "Brandy",
-    "breed": "& Lucille SA5528 - reserved Sprockers (Springer x Cocker",
-    "age": null,
-    "sex": null,
-    "location": "Spaniel Aid foster (UK)",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-07-24T00:33:26.629568+00:00"
   },
   {
     "url": "https://www.margaretgreenanimalrescue.org.uk/dog/56198/",
@@ -394,18 +370,6 @@
     "source": "CAESSR",
     "reserved": false,
     "first_seen": "2026-07-18T16:35:39.557186+00:00"
-  },
-  {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/5976/",
-    "name": "Dolly",
-    "breed": "Cocker Spaniel",
-    "age": "6 years",
-    "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-07-17T10:55:18.773762+00:00"
   },
   {
     "url": "https://www.manytearsrescue.org/adopt/dogs/5972/",
@@ -840,6 +804,18 @@
     "first_seen": "2026-06-05T15:30:05.439958+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/chester-sa4782/",
+    "name": "Chester",
+    "breed": "Sprocker spaniel",
+    "age": null,
+    "sex": null,
+    "location": "Vale of Glamorgan, South",
+    "distance_miles": 114.2,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-06-03T05:52:00.138745+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/5881/",
     "name": "Daisy",
     "breed": "Cocker Spaniel",
@@ -948,18 +924,6 @@
     "first_seen": "2026-05-15T17:11:25.750652+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/archer-sa5074/",
-    "name": "Archer",
-    "breed": "Cocker Cross",
-    "age": null,
-    "sex": "Male",
-    "location": "Epping, Essex",
-    "distance_miles": 92.2,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-15T13:03:33.498134+00:00"
-  },
-  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/5792/",
     "name": "Alfie",
     "breed": "Cocker Spaniel",
@@ -1042,6 +1006,18 @@
     "source": "PPBC",
     "reserved": false,
     "first_seen": "2026-05-05T16:12:19.976424+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/rags-sa5138/",
+    "name": "Rags",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Walmer, Kent, England",
+    "distance_miles": 75.1,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-05T11:06:03.536249+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/jaycob-sa4688/",
@@ -1620,6 +1596,18 @@
     "first_seen": null
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/charlie-sa4938/",
+    "name": "Charlie",
+    "breed": "English Springer Spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "London, N10",
+    "distance_miles": 62.7,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": null
+  },
+  {
     "url": "https://mikeysdogrescue.co.uk/pages/adopt-a-dog-page-2-of-2",
     "name": "Ramsey",
     "breed": "Cocker Spaniel",
@@ -1628,6 +1616,18 @@
     "location": "Mikey's Dog Rescue (Dorset)",
     "distance_miles": 63.4,
     "source": "Mikey's Dog Rescue",
+    "reserved": true,
+    "first_seen": null
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/indi-sa5437/",
+    "name": "Indi",
+    "breed": "English Springer Spaniel",
+    "age": "5 years",
+    "sex": "Female",
+    "location": "Ware, SG12",
+    "distance_miles": 84.3,
+    "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": null
   },
