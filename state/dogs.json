@@ -48,6 +48,18 @@
     "first_seen": "2026-07-29T13:09:20.758721+00:00"
   },
   {
+    "url": "https://www.margaretgreenanimalrescue.org.uk/dog/56402/",
+    "name": "Barnie",
+    "breed": "Cocker Spaniel",
+    "age": "6 years",
+    "sex": "Male",
+    "location": "Margaret Green (Wareham, Dorset)",
+    "distance_miles": 49.7,
+    "source": "Margaret Green",
+    "reserved": false,
+    "first_seen": "2026-07-29T11:36:24.441585+00:00"
+  },
+  {
     "url": "https://woodgreen.org.uk/pets/jeremy-cocker-spaniel-dog/",
     "name": "Jeremy",
     "breed": "cocker spaniel",
@@ -202,6 +214,18 @@
     "source": "Pro Dogs Direct",
     "reserved": false,
     "first_seen": "2026-07-24T12:43:56.782157+00:00"
+  },
+  {
+    "url": "https://www.margaretgreenanimalrescue.org.uk/dog/56198/",
+    "name": "Lottie",
+    "breed": "Springer Spaniel Cross",
+    "age": "0 years",
+    "sex": "Female",
+    "location": "Margaret Green (Wareham, Dorset)",
+    "distance_miles": 49.7,
+    "source": "Margaret Green",
+    "reserved": true,
+    "first_seen": "2026-07-23T14:27:19.782768+00:00"
   },
   {
     "url": "https://prodogsdirect.org.uk/mora-working-cocker-spaniel/",
@@ -744,6 +768,18 @@
     "first_seen": "2026-06-18T15:07:58.641498+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/dude-sa5061/",
+    "name": "Dude",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": null,
+    "location": "North Devon",
+    "distance_miles": 120.6,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-06-10T19:23:30.042048+00:00"
+  },
+  {
     "url": "https://www.dogsblog.com/margot-17/",
     "name": "Margot",
     "breed": "Collie Cross",
@@ -864,6 +900,18 @@
     "first_seen": "2026-05-29T10:13:47.519397+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/rusty-sa4559/",
+    "name": "Rusty",
+    "breed": "Show Cocker",
+    "age": null,
+    "sex": null,
+    "location": "New Forest, Hampshire, England",
+    "distance_miles": 25.2,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-24T10:04:00.361449+00:00"
+  },
+  {
     "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#urgentfinn",
     "name": "Urgentfinn",
     "breed": "Cocker / English Springer Spaniel",
@@ -936,13 +984,13 @@
     "first_seen": "2026-05-07T14:47:24.393565+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/buddy-sa5045/",
-    "name": "Buddy",
-    "breed": "Springer spaniel",
-    "age": "3 years",
-    "sex": "Male",
-    "location": "Stoke-on-Trent, England",
-    "distance_miles": 161.7,
+    "url": "https://spanielaid.co.uk/spaniel/toby-sa4979/",
+    "name": "Toby",
+    "breed": "Springer x Clumber x WCS",
+    "age": null,
+    "sex": null,
+    "location": "Ipswich, England",
+    "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-07T12:06:24.124362+00:00"
@@ -958,18 +1006,6 @@
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-07T07:42:15.018215+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/mabel-sa4920-foster-view-to-adopt/",
-    "name": "Mabel",
-    "breed": "Working cocker spaniel",
-    "age": null,
-    "sex": "Female",
-    "location": "New Forest, Hampshire",
-    "distance_miles": 25.2,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-06T15:39:56.868036+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/xena-sa4886/",
@@ -1078,18 +1114,6 @@
     "source": "Chilterns Dog Rescue",
     "reserved": false,
     "first_seen": "2026-04-30T13:02:50.643981+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/amber-sa5366/",
-    "name": "Amber",
-    "breed": "Springer spaniel",
-    "age": "8 years",
-    "sex": "Female",
-    "location": "Walmer, Kent, England",
-    "distance_miles": 75.1,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-04-30T10:56:07.276835+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/charlie-sa4932/",
