@@ -648,6 +648,18 @@
     "first_seen": "2026-05-24T10:04:00.361449+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/baaj-sa4978/",
+    "name": "Baaj",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": null,
+    "location": "Doncaster, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-23T17:42:23.629665+00:00"
+  },
+  {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#daisy",
     "name": "Daisy",
     "breed": "Border Collie (rescue specialist)",
@@ -766,18 +778,6 @@
     "source": "PPBC",
     "reserved": false,
     "first_seen": "2026-05-05T16:12:19.976424+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/rags-sa5138/",
-    "name": "Rags",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Walmer, Kent, England",
-    "distance_miles": 75.1,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-05T11:06:03.536249+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/jaycob-sa4688/",
