@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://furbuddies.org/king",
+    "name": "King",
+    "breed": "Cocker Spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "FurBuddies (Hordle, New Forest)",
+    "distance_miles": 28.0,
+    "source": "FurBuddies",
+    "reserved": false,
+    "first_seen": "2026-08-13T19:43:29.906794+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3631475",
     "name": "Cody",
     "breed": "Collie (Border)",
@@ -720,6 +732,18 @@
     "first_seen": "2026-06-23T10:17:42.156465+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/oscar-sa4581/",
+    "name": "Oscar",
+    "breed": "Cocker spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Darlington, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-06-20T17:53:49.471351+00:00"
+  },
+  {
     "url": "https://thebordercolliespot.com/dogs-needing-homes/#buddy",
     "name": "Buddy",
     "breed": "Border Collie (rescue specialist)",
@@ -972,6 +996,18 @@
     "first_seen": "2026-05-05T09:31:34.193242+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/wagger-sa4840/",
+    "name": "Wagger",
+    "breed": "Cocker spaniel",
+    "age": null,
+    "sex": null,
+    "location": "Birmingham, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-05T09:31:34.193242+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/bandit-sa4907/",
     "name": "Bandit",
     "breed": "Sprocker",
@@ -1052,6 +1088,18 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
+    "name": "Floki",
+    "breed": "Collie/Springer match (Romanian rescue)",
+    "age": null,
+    "sex": null,
+    "location": "RRAUK (Hampshire / Bordon fosters)",
+    "distance_miles": 23.4,
+    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
@@ -1519,18 +1567,6 @@
     "sex": "Female",
     "location": "Ware, SG12",
     "distance_miles": 84.3,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/percy-sa5099/",
-    "name": "Percy",
-    "breed": "- Spaniel Aid CIO",
-    "age": null,
-    "sex": "Male",
-    "location": "Spaniel Aid foster (UK)",
-    "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": null
