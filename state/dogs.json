@@ -744,6 +744,18 @@
     "first_seen": "2026-06-19T12:54:31.413738+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/dude-sa5061/",
+    "name": "Dude",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": null,
+    "location": "North Devon",
+    "distance_miles": 120.6,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-06-10T19:23:30.042048+00:00"
+  },
+  {
     "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#smudge",
     "name": "Smudge",
     "breed": "Cocker / English Springer Spaniel",
@@ -840,6 +852,18 @@
     "first_seen": "2026-05-19T10:06:03.945855+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/pablo-sa4713/",
+    "name": "Pablo",
+    "breed": "Cocker",
+    "age": null,
+    "sex": "Male",
+    "location": "North Lincolnshire, England",
+    "distance_miles": 158.9,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-15T23:33:54.989574+00:00"
+  },
+  {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#daisy",
     "name": "Daisy",
     "breed": "Border Collie (rescue specialist)",
@@ -885,18 +909,6 @@
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": false,
-    "first_seen": "2026-05-07T12:06:24.124362+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/buddy-sa5045/",
-    "name": "Buddy",
-    "breed": "Springer spaniel",
-    "age": "3 years",
-    "sex": "Male",
-    "location": "Stoke-on-Trent, England",
-    "distance_miles": 161.7,
-    "source": "Spaniel Aid",
-    "reserved": true,
     "first_seen": "2026-05-07T12:06:24.124362+00:00"
   },
   {
@@ -1005,18 +1017,6 @@
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": false,
-    "first_seen": "2026-05-05T01:54:32.660488+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/ted-sa4537/",
-    "name": "Ted",
-    "breed": "Working cocker spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Bradford, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
     "first_seen": "2026-05-05T01:54:32.660488+00:00"
   },
   {
