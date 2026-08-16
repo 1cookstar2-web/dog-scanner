@@ -636,18 +636,6 @@
     "first_seen": "2026-07-01T18:28:52.952814+00:00"
   },
   {
-    "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#lottie",
-    "name": "Lottie",
-    "breed": "Border Collie (rescue specialist)",
-    "age": "5 years",
-    "sex": null,
-    "location": "PPBC (Ammanford, Wales; UK-wide fosters)",
-    "distance_miles": 147.3,
-    "source": "PPBC",
-    "reserved": false,
-    "first_seen": "2026-07-01T09:49:45.315281+00:00"
-  },
-  {
     "url": "https://collierescueroughandsmooth.co.uk/need-adoption/hugo/",
     "name": "Hugo",
     "breed": "Sable & White Rough Collie Dog",
@@ -756,18 +744,6 @@
     "first_seen": "2026-06-03T14:35:18.289362+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/chester-sa4782/",
-    "name": "Chester",
-    "breed": "Sprocker spaniel",
-    "age": null,
-    "sex": null,
-    "location": "Vale of Glamorgan, South",
-    "distance_miles": 114.2,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-06-03T05:52:00.138745+00:00"
-  },
-  {
     "url": "https://www.spanielassist.com/adopt#enzo",
     "name": "Enzo",
     "breed": "Cocker Spaniel / Working Cocker",
@@ -792,6 +768,18 @@
     "first_seen": "2026-05-29T10:13:47.519397+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/rusty-sa4559/",
+    "name": "Rusty",
+    "breed": "Show Cocker",
+    "age": null,
+    "sex": null,
+    "location": "New Forest, Hampshire, England",
+    "distance_miles": 25.2,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-24T10:04:00.361449+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/baaj-sa4978/",
     "name": "Baaj",
     "breed": "Springer spaniel",
@@ -814,18 +802,6 @@
     "source": "Collie Rescue R&S",
     "reserved": true,
     "first_seen": "2026-05-19T10:06:03.945855+00:00"
-  },
-  {
-    "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#daisy",
-    "name": "Daisy",
-    "breed": "Border Collie (rescue specialist)",
-    "age": "2 years",
-    "sex": null,
-    "location": "PPBC (Ammanford, Wales; UK-wide fosters)",
-    "distance_miles": 147.3,
-    "source": "PPBC",
-    "reserved": false,
-    "first_seen": "2026-05-15T17:11:25.750652+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/archer-sa5074/",
@@ -876,6 +852,30 @@
     "first_seen": "2026-05-07T12:06:24.124362+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/buddy-sa5045/",
+    "name": "Buddy",
+    "breed": "Springer spaniel",
+    "age": "3 years",
+    "sex": "Male",
+    "location": "Stoke-on-Trent, England",
+    "distance_miles": 161.7,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-07T12:06:24.124362+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/255750/",
+    "name": "Benny",
+    "breed": "Working Cocker",
+    "age": null,
+    "sex": "Male",
+    "location": "Harlow, Essex, England",
+    "distance_miles": 92.2,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-07T07:42:15.018215+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/mabel-sa4920-foster-view-to-adopt/",
     "name": "Mabel",
     "breed": "Working cocker spaniel",
@@ -910,18 +910,6 @@
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-06T01:15:23.335704+00:00"
-  },
-  {
-    "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#shadow",
-    "name": "Shadow",
-    "breed": "Border Collie (rescue specialist)",
-    "age": "15 months",
-    "sex": null,
-    "location": "PPBC (Ammanford, Wales; UK-wide fosters)",
-    "distance_miles": 147.3,
-    "source": "PPBC",
-    "reserved": false,
-    "first_seen": "2026-05-05T16:12:19.976424+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/rags-sa5138/",
@@ -982,30 +970,6 @@
     "source": "Chilterns Dog Rescue",
     "reserved": false,
     "first_seen": "2026-04-30T13:02:50.643981+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/charlie-sa4932/",
-    "name": "Charlie",
-    "breed": "Cocker Spaniel (working)",
-    "age": null,
-    "sex": "Male",
-    "location": "Milton Keynes",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-04-30T10:56:07.276835+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/luna-sa4620-long-term-foster/",
-    "name": "Luna",
-    "breed": "Cocker spaniel",
-    "age": null,
-    "sex": "Female",
-    "location": "Birmingham, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-04-30T10:56:07.276835+00:00"
   },
   {
     "url": "https://www.secondchanceanimalrescue.co.uk/2026/04/27/lola/",
@@ -1140,18 +1104,6 @@
     "first_seen": null
   },
   {
-    "url": "https://www.saveourspaniels.org.uk/dogs-needing-homes",
-    "name": "Triana",
-    "breed": "Breton / Spaniel mix",
-    "age": "6",
-    "sex": null,
-    "location": "Save Our Spaniels (Peterborough, Cambridgeshire; UK-wide fosters)",
-    "distance_miles": 107.1,
-    "source": "Save Our Spaniels",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
     "url": "https://www.spanielassist.com/adopt#arlo",
     "name": "Arlo",
     "breed": "Cocker Spaniel / Working Cocker",
@@ -1208,42 +1160,6 @@
     "location": "ESSW foster (Dartmoor)",
     "distance_miles": 129.4,
     "source": "ESSW",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#buddy",
-    "name": "Buddy",
-    "breed": "Border Collie (rescue specialist)",
-    "age": "2 years",
-    "sex": null,
-    "location": "PPBC (Ammanford, Wales; UK-wide fosters)",
-    "distance_miles": 147.3,
-    "source": "PPBC",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#nia",
-    "name": "Nia",
-    "breed": "Border Collie (rescue specialist)",
-    "age": "8 months",
-    "sex": null,
-    "location": "PPBC (Ammanford, Wales; UK-wide fosters)",
-    "distance_miles": 147.3,
-    "source": "PPBC",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#seth",
-    "name": "SETH",
-    "breed": "Border Collie (rescue specialist)",
-    "age": "2 years",
-    "sex": null,
-    "location": "PPBC (Ammanford, Wales; UK-wide fosters)",
-    "distance_miles": 147.3,
-    "source": "PPBC",
     "reserved": false,
     "first_seen": null
   },
