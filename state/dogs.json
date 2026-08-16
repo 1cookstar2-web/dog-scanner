@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://woodgreen.org.uk/pets/max-border-collie-x-lurcher-dog/",
+    "name": "Max",
+    "breed": "border collie x lurcher Max",
+    "age": "7 years",
+    "sex": "Male",
+    "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
+    "distance_miles": 110.5,
+    "source": "Woodgreen Pets Charity",
+    "reserved": false,
+    "first_seen": "2026-08-16T10:56:06.088545+00:00"
+  },
+  {
     "url": "https://ukspanielrescue.co.uk/our-dogs-2/#bryn",
     "name": "Bryn",
     "breed": "Working Cocker Spaniel",
@@ -336,6 +348,18 @@
     "first_seen": "2026-08-06T12:17:53.465165+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/lemon-sa4389-ltf/",
+    "name": "Lemon",
+    "breed": "Cocker spaniel",
+    "age": "13 years",
+    "sex": "Female",
+    "location": "Camberley, Surrey, England",
+    "distance_miles": 40.5,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-08-03T14:46:39.830268+00:00"
+  },
+  {
     "url": "https://prodogsdirect.org.uk/autumn-working-cocker-spaniel/",
     "name": "Autumn",
     "breed": "Cocker Spaniel",
@@ -600,18 +624,6 @@
     "first_seen": "2026-07-14T11:53:20.071857+00:00"
   },
   {
-    "url": "https://woodgreen.org.uk/pets/figgy-crossbreed-dog/",
-    "name": "Figgy",
-    "breed": "Border Collie",
-    "age": "1 year",
-    "sex": "Female",
-    "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
-    "distance_miles": 110.5,
-    "source": "Woodgreen Pets Charity",
-    "reserved": false,
-    "first_seen": "2026-07-13T16:05:21.463052+00:00"
-  },
-  {
     "url": "https://ukspanielrescue.co.uk/our-dogs-2/#caramel",
     "name": "Caramel",
     "breed": "Cocker Spaniel",
@@ -706,18 +718,6 @@
     "source": "NWESSR",
     "reserved": false,
     "first_seen": "2026-07-08T03:40:54.418121+00:00"
-  },
-  {
-    "url": "https://woodgreen.org.uk/pets/max-collie-border-x-lurcher-dog/",
-    "name": "Max",
-    "breed": "collie",
-    "age": "7 years",
-    "sex": "Male",
-    "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
-    "distance_miles": 110.5,
-    "source": "Woodgreen Pets Charity",
-    "reserved": false,
-    "first_seen": "2026-07-03T08:29:34.862716+00:00"
   },
   {
     "url": "https://www.spanielrescuefoundation.org/srf162",
@@ -948,16 +948,16 @@
     "first_seen": "2026-05-15T17:11:25.750652+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/poppy-sa4571/",
-    "name": "Poppy",
-    "breed": "Springer spaniel",
+    "url": "https://spanielaid.co.uk/spaniel/archer-sa5074/",
+    "name": "Archer",
+    "breed": "Cocker Cross",
     "age": null,
-    "sex": "Female",
-    "location": "Edinburgh, Scotland",
-    "distance_miles": 415.6,
+    "sex": "Male",
+    "location": "Epping, Essex",
+    "distance_miles": 92.2,
     "source": "Spaniel Aid",
     "reserved": true,
-    "first_seen": "2026-05-08T21:12:56.156544+00:00"
+    "first_seen": "2026-05-15T13:03:33.498134+00:00"
   },
   {
     "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/winnie",
@@ -981,6 +981,18 @@
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": false,
+    "first_seen": "2026-05-07T12:06:24.124362+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/buddy-sa5045/",
+    "name": "Buddy",
+    "breed": "Springer spaniel",
+    "age": "3 years",
+    "sex": "Male",
+    "location": "Stoke-on-Trent, England",
+    "distance_miles": 161.7,
+    "source": "Spaniel Aid",
+    "reserved": true,
     "first_seen": "2026-05-07T12:06:24.124362+00:00"
   },
   {
@@ -1020,18 +1032,6 @@
     "first_seen": "2026-05-06T15:39:56.868036+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/rex-sa5082/",
-    "name": "Rex",
-    "breed": "Springer",
-    "age": null,
-    "sex": "Male",
-    "location": "Hull, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-06T15:39:56.868036+00:00"
-  },
-  {
     "url": "https://spanielaid.co.uk/spaniel/256218/",
     "name": "Milo",
     "breed": "New Forest - RESERVED Springer Spaniel",
@@ -1056,18 +1056,6 @@
     "first_seen": "2026-05-05T16:12:19.976424+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/rags-sa5138/",
-    "name": "Rags",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Walmer, Kent, England",
-    "distance_miles": 75.1,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-05T11:06:03.536249+00:00"
-  },
-  {
     "url": "https://spanielaid.co.uk/spaniel/jaycob-sa4688/",
     "name": "Jaycob",
     "breed": "Foster View to Adopt Springer spaniel",
@@ -1090,6 +1078,18 @@
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-05T09:31:34.193242+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/maisie-sa4707/",
+    "name": "Maisie",
+    "breed": "Foster",
+    "age": null,
+    "sex": "Female",
+    "location": "view to Adopt Springer Spaniel, West Ealing",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-05-05T01:54:32.660488+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/alf-sa4540/",
@@ -1126,18 +1126,6 @@
     "source": "Chilterns Dog Rescue",
     "reserved": false,
     "first_seen": "2026-04-30T13:02:50.643981+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/charlie-sa4932/",
-    "name": "Charlie",
-    "breed": "Cocker Spaniel (working)",
-    "age": null,
-    "sex": "Male",
-    "location": "Milton Keynes",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-04-30T10:56:07.276835+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/luna-sa4620-long-term-foster/",
@@ -1821,6 +1809,18 @@
     "distance_miles": null,
     "source": "Dogsblog",
     "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/milo-sa4481/",
+    "name": "Milo",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Edinburgh, Scotland",
+    "distance_miles": 415.6,
+    "source": "Spaniel Aid",
+    "reserved": true,
     "first_seen": null
   }
 ]
