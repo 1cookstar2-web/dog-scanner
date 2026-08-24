@@ -24,30 +24,6 @@
     "first_seen": "2026-08-24T14:56:13.144914+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/lewi-sa5584/",
-    "name": "Lewi",
-    "breed": "Working cocker spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Uttoxeter, Staffordshire, England",
-    "distance_miles": 151.9,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-08-24T14:56:13.144914+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/doris-sa5611/",
-    "name": "Doris",
-    "breed": "Cocker Spaniel (show type)",
-    "age": null,
-    "sex": "Female",
-    "location": "Cheshire, England",
-    "distance_miles": 177.9,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-08-24T14:56:13.144914+00:00"
-  },
-  {
     "url": "https://heathlands.org.uk/dog.php?id=874",
     "name": "Todd",
     "breed": "Border Collie",
@@ -82,6 +58,18 @@
     "source": "RSPCA Sussex West",
     "reserved": true,
     "first_seen": "2026-08-23T11:40:54.796365+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/dave-sa5169/",
+    "name": "Dave",
+    "breed": "- Spaniel Aid CIO",
+    "age": null,
+    "sex": "Male",
+    "location": "Spaniel Aid foster (UK)",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-08-22T15:20:52.726340+00:00"
   },
   {
     "url": "https://dogsnhomes.org.uk/adopt-a-dog/flash/",
@@ -900,6 +888,18 @@
     "first_seen": "2026-05-23T17:42:23.629665+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/monty-sa4391/",
+    "name": "Monty",
+    "breed": "Cockerpoo",
+    "age": null,
+    "sex": "Male",
+    "location": "Dorset, England",
+    "distance_miles": 60.2,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-22T14:13:06.800406+00:00"
+  },
+  {
     "url": "https://collierescueroughandsmooth.co.uk/need-adoption/unnamed/",
     "name": "Unnamed",
     "breed": "Sable Rough Collie Bitch No Photo",
@@ -960,6 +960,18 @@
     "first_seen": "2026-05-07T12:06:24.124362+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/buddy-sa5045/",
+    "name": "Buddy",
+    "breed": "Springer spaniel",
+    "age": "3 years",
+    "sex": "Male",
+    "location": "Stoke-on-Trent, England",
+    "distance_miles": 161.7,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-07T12:06:24.124362+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/255750/",
     "name": "Benny",
     "breed": "Working Cocker",
@@ -996,16 +1008,16 @@
     "first_seen": "2026-05-06T15:39:56.868036+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/odin-sa5051/",
-    "name": "Odin",
-    "breed": "Springer Spaniel",
+    "url": "https://spanielaid.co.uk/spaniel/256218/",
+    "name": "Milo",
+    "breed": "New Forest - RESERVED Springer Spaniel",
     "age": null,
     "sex": "Male",
-    "location": "Cambuslang, Glasgow, Scotland",
-    "distance_miles": 415.6,
+    "location": "New Forest",
+    "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
-    "first_seen": "2026-05-05T17:54:47.051648+00:00"
+    "first_seen": "2026-05-06T01:15:23.335704+00:00"
   },
   {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#shadow",
@@ -1018,6 +1030,18 @@
     "source": "PPBC",
     "reserved": false,
     "first_seen": "2026-05-05T16:12:19.976424+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/rags-sa5138/",
+    "name": "Rags",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Walmer, Kent, England",
+    "distance_miles": 75.1,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-05T11:06:03.536249+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/jaycob-sa4688/",
@@ -1044,13 +1068,13 @@
     "first_seen": "2026-05-05T01:54:32.660488+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/peggy-sa4458/",
-    "name": "Peggy",
-    "breed": "Springer spaniel",
+    "url": "https://spanielaid.co.uk/spaniel/ted-sa4537/",
+    "name": "Ted",
+    "breed": "Working cocker spaniel",
     "age": null,
-    "sex": "Female",
-    "location": "Newport Pagnell, Bucks",
-    "distance_miles": 102.9,
+    "sex": "Male",
+    "location": "Bradford, England",
+    "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-05T01:54:32.660488+00:00"
@@ -1392,18 +1416,6 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/loki-sa5213/",
-    "name": "Loki",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Colwyn bay, Wales",
-    "distance_miles": 152.1,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
     "url": "https://www.dogsblog.com/bilbo-29/",
     "name": "Bilbo",
     "breed": "Spaniel Cross",
@@ -1572,12 +1584,24 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/ben-sa4687/",
-    "name": "Ben",
-    "breed": "Springer spaniel",
+    "url": "https://spanielaid.co.uk/spaniel/indi-sa5437/",
+    "name": "Indi",
+    "breed": "English Springer Spaniel",
+    "age": "5 years",
+    "sex": "Female",
+    "location": "Ware, SG12",
+    "distance_miles": 84.3,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": null
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/alf-sa4541/",
+    "name": "Alf",
+    "breed": "Working cocker spaniel",
     "age": null,
     "sex": "Male",
-    "location": "Stockport, England",
+    "location": "Aylesbury, Bucks, England",
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
