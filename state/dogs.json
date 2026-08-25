@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://spanielaid.co.uk/spaniel/pippa-sa5595/",
-    "name": "Pippa",
-    "breed": "Sprocker (Springer x Cocker spaniel)",
-    "age": null,
-    "sex": "Female",
-    "location": "Lymington, Hampshire",
-    "distance_miles": 25.2,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-08-24T19:56:09.116141+00:00"
-  },
-  {
     "url": "https://www.rspcasolentbranch.org.uk/coco-2/",
     "name": "Coco",
     "breed": "Cocker Spaniel",
@@ -214,18 +202,6 @@
     "source": "Many Tears",
     "reserved": false,
     "first_seen": "2026-08-13T15:35:30.999990+00:00"
-  },
-  {
-    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3657012",
-    "name": "Nyx",
-    "breed": "Collie (Border)",
-    "age": "8 months",
-    "sex": "Male",
-    "location": "Dogs Trust Shoreham (Sussex)",
-    "distance_miles": 31.3,
-    "source": "Dogs Trust",
-    "reserved": true,
-    "first_seen": "2026-08-13T13:25:24.073258+00:00"
   },
   {
     "url": "https://www.spanielassist.com/adopt#jess",
@@ -756,18 +732,6 @@
     "first_seen": "2026-06-26T20:09:42.603663+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/henry-sa4940/",
-    "name": "Henry",
-    "breed": "Show cocker spaniel",
-    "age": null,
-    "sex": null,
-    "location": "Darlington, County Durham",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-06-22T17:14:17.689681+00:00"
-  },
-  {
     "url": "https://thebordercolliespot.com/dogs-needing-homes/#buddy",
     "name": "Buddy",
     "breed": "Border Collie (rescue specialist)",
@@ -900,18 +864,6 @@
     "first_seen": "2026-05-19T10:06:03.945855+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/pablo-sa4713/",
-    "name": "Pablo",
-    "breed": "Cocker",
-    "age": null,
-    "sex": "Male",
-    "location": "North Lincolnshire, England",
-    "distance_miles": 158.9,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-15T23:33:54.989574+00:00"
-  },
-  {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#daisy",
     "name": "Daisy",
     "breed": "Border Collie (rescue specialist)",
@@ -960,6 +912,18 @@
     "first_seen": "2026-05-07T12:06:24.124362+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/buddy-sa5045/",
+    "name": "Buddy",
+    "breed": "Springer spaniel",
+    "age": "3 years",
+    "sex": "Male",
+    "location": "Stoke-on-Trent, England",
+    "distance_miles": 161.7,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-07T12:06:24.124362+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/255750/",
     "name": "Benny",
     "breed": "Working Cocker",
@@ -996,6 +960,18 @@
     "first_seen": "2026-05-06T15:39:56.868036+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/rex-sa5082/",
+    "name": "Rex",
+    "breed": "Springer",
+    "age": null,
+    "sex": "Male",
+    "location": "Hull, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-06T15:39:56.868036+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/256218/",
     "name": "Milo",
     "breed": "New Forest - RESERVED Springer Spaniel",
@@ -1020,6 +996,30 @@
     "first_seen": "2026-05-05T16:12:19.976424+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/rags-sa5138/",
+    "name": "Rags",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Walmer, Kent, England",
+    "distance_miles": 75.1,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-05T11:06:03.536249+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/jaycob-sa4688/",
+    "name": "Jaycob",
+    "breed": "Foster View to Adopt Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Highbridge",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-05-05T09:31:34.193242+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/bandit-sa4907/",
     "name": "Bandit",
     "breed": "Sprocker",
@@ -1030,18 +1030,6 @@
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-05T09:31:34.193242+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/peggy-sa4458/",
-    "name": "Peggy",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Female",
-    "location": "Newport Pagnell, Bucks",
-    "distance_miles": 102.9,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-05T01:54:32.660488+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/ted-sa4537/",
@@ -1086,6 +1074,18 @@
     "age": null,
     "sex": "Male",
     "location": "Milton Keynes",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-04-30T10:56:07.276835+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/luna-sa4620-long-term-foster/",
+    "name": "Luna",
+    "breed": "Cocker spaniel",
+    "age": null,
+    "sex": "Female",
+    "location": "Birmingham, England",
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
@@ -1584,10 +1584,10 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/teddy-sa5381/",
-    "name": "Teddy",
-    "breed": "Cavalier King Charles x Springer spaniel",
-    "age": "2 years",
+    "url": "https://spanielaid.co.uk/spaniel/percy-sa5099/",
+    "name": "Percy",
+    "breed": "- Spaniel Aid CIO",
+    "age": null,
     "sex": "Male",
     "location": "Spaniel Aid foster (UK)",
     "distance_miles": null,
@@ -1737,18 +1737,6 @@
     "distance_miles": null,
     "source": "Dogsblog",
     "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/milo-sa4481/",
-    "name": "Milo",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Edinburgh, Scotland",
-    "distance_miles": 415.6,
-    "source": "Spaniel Aid",
-    "reserved": true,
     "first_seen": null
   }
 ]
