@@ -12,18 +12,6 @@
     "first_seen": "2026-08-24T14:56:13.144914+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/lewi-sa5584/",
-    "name": "Lewi",
-    "breed": "Working cocker spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Uttoxeter, Staffordshire, England",
-    "distance_miles": 151.9,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-08-24T14:56:13.144914+00:00"
-  },
-  {
     "url": "https://heathlands.org.uk/dog.php?id=874",
     "name": "Todd",
     "breed": "Border Collie",
@@ -756,6 +744,18 @@
     "first_seen": "2026-06-26T20:09:42.603663+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/fred-sa4729-foster-view-to-adopt/",
+    "name": "Fred",
+    "breed": "Sprocker",
+    "age": null,
+    "sex": "Male",
+    "location": "Basingstoke, Hampshire, England",
+    "distance_miles": 25.2,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-06-20T15:36:34.541207+00:00"
+  },
+  {
     "url": "https://thebordercolliespot.com/dogs-needing-homes/#buddy",
     "name": "Buddy",
     "breed": "Border Collie (rescue specialist)",
@@ -876,18 +876,6 @@
     "first_seen": "2026-05-23T17:42:23.629665+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/monty-sa4391/",
-    "name": "Monty",
-    "breed": "Cockerpoo",
-    "age": null,
-    "sex": "Male",
-    "location": "Dorset, England",
-    "distance_miles": 60.2,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-22T14:13:06.800406+00:00"
-  },
-  {
     "url": "https://collierescueroughandsmooth.co.uk/need-adoption/unnamed/",
     "name": "Unnamed",
     "breed": "Sable Rough Collie Bitch No Photo",
@@ -957,6 +945,18 @@
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": false,
+    "first_seen": "2026-05-07T12:06:24.124362+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/buddy-sa5045/",
+    "name": "Buddy",
+    "breed": "Springer spaniel",
+    "age": "3 years",
+    "sex": "Male",
+    "location": "Stoke-on-Trent, England",
+    "distance_miles": 161.7,
+    "source": "Spaniel Aid",
+    "reserved": true,
     "first_seen": "2026-05-07T12:06:24.124362+00:00"
   },
   {
@@ -1124,6 +1124,18 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
+    "name": "Floki",
+    "breed": "Collie/Springer match (Romanian rescue)",
+    "age": null,
+    "sex": null,
+    "location": "RRAUK (Hampshire / Bordon fosters)",
+    "distance_miles": 23.4,
+    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
@@ -1404,18 +1416,6 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/loki-sa5213/",
-    "name": "Loki",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Colwyn bay, Wales",
-    "distance_miles": 152.1,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
     "url": "https://www.dogsblog.com/bilbo-29/",
     "name": "Bilbo",
     "breed": "Spaniel Cross",
@@ -1608,6 +1608,18 @@
     "first_seen": null
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/teddy-sa5381/",
+    "name": "Teddy",
+    "breed": "Cavalier King Charles x Springer spaniel",
+    "age": "2 years",
+    "sex": "Male",
+    "location": "Spaniel Aid foster (UK)",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": null
+  },
+  {
     "url": "https://www.englishspringerrescue.co.uk/charlie-9/",
     "name": "Charlie",
     "breed": "English Springer Spaniel",
@@ -1749,18 +1761,6 @@
     "distance_miles": null,
     "source": "Dogsblog",
     "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/april-sa5002/",
-    "name": "April",
-    "breed": "Springer Spaniel",
-    "age": null,
-    "sex": null,
-    "location": "Hull, Yorkshire, England",
-    "distance_miles": 219.6,
-    "source": "Spaniel Aid",
-    "reserved": true,
     "first_seen": null
   }
 ]
