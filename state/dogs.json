@@ -12,18 +12,6 @@
     "first_seen": "2026-08-29T10:46:58.319799+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/poppy-sa4628/",
-    "name": "Poppy",
-    "breed": "FOSTER VIEW TO ADOPT - RESERVED",
-    "age": null,
-    "sex": null,
-    "location": "Spaniel Aid foster (UK)",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-08-29T10:46:58.319799+00:00"
-  },
-  {
     "url": "https://www.pawprints2freedom.co.uk/post/astor-1-year-old-female",
     "name": "Astor",
     "breed": "collie type who will turn heads wher",
@@ -34,6 +22,18 @@
     "source": "Pawprints to Freedom",
     "reserved": false,
     "first_seen": "2026-08-29T03:55:17.479573+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/knuckles-sa5564/",
+    "name": "Knuckles",
+    "breed": "while we review the current applications",
+    "age": null,
+    "sex": "Male",
+    "location": "Spaniel Aid foster (UK)",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-08-28T12:43:13.823067+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/zero-sa5469/",
