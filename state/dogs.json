@@ -132,6 +132,18 @@
     "first_seen": "2026-08-30T13:00:28.705553+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/bodie-sa5613/",
+    "name": "Bodie",
+    "breed": "Working cocker spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Gloucester, GL4, England",
+    "distance_miles": 92.1,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-08-29T03:55:17.479573+00:00"
+  },
+  {
     "url": "https://www.pawprints2freedom.co.uk/post/astor-1-year-old-female",
     "name": "Astor",
     "breed": "collie type who will turn heads wher",
@@ -924,6 +936,18 @@
     "first_seen": "2026-05-06T15:39:56.868036+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/rags-sa5138/",
+    "name": "Rags",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Walmer, Kent, England",
+    "distance_miles": 75.1,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-05T11:06:03.536249+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/jaycob-sa4688/",
     "name": "Jaycob",
     "breed": "Foster View to Adopt Springer spaniel",
@@ -1471,18 +1495,6 @@
     "sex": "Female",
     "location": "Ware, SG12",
     "distance_miles": 84.3,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/oreo-sa4694/",
-    "name": "Oreo",
-    "breed": "Springer Spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Pembroke Dock, Wales",
-    "distance_miles": 152.1,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": null
