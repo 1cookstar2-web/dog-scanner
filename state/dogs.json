@@ -12,16 +12,16 @@
     "first_seen": "2026-09-03T13:32:07.642671+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/kiaro-sa5649/",
-    "name": "Kiaro",
-    "breed": "English springer spaniel",
-    "age": null,
+    "url": "https://wadars.co.uk/wadars_dogs/lincoln-coming-soon/",
+    "name": "Lincoln",
+    "breed": "Cocker Spaniel X Pug Male",
+    "age": "6 months",
     "sex": "Male",
-    "location": "Woodnesborough, Kent, England",
-    "distance_miles": 75.1,
-    "source": "Spaniel Aid",
+    "location": "Wadars (Worthing, West Sussex)",
+    "distance_miles": 23.8,
+    "source": "Wadars",
     "reserved": false,
-    "first_seen": "2026-09-02T17:12:26.761556+00:00"
+    "first_seen": "2026-09-02T13:17:31.586376+00:00"
   },
   {
     "url": "https://www.lastchanceanimalrescue.co.uk/kennel/dog.php#Rosie",
@@ -190,6 +190,30 @@
     "source": "Battersea",
     "reserved": false,
     "first_seen": "2026-08-23T14:52:02.675567+00:00"
+  },
+  {
+    "url": "https://www.rspca.org.uk/local/sussex-west-branch/findapet/details/PIPPIN_/BSA2148709/rehome",
+    "name": "Pippin",
+    "breed": "Collie (Smooth coat)",
+    "age": "6-12 Months",
+    "sex": null,
+    "location": "RSPCA Sussex West (Mount Noddy, Chichester)",
+    "distance_miles": 11.1,
+    "source": "RSPCA Sussex West",
+    "reserved": true,
+    "first_seen": "2026-08-23T11:40:54.796365+00:00"
+  },
+  {
+    "url": "https://dogsnhomes.org.uk/adopt-a-dog/flash/",
+    "name": "Flash",
+    "breed": "Spaniel",
+    "age": "4 months",
+    "sex": "Male",
+    "location": "Dogs N Homes (Fleet, Hampshire)",
+    "distance_miles": 35.0,
+    "source": "Dogs N Homes",
+    "reserved": false,
+    "first_seen": "2026-08-21T08:52:03.278255+00:00"
   },
   {
     "url": "https://www.pets4homes.co.uk/classifieds/prsr4vh7d-from-a-very-nervous-stray-to-a-wonderful-young-dog-stroud/",
@@ -408,6 +432,18 @@
     "first_seen": "2026-08-10T16:07:42.945334+00:00"
   },
   {
+    "url": "https://dogsnhomes.org.uk/adopt-a-dog/flora/",
+    "name": "Flora",
+    "breed": "Spaniel",
+    "age": "4 months",
+    "sex": "Male",
+    "location": "Dogs N Homes (Fleet, Hampshire)",
+    "distance_miles": 35.0,
+    "source": "Dogs N Homes",
+    "reserved": false,
+    "first_seen": "2026-08-08T20:12:43.096364+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6033/",
     "name": "Eve",
     "breed": "Cocker Spaniel",
@@ -430,6 +466,18 @@
     "source": "Many Tears",
     "reserved": false,
     "first_seen": "2026-08-07T08:41:40.384989+00:00"
+  },
+  {
+    "url": "https://dogsnhomes.org.uk/adopt-a-dog/fran/",
+    "name": "Fran",
+    "breed": "Spaniel",
+    "age": "4 months",
+    "sex": "Male",
+    "location": "Dogs N Homes (Fleet, Hampshire)",
+    "distance_miles": 35.0,
+    "source": "Dogs N Homes",
+    "reserved": false,
+    "first_seen": "2026-08-07T00:14:16.724042+00:00"
   },
   {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6043/",
@@ -456,6 +504,18 @@
     "first_seen": "2026-08-03T06:30:40.082184+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/zac-sa4647-2/",
+    "name": "Zac",
+    "breed": "Sprocker (Springer x Cocker spaniel)",
+    "age": null,
+    "sex": "Male",
+    "location": "Winchester",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-08-02T02:38:51.228995+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3644070",
     "name": "Shelly",
     "breed": "Collie (Border)",
@@ -466,6 +526,18 @@
     "source": "Dogs Trust",
     "reserved": true,
     "first_seen": "2026-07-31T12:49:48.693692+00:00"
+  },
+  {
+    "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#luna",
+    "name": "Luna",
+    "breed": "Cocker / English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "CAESSR (UK-wide fosters)",
+    "distance_miles": null,
+    "source": "CAESSR",
+    "reserved": false,
+    "first_seen": "2026-07-29T17:48:28.577201+00:00"
   },
   {
     "url": "https://www.syessr.org.uk/items/toffee",
@@ -504,6 +576,18 @@
     "first_seen": "2026-07-22T12:07:12.673552+00:00"
   },
   {
+    "url": "https://www.rspca.org.uk/local/sussex-west-branch/findapet/details/WILFRED_/BSA2150037/rehome",
+    "name": "Wilfred",
+    "breed": "Welsh Border Collie",
+    "age": "5 Years (approx)",
+    "sex": null,
+    "location": "RSPCA Sussex West (Mount Noddy, Chichester)",
+    "distance_miles": 11.1,
+    "source": "RSPCA Sussex West",
+    "reserved": true,
+    "first_seen": "2026-07-15T15:11:22.338166+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/5958/",
     "name": "Berry",
     "breed": "Cocker Spaniel",
@@ -528,6 +612,42 @@
     "first_seen": "2026-07-01T18:28:52.952814+00:00"
   },
   {
+    "url": "https://collierescueroughandsmooth.co.uk/need-adoption/hugo/",
+    "name": "Hugo",
+    "breed": "Sable & White Rough Collie Dog",
+    "age": "3 years",
+    "sex": "Male",
+    "location": "Collie Rescue R&S (Sheffield HQ; UK-wide home-check/fosters)",
+    "distance_miles": 180.8,
+    "source": "Collie Rescue R&S",
+    "reserved": true,
+    "first_seen": "2026-06-26T20:09:42.603663+00:00"
+  },
+  {
+    "url": "https://collierescueroughandsmooth.co.uk/need-adoption/molly/",
+    "name": "Molly",
+    "breed": "Sable & White Rough Collie Bitch",
+    "age": "11 years",
+    "sex": "Female",
+    "location": "Collie Rescue R&S (Sheffield HQ; UK-wide home-check/fosters)",
+    "distance_miles": 180.8,
+    "source": "Collie Rescue R&S",
+    "reserved": true,
+    "first_seen": "2026-06-26T20:09:42.603663+00:00"
+  },
+  {
+    "url": "https://thebordercolliespot.com/dogs-needing-homes/#buddy",
+    "name": "Buddy",
+    "breed": "Border Collie (rescue specialist)",
+    "age": null,
+    "sex": null,
+    "location": "Border Collie Spot (Binfield, Berkshire)",
+    "distance_miles": 45.8,
+    "source": "Border Collie Spot",
+    "reserved": false,
+    "first_seen": "2026-06-20T13:15:27.066923+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/5934/",
     "name": "Whispy",
     "breed": "Cocker Spaniel",
@@ -538,6 +658,18 @@
     "source": "Many Tears",
     "reserved": false,
     "first_seen": "2026-06-19T12:54:31.413738+00:00"
+  },
+  {
+    "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#smudge",
+    "name": "Smudge",
+    "breed": "Cocker / English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "CAESSR (UK-wide fosters)",
+    "distance_miles": null,
+    "source": "CAESSR",
+    "reserved": false,
+    "first_seen": "2026-06-07T00:02:56.091902+00:00"
   },
   {
     "url": "https://furbuddies.org/remy",
@@ -564,16 +696,28 @@
     "first_seen": "2026-05-29T14:51:56.260925+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/macca-sa4751-foster-view-to-adopt/",
-    "name": "Macca",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": null,
-    "location": "Stockport, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
+    "url": "https://wadars.co.uk/wadars_dogs/zack-available/",
+    "name": "Zack \u2013 found a home",
+    "breed": "Cocker Spaniel X Pug Male",
+    "age": "2 years",
+    "sex": "Male",
+    "location": "Wadars (Worthing, West Sussex)",
+    "distance_miles": 23.8,
+    "source": "Wadars",
+    "reserved": false,
+    "first_seen": "2026-05-29T10:13:47.519397+00:00"
+  },
+  {
+    "url": "https://collierescueroughandsmooth.co.uk/need-adoption/unnamed/",
+    "name": "Unnamed",
+    "breed": "Sable Rough Collie Bitch No Photo",
+    "age": "4 years",
+    "sex": "Female",
+    "location": "Collie Rescue R&S (Sheffield HQ; UK-wide home-check/fosters)",
+    "distance_miles": 180.8,
+    "source": "Collie Rescue R&S",
     "reserved": true,
-    "first_seen": "2026-05-19T21:44:35.863091+00:00"
+    "first_seen": "2026-05-19T10:06:03.945855+00:00"
   },
   {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#daisy",
@@ -586,6 +730,18 @@
     "source": "PPBC",
     "reserved": false,
     "first_seen": "2026-05-15T17:11:25.750652+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/jasper-sa4608/",
+    "name": "Jasper",
+    "breed": "Springer",
+    "age": null,
+    "sex": "Male",
+    "location": "Bexhill on Sea, East Sussex, England",
+    "distance_miles": 56.3,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-15T13:03:33.498134+00:00"
   },
   {
     "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/winnie",
@@ -708,18 +864,6 @@
     "first_seen": "2026-05-05T01:54:32.660488+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/ted-sa4537/",
-    "name": "Ted",
-    "breed": "Working cocker spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Bradford, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-05T01:54:32.660488+00:00"
-  },
-  {
     "url": "https://spanielaid.co.uk/spaniel/alf-sa4540/",
     "name": "Alf",
     "breed": "Cocker spaniel",
@@ -788,6 +932,18 @@
     "location": "Dogs Trust Salisbury (Wiltshire)",
     "distance_miles": 40.5,
     "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://www.epsomcaninerescue.org.uk/dogs-for-homing/#reggie",
+    "name": "Reggie",
+    "breed": "Collie Cross Lurcher",
+    "age": "4y 8m",
+    "sex": "Male",
+    "location": "Epsom Canine (Epsom, Surrey)",
+    "distance_miles": 48.9,
+    "source": "Epsom Canine",
     "reserved": false,
     "first_seen": null
   },
@@ -896,6 +1052,30 @@
     "location": "Spaniel Assist (UK-wide fosters)",
     "distance_miles": 107.1,
     "source": "Spaniel Assist",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://essw.co.uk/#milo",
+    "name": "Milo",
+    "breed": "English Springer Spaniel (rescue specialist)",
+    "age": null,
+    "sex": null,
+    "location": "ESSW foster (Devon)",
+    "distance_miles": 120.6,
+    "source": "ESSW",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://essw.co.uk/#parker",
+    "name": "Parker",
+    "breed": "English Springer Spaniel (rescue specialist)",
+    "age": null,
+    "sex": null,
+    "location": "ESSW foster (Dartmoor)",
+    "distance_miles": 129.4,
+    "source": "ESSW",
     "reserved": false,
     "first_seen": null
   },
@@ -1028,6 +1208,114 @@
     "location": "Colwyn bay, Wales",
     "distance_miles": 152.1,
     "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://essw.co.uk/#aimee",
+    "name": "Aimee",
+    "breed": "English Springer Spaniel (rescue specialist)",
+    "age": null,
+    "sex": null,
+    "location": "ESSW (UK-wide fosters; enquire for closest)",
+    "distance_miles": null,
+    "source": "ESSW",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://essw.co.uk/#barnaby",
+    "name": "Barnaby",
+    "breed": "English Springer Spaniel (rescue specialist)",
+    "age": null,
+    "sex": null,
+    "location": "ESSW (UK-wide fosters; enquire for closest)",
+    "distance_miles": null,
+    "source": "ESSW",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://essw.co.uk/#elsie",
+    "name": "Elsie",
+    "breed": "English Springer Spaniel (rescue specialist)",
+    "age": null,
+    "sex": null,
+    "location": "ESSW (UK-wide fosters; enquire for closest)",
+    "distance_miles": null,
+    "source": "ESSW",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://essw.co.uk/#heidi",
+    "name": "Heidi",
+    "breed": "English Springer Spaniel (rescue specialist)",
+    "age": null,
+    "sex": null,
+    "location": "ESSW (UK-wide fosters; enquire for closest)",
+    "distance_miles": null,
+    "source": "ESSW",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://essw.co.uk/#lanie",
+    "name": "Lanie",
+    "breed": "English Springer Spaniel (rescue specialist)",
+    "age": null,
+    "sex": null,
+    "location": "ESSW (UK-wide fosters; enquire for closest)",
+    "distance_miles": null,
+    "source": "ESSW",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://essw.co.uk/#momo",
+    "name": "Momo",
+    "breed": "English Springer Spaniel (rescue specialist)",
+    "age": null,
+    "sex": null,
+    "location": "ESSW (UK-wide fosters; enquire for closest)",
+    "distance_miles": null,
+    "source": "ESSW",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://essw.co.uk/#nipper",
+    "name": "Nipper",
+    "breed": "English Springer Spaniel (rescue specialist)",
+    "age": null,
+    "sex": null,
+    "location": "ESSW (UK-wide fosters; enquire for closest)",
+    "distance_miles": null,
+    "source": "ESSW",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://essw.co.uk/#pixie",
+    "name": "Pixie",
+    "breed": "English Springer Spaniel (rescue specialist)",
+    "age": null,
+    "sex": null,
+    "location": "ESSW (UK-wide fosters; enquire for closest)",
+    "distance_miles": null,
+    "source": "ESSW",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://essw.co.uk/#skye",
+    "name": "Skye",
+    "breed": "English Springer Spaniel (rescue specialist)",
+    "age": null,
+    "sex": null,
+    "location": "ESSW (UK-wide fosters; enquire for closest)",
+    "distance_miles": null,
+    "source": "ESSW",
     "reserved": false,
     "first_seen": null
   },
@@ -1176,12 +1464,12 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/delboy-sa5476/",
-    "name": "Delboy",
-    "breed": "Springer spaniel",
+    "url": "https://spanielaid.co.uk/spaniel/april-sa5002/",
+    "name": "April",
+    "breed": "Springer Spaniel",
     "age": null,
-    "sex": "Male",
-    "location": "Rotherham, South Yorkshire",
+    "sex": null,
+    "location": "Hull, Yorkshire, England",
     "distance_miles": 219.6,
     "source": "Spaniel Aid",
     "reserved": true,
