@@ -192,18 +192,6 @@
     "first_seen": "2026-08-30T13:00:28.705553+00:00"
   },
   {
-    "url": "https://www.pawprints2freedom.co.uk/post/astor-1-year-old-female",
-    "name": "Astor",
-    "breed": "collie type who will turn heads wher",
-    "age": "1 years",
-    "sex": "Female",
-    "location": "Pawprints to Freedom (UK-wide fosters)",
-    "distance_miles": 107.1,
-    "source": "Pawprints to Freedom",
-    "reserved": false,
-    "first_seen": "2026-08-29T03:55:17.479573+00:00"
-  },
-  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/spaniel-english-springer/3663231",
     "name": "Gabi",
     "breed": "Spaniel (English Springer)",
@@ -528,6 +516,18 @@
     "first_seen": "2026-07-29T17:48:28.577201+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/ellie-sa4958/",
+    "name": "Ellie",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Female",
+    "location": "Mid Cornwall, England",
+    "distance_miles": 167.3,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-07-29T09:45:49.601523+00:00"
+  },
+  {
     "url": "https://www.syessr.org.uk/items/toffee",
     "name": "Toffee",
     "breed": "Collie/Springer match",
@@ -804,18 +804,6 @@
     "first_seen": "2026-05-29T10:13:47.519397+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/macca-sa4751-foster-view-to-adopt/",
-    "name": "Macca",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": null,
-    "location": "Stockport, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-19T21:44:35.863091+00:00"
-  },
-  {
     "url": "https://collierescueroughandsmooth.co.uk/need-adoption/unnamed/",
     "name": "Unnamed",
     "breed": "Sable Rough Collie Bitch No Photo",
@@ -843,7 +831,7 @@
     "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/winnie",
     "name": "Winnie",
     "breed": "Spaniel: Cocker",
-    "age": "6 Years",
+    "age": "6 Years\n  \n      ,     1 Month",
     "sex": null,
     "location": "Battersea Old Windsor",
     "distance_miles": 50.8,
@@ -861,18 +849,6 @@
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": false,
-    "first_seen": "2026-05-07T12:06:24.124362+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/toby-sa4979/",
-    "name": "Toby",
-    "breed": "Springer x Clumber x WCS",
-    "age": null,
-    "sex": "Male",
-    "location": "Ipswich, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
     "first_seen": "2026-05-07T12:06:24.124362+00:00"
   },
   {
@@ -924,6 +900,18 @@
     "first_seen": "2026-05-06T11:31:59.834635+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/odin-sa5051/",
+    "name": "Odin",
+    "breed": "Springer Spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Cambuslang, Glasgow, Scotland",
+    "distance_miles": 415.6,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-05T17:54:47.051648+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/rags-sa5138/",
     "name": "Rags",
     "breed": "Springer spaniel",
@@ -958,18 +946,6 @@
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-05T09:31:34.193242+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/maisie-sa4707/",
-    "name": "Maisie",
-    "breed": "Foster",
-    "age": null,
-    "sex": "Female",
-    "location": "view to Adopt Springer Spaniel, West Ealing",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-05-05T01:54:32.660488+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/ted-sa4537/",
@@ -1476,6 +1452,30 @@
     "first_seen": null
   },
   {
+    "url": "https://www.foalfarm.org.uk/dogs/kylo/",
+    "name": "Kylo",
+    "breed": "Border Collie",
+    "age": "4 Years",
+    "sex": "Male",
+    "location": "Foal Farm (Biggin Hill, Kent)",
+    "distance_miles": 57.6,
+    "source": "Foal Farm",
+    "reserved": true,
+    "first_seen": null
+  },
+  {
+    "url": "https://www.foalfarm.org.uk/dogs/oscar/",
+    "name": "Oscar",
+    "breed": "Staffordshire Bull Terrier Cross (body: Staffie/Collie mix)",
+    "age": "1 Year",
+    "sex": "Male",
+    "location": "Foal Farm (Biggin Hill, Kent)",
+    "distance_miles": 57.6,
+    "source": "Foal Farm",
+    "reserved": true,
+    "first_seen": null
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/charlie-sa4938/",
     "name": "Charlie",
     "breed": "English Springer Spaniel",
@@ -1507,6 +1507,18 @@
     "sex": "Female",
     "location": "Ware, SG12",
     "distance_miles": 84.3,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": null
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/reggie-sa4534/",
+    "name": "Reggie",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "High Peak, England",
+    "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": null
