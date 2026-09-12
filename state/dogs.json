@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.spanielrescuefoundation.org/srf185",
+    "name": "Ozzy",
+    "breed": "Sprocker",
+    "age": null,
+    "sex": null,
+    "location": "Spaniel Rescue Foundation (Middle Rasen, Lincs; UK-wide fosters)",
+    "distance_miles": 182.8,
+    "source": "Spaniel Rescue Foundation",
+    "reserved": false,
+    "first_seen": "2026-09-11T17:19:33.820620+00:00"
+  },
+  {
     "url": "https://www.rspcasolentbranch.org.uk/daisy/",
     "name": "Daisy",
     "breed": "Collie",
@@ -144,18 +156,6 @@
     "first_seen": "2026-09-01T12:47:24.560355+00:00"
   },
   {
-    "url": "https://www.pawprints2freedom.co.uk/post/freckles-1-year-old-male",
-    "name": "Freckles",
-    "breed": "collie-type boy who absolutely adore",
-    "age": "1 years",
-    "sex": "Male",
-    "location": "Pawprints to Freedom (UK-wide fosters)",
-    "distance_miles": 107.1,
-    "source": "Pawprints to Freedom",
-    "reserved": false,
-    "first_seen": "2026-09-01T12:47:24.560355+00:00"
-  },
-  {
     "url": "https://agilitynet.co.uk/activepages/rescues.asp#kyle",
     "name": "Kyle",
     "breed": "Collie X",
@@ -190,6 +190,18 @@
     "source": "Many Tears",
     "reserved": false,
     "first_seen": "2026-08-27T16:22:06.600503+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/bilbo-sa5340/",
+    "name": "Bilbo",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Swindon, Wiltshire, England",
+    "distance_miles": 54.1,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-08-25T20:05:28.379948+00:00"
   },
   {
     "url": "https://www.rspcasolentbranch.org.uk/coco-2/",
@@ -432,18 +444,6 @@
     "first_seen": "2026-08-06T12:17:53.465165+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/kipper-sa4454/",
-    "name": "Kipper",
-    "breed": "Sprocker",
-    "age": null,
-    "sex": "Male",
-    "location": "Kent, England",
-    "distance_miles": 75.1,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-08-03T06:30:40.082184+00:00"
-  },
-  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3644070",
     "name": "Shelly",
     "breed": "Collie (Border)",
@@ -519,7 +519,7 @@
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/spaniel-english-springer/3642526",
     "name": "Sadie",
     "breed": "Spaniel (English Springer)",
-    "age": "4y 10m",
+    "age": "4y 11m",
     "sex": "Female",
     "location": "Dogs Trust Newbury (Berkshire)",
     "distance_miles": 45.3,
@@ -550,6 +550,18 @@
     "source": "Many Tears",
     "reserved": false,
     "first_seen": "2026-07-06T10:59:14.358837+00:00"
+  },
+  {
+    "url": "https://www.spanielrescuefoundation.org/srf149",
+    "name": "Ozzy",
+    "breed": "Sprocker",
+    "age": null,
+    "sex": null,
+    "location": "Spaniel Rescue Foundation (Middle Rasen, Lincs; UK-wide fosters)",
+    "distance_miles": 182.8,
+    "source": "Spaniel Rescue Foundation",
+    "reserved": false,
+    "first_seen": "2026-07-01T18:28:52.952814+00:00"
   },
   {
     "url": "https://collierescueroughandsmooth.co.uk/need-adoption/hugo/",
@@ -598,6 +610,18 @@
     "source": "Many Tears",
     "reserved": false,
     "first_seen": "2026-06-19T12:54:31.413738+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/spencer-sa4844/",
+    "name": "Spencer",
+    "breed": "- Spaniel Aid CIO",
+    "age": null,
+    "sex": null,
+    "location": "Spaniel Aid foster (UK)",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-06-09T20:52:03.951394+00:00"
   },
   {
     "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#smudge",
@@ -684,6 +708,18 @@
     "first_seen": "2026-05-15T17:11:25.750652+00:00"
   },
   {
+    "url": "https://spanielaid.co.uk/spaniel/poppy-sa4571/",
+    "name": "Poppy",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Female",
+    "location": "Edinburgh, Scotland",
+    "distance_miles": 415.6,
+    "source": "Spaniel Aid",
+    "reserved": true,
+    "first_seen": "2026-05-08T21:12:56.156544+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/jasper-sa4589/",
     "name": "Jasper",
     "breed": "Springer Spaniel",
@@ -693,6 +729,18 @@
     "distance_miles": null,
     "source": "Spaniel Aid",
     "reserved": false,
+    "first_seen": "2026-05-07T12:06:24.124362+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/toby-sa4979/",
+    "name": "Toby",
+    "breed": "Springer x Clumber x WCS",
+    "age": null,
+    "sex": "Male",
+    "location": "Ipswich, England",
+    "distance_miles": null,
+    "source": "Spaniel Aid",
+    "reserved": true,
     "first_seen": "2026-05-07T12:06:24.124362+00:00"
   },
   {
@@ -742,18 +790,6 @@
     "source": "Spaniel Aid",
     "reserved": true,
     "first_seen": "2026-05-06T11:31:59.834635+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/rags-sa5138/",
-    "name": "Rags",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Walmer, Kent, England",
-    "distance_miles": 75.1,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": "2026-05-05T11:06:03.536249+00:00"
   },
   {
     "url": "https://spanielaid.co.uk/spaniel/jaycob-sa4688/",
@@ -1140,18 +1176,6 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/loki-sa5213/",
-    "name": "Loki",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Colwyn bay, Wales",
-    "distance_miles": 152.1,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
     "url": "https://essw.co.uk/#aimee",
     "name": "Aimee",
     "breed": "English Springer Spaniel (rescue specialist)",
@@ -1320,42 +1344,6 @@
     "first_seen": null
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/oreo-sa4694/",
-    "name": "Oreo",
-    "breed": "Springer Spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Pembroke Dock, Wales",
-    "distance_miles": 152.1,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/miles-sa4885/",
-    "name": "Miles",
-    "breed": "Cocker spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "Farnborough, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/reggie-sa4534/",
-    "name": "Reggie",
-    "breed": "Springer spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "High Peak, England",
-    "distance_miles": null,
-    "source": "Spaniel Aid",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
     "url": "https://www.syessr.org.uk/items/boy-puppy-%231",
     "name": "Boy Puppy 1",
     "breed": "Springer Spaniel Cross",
@@ -1437,6 +1425,18 @@
     "distance_miles": 219.6,
     "source": "SYESSR",
     "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/delboy-sa5476/",
+    "name": "Delboy",
+    "breed": "Springer spaniel",
+    "age": null,
+    "sex": "Male",
+    "location": "Rotherham, South Yorkshire",
+    "distance_miles": 219.6,
+    "source": "Spaniel Aid",
+    "reserved": true,
     "first_seen": null
   }
 ]
