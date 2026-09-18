@@ -25,7 +25,7 @@
   },
   {
     "url": "https://wadars.co.uk/wadars_dogs/irwin-coming-soon/",
-    "name": "Winston \u2013 available",
+    "name": "Winston \u2013 being viewed",
     "breed": "Cocker Spaniel Male",
     "age": "4 years",
     "sex": "Male",
@@ -310,18 +310,6 @@
     "source": "PPBC",
     "reserved": false,
     "first_seen": "2026-08-19T12:52:22.656864+00:00"
-  },
-  {
-    "url": "https://teckelsanimalsanctuaries.co.uk/animals/jeff/",
-    "name": "Jeff",
-    "breed": "spaniel mix",
-    "age": "3 years",
-    "sex": "Male",
-    "location": "Teckels Animal Sanctuary (Whitminster, Glos)",
-    "distance_miles": 90.0,
-    "source": "Teckels Animal Sanctuary",
-    "reserved": false,
-    "first_seen": "2026-08-18T15:15:12.010261+00:00"
   },
   {
     "url": "https://woodgreen.org.uk/pets/max-border-collie-x-lurcher-dog/",
