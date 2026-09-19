@@ -684,18 +684,6 @@
     "first_seen": null
   },
   {
-    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
-    "name": "Floki",
-    "breed": "Collie/Springer match (Romanian rescue)",
-    "age": null,
-    "sex": null,
-    "location": "RRAUK (Hampshire / Bordon fosters)",
-    "distance_miles": 23.4,
-    "source": "RRAUK",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
     "url": "https://www.arundawndogrescue.co.uk/bigwins",
     "name": "Bigwins",
     "breed": "Collie/Springer match",
@@ -757,10 +745,10 @@
   },
   {
     "url": "https://mikeysdogrescue.co.uk/pages/adopt-a-dog",
-    "name": "Benji",
-    "breed": "Cocker Spaniel Cross",
-    "age": "2.5",
-    "sex": "Male",
+    "name": "Leia",
+    "breed": "Cocker Spaniel",
+    "age": "4 Years Old",
+    "sex": "Female",
     "location": "Mikey's Dog Rescue (Dorset)",
     "distance_miles": 63.4,
     "source": "Mikey's Dog Rescue",
