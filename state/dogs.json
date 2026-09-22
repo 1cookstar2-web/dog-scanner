@@ -1,5 +1,29 @@
 [
   {
+    "url": "https://wadars.co.uk/wadars_dogs/morris-coming-soon/",
+    "name": "Morris \u2013 coming soon",
+    "breed": "Winston Cocker Spaniel Male",
+    "age": "2 years",
+    "sex": "Male",
+    "location": "Wadars (Worthing, West Sussex)",
+    "distance_miles": 23.8,
+    "source": "Wadars",
+    "reserved": false,
+    "first_seen": "2026-09-22T12:42:06.717851+00:00"
+  },
+  {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-rough/3664130",
+    "name": "Chloe",
+    "breed": "Collie (Rough) Cross",
+    "age": "8y 2m",
+    "sex": "Female",
+    "location": "Dogs Trust Newbury (Berkshire)",
+    "distance_miles": 45.3,
+    "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": "2026-09-22T12:42:06.717851+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6156/",
     "name": "October",
     "breed": "Cocker Spaniel",
@@ -61,8 +85,8 @@
   },
   {
     "url": "https://wadars.co.uk/wadars_dogs/irwin-coming-soon/",
-    "name": "Winston \u2013 being viewed",
-    "breed": "Cocker Spaniel Male",
+    "name": "Winston",
+    "breed": "Winston Cocker Spaniel Male",
     "age": "4 years",
     "sex": "Male",
     "location": "Wadars (Worthing, West Sussex)",
@@ -74,7 +98,7 @@
   {
     "url": "https://wadars.co.uk/wadars_dogs/irwin-coming-soon-2/",
     "name": "Irwin \u2013 coming soon",
-    "breed": "Cocker Spaniel Male",
+    "breed": "Winston Cocker Spaniel Male",
     "age": "2 years",
     "sex": "Male",
     "location": "Wadars (Worthing, West Sussex)",
@@ -396,42 +420,6 @@
     "first_seen": "2026-08-12T10:40:47.968184+00:00"
   },
   {
-    "url": "https://www.syessr.org.uk/items/chester",
-    "name": "Chester",
-    "breed": "Sprocker",
-    "age": "5 years old",
-    "sex": null,
-    "location": "SYESSR (Sheffield, South Yorkshire)",
-    "distance_miles": 219.6,
-    "source": "SYESSR",
-    "reserved": false,
-    "first_seen": "2026-08-11T18:38:22.738136+00:00"
-  },
-  {
-    "url": "https://www.syessr.org.uk/items/dexter",
-    "name": "Dexter",
-    "breed": "Springer",
-    "age": "3",
-    "sex": null,
-    "location": "SYESSR (Sheffield, South Yorkshire)",
-    "distance_miles": 219.6,
-    "source": "SYESSR",
-    "reserved": false,
-    "first_seen": "2026-08-11T18:38:22.738136+00:00"
-  },
-  {
-    "url": "https://www.syessr.org.uk/items/ozzy",
-    "name": "Ozzy",
-    "breed": "Collie/Springer match",
-    "age": "10 years",
-    "sex": null,
-    "location": "SYESSR (Sheffield, South Yorkshire)",
-    "distance_miles": 219.6,
-    "source": "SYESSR",
-    "reserved": false,
-    "first_seen": "2026-08-11T18:38:22.738136+00:00"
-  },
-  {
     "url": "https://dogsnhomes.org.uk/adopt-a-dog/flora/",
     "name": "Flora",
     "breed": "Spaniel",
@@ -480,18 +468,6 @@
     "first_seen": "2026-07-31T12:49:48.693692+00:00"
   },
   {
-    "url": "https://www.syessr.org.uk/items/toffee",
-    "name": "Toffee",
-    "breed": "Collie/Springer match",
-    "age": "Approx 3",
-    "sex": null,
-    "location": "SYESSR (Sheffield, South Yorkshire)",
-    "distance_miles": 219.6,
-    "source": "SYESSR",
-    "reserved": false,
-    "first_seen": "2026-07-28T19:17:58.440944+00:00"
-  },
-  {
     "url": "https://www.dogsblog.com/glen-17/",
     "name": "Glen",
     "breed": "Collie Cross",
@@ -526,6 +502,18 @@
     "source": "Dogsblog",
     "reserved": false,
     "first_seen": "2026-07-27T11:51:20.330850+00:00"
+  },
+  {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3654387",
+    "name": "Harry",
+    "breed": "Collie (Border)",
+    "age": "5y 11m",
+    "sex": "Male",
+    "location": "Dogs Trust Evesham (Worcestershire)",
+    "distance_miles": 99.5,
+    "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": "2026-07-24T12:43:56.782157+00:00"
   },
   {
     "url": "https://teckelsanimalsanctuaries.co.uk/animals/hetty/",
@@ -1161,90 +1149,6 @@
     "distance_miles": 63.4,
     "source": "Mikey's Dog Rescue",
     "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.syessr.org.uk/items/boy-puppy-%231",
-    "name": "Boy Puppy 1",
-    "breed": "Springer Spaniel Cross",
-    "age": "10 months",
-    "sex": null,
-    "location": "SYESSR (Sheffield, South Yorkshire)",
-    "distance_miles": 219.6,
-    "source": "SYESSR",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.syessr.org.uk/items/boy-puppy-%234",
-    "name": "Boy Puppy 4",
-    "breed": "Springer Spaniel Cross",
-    "age": "10 months",
-    "sex": null,
-    "location": "SYESSR (Sheffield, South Yorkshire)",
-    "distance_miles": 219.6,
-    "source": "SYESSR",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.syessr.org.uk/items/boy-puppy%232",
-    "name": "Boy Puppy2",
-    "breed": "Springer Spaniel Cross",
-    "age": "10 months",
-    "sex": null,
-    "location": "SYESSR (Sheffield, South Yorkshire)",
-    "distance_miles": 219.6,
-    "source": "SYESSR",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.syessr.org.uk/items/charlie",
-    "name": "Charlie",
-    "breed": "Cocker Spaniel",
-    "age": "08/09/18",
-    "sex": "Male",
-    "location": "SYESSR (Sheffield, South Yorkshire)",
-    "distance_miles": 219.6,
-    "source": "SYESSR",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.syessr.org.uk/items/leo",
-    "name": "Leo",
-    "breed": "Cocker Spaniel",
-    "age": "6y 8m",
-    "sex": "Male",
-    "location": "SYESSR (Sheffield, South Yorkshire)",
-    "distance_miles": 219.6,
-    "source": "SYESSR",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.syessr.org.uk/items/milo",
-    "name": "Milo",
-    "breed": "Cocker Spaniel",
-    "age": "6y 8m",
-    "sex": "Male",
-    "location": "SYESSR (Sheffield, South Yorkshire)",
-    "distance_miles": 219.6,
-    "source": "SYESSR",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.syessr.org.uk/items/toby",
-    "name": "Toby",
-    "breed": "Springer Spaniel",
-    "age": "11y 11m",
-    "sex": "Male",
-    "location": "SYESSR (Sheffield, South Yorkshire)",
-    "distance_miles": 219.6,
-    "source": "SYESSR",
-    "reserved": false,
     "first_seen": null
   },
   {
