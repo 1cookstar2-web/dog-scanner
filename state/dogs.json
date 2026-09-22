@@ -84,18 +84,6 @@
     "first_seen": "2026-09-15T10:22:39.204009+00:00"
   },
   {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/6139/",
-    "name": "Prince",
-    "breed": "Cocker Spaniel",
-    "age": "9 years",
-    "sex": "Male",
-    "location": "Many Tears (In Foster: London,  London; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-09-13T14:19:01.257259+00:00"
-  },
-  {
     "url": "https://dbarc.org.uk/animals-for-rehoming/p/gz46tr766wr68dr-kchc5-c9yck-grhr7-y2ssc-8ncm3-xwplp-t42dl-ml6xc-krphj-ew2jc-hwry6-29sk3-n4xtb-hpwy8-pxm8l-rb93j-9hxbm-94n97-7xjns-at9t4-w597y-yptt9-9yp79-byd6z-7edad-s3b46-g29t9-as5le-3c6yy-tg92n",
     "name": "Max",
     "breed": "Collie Cross",
@@ -478,18 +466,6 @@
     "source": "Many Tears",
     "reserved": false,
     "first_seen": "2026-08-07T08:41:40.384989+00:00"
-  },
-  {
-    "url": "https://dogsnhomes.org.uk/adopt-a-dog/fran/",
-    "name": "Fran",
-    "breed": "Spaniel",
-    "age": "4 months",
-    "sex": "Male",
-    "location": "Dogs N Homes (Fleet, Hampshire)",
-    "distance_miles": 35.0,
-    "source": "Dogs N Homes",
-    "reserved": false,
-    "first_seen": "2026-08-07T00:14:16.724042+00:00"
   },
   {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3644070",
