@@ -36,6 +36,18 @@
     "first_seen": "2026-09-21T10:57:54.426722+00:00"
   },
   {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6167/",
+    "name": "Zippy",
+    "breed": "Cocker Spaniel",
+    "age": "1 year",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-09-21T10:57:54.426722+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3662509",
     "name": "Archer",
     "breed": "Collie (Border) Cross",
@@ -466,18 +478,6 @@
     "source": "RSPCA Sussex West",
     "reserved": true,
     "first_seen": "2026-07-15T15:11:22.338166+00:00"
-  },
-  {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/5958/",
-    "name": "Berry",
-    "breed": "Cocker Spaniel",
-    "age": "8 years",
-    "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-07-10T23:41:45.046632+00:00"
   },
   {
     "url": "https://www.spanielrescuefoundation.org/srf149",
