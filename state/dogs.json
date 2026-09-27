@@ -123,7 +123,7 @@
     "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/mylo",
     "name": "Mylo",
     "breed": "Collie",
-    "age": "6 Years\n  \n      ,     9 Months",
+    "age": "6 Years\n  \n      ,     10 Months",
     "sex": null,
     "location": "Battersea London",
     "distance_miles": 60.4,
@@ -346,6 +346,18 @@
     "source": "Woodgreen Pets Charity",
     "reserved": false,
     "first_seen": "2026-08-16T10:56:06.088545+00:00"
+  },
+  {
+    "url": "https://www.dogsblog.com/taz-66/",
+    "name": "Taz",
+    "breed": "Border Collie",
+    "age": "1-2 years",
+    "sex": "Male",
+    "location": "Location not tagged",
+    "distance_miles": null,
+    "source": "Dogsblog",
+    "reserved": false,
+    "first_seen": "2026-08-14T09:17:52.672486+00:00"
   },
   {
     "url": "https://furbuddies.org/king",
@@ -620,6 +632,18 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
+    "name": "Floki",
+    "breed": "Collie/Springer match (Romanian rescue)",
+    "age": null,
+    "sex": null,
+    "location": "RRAUK (Hampshire / Bordon fosters)",
+    "distance_miles": 23.4,
+    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
@@ -981,6 +1005,18 @@
     "distance_miles": 63.4,
     "source": "Mikey's Dog Rescue",
     "reserved": true,
+    "first_seen": null
+  },
+  {
+    "url": "https://www.dogsblog.com/reyna-4/",
+    "name": "Reyna",
+    "breed": "Border Collie",
+    "age": "6+ years",
+    "sex": "Female",
+    "location": "Location not tagged",
+    "distance_miles": null,
+    "source": "Dogsblog",
+    "reserved": false,
     "first_seen": null
   }
 ]
