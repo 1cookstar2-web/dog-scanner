@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.lastchanceanimalrescue.co.uk/kennel/dog.php#Teddy",
+    "name": "Teddy",
+    "breed": "Springer Spaniel",
+    "age": "3 years",
+    "sex": "Male",
+    "location": "Last Chance New Romney",
+    "distance_miles": 85.3,
+    "source": "Last Chance",
+    "reserved": false,
+    "first_seen": "2026-09-29T14:14:09.235528+00:00"
+  },
+  {
     "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/goose",
     "name": "Goose",
     "breed": "Spaniel: Cocker",
@@ -788,18 +800,6 @@
     "location": "Mikey's Dog Rescue (Dorset)",
     "distance_miles": 63.4,
     "source": "Mikey's Dog Rescue",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.ferneanimalsanctuary.org/animal/ozzy/",
-    "name": "Ozzy",
-    "breed": "Collie/Springer match",
-    "age": null,
-    "sex": "Male",
-    "location": "Ferne Animal Sanctuary (Chard, Somerset)",
-    "distance_miles": 86.4,
-    "source": "Ferne",
     "reserved": false,
     "first_seen": null
   },
