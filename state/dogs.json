@@ -56,7 +56,7 @@
     "location": "Dogs Trust Salisbury (Wiltshire)",
     "distance_miles": 40.5,
     "source": "Dogs Trust",
-    "reserved": false,
+    "reserved": true,
     "first_seen": "2026-09-23T19:39:31.226573+00:00"
   },
   {
@@ -800,6 +800,18 @@
     "location": "Mikey's Dog Rescue (Dorset)",
     "distance_miles": 63.4,
     "source": "Mikey's Dog Rescue",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://www.ferneanimalsanctuary.org/animal/ozzy/",
+    "name": "Ozzy",
+    "breed": "Collie/Springer match",
+    "age": null,
+    "sex": "Male",
+    "location": "Ferne Animal Sanctuary (Chard, Somerset)",
+    "distance_miles": 86.4,
+    "source": "Ferne",
     "reserved": false,
     "first_seen": null
   },
