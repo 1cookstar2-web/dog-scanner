@@ -480,6 +480,18 @@
     "first_seen": "2026-08-07T08:41:40.384989+00:00"
   },
   {
+    "url": "https://dogsnhomes.org.uk/adopt-a-dog/fran/",
+    "name": "Fran",
+    "breed": "Spaniel",
+    "age": "4 months",
+    "sex": "Male",
+    "location": "Dogs N Homes (Fleet, Hampshire)",
+    "distance_miles": 35.0,
+    "source": "Dogs N Homes",
+    "reserved": false,
+    "first_seen": "2026-08-07T00:14:16.724042+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3644070",
     "name": "Shelly",
     "breed": "Collie (Border)",
@@ -728,6 +740,18 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
+    "name": "Floki",
+    "breed": "Collie/Springer match (Romanian rescue)",
+    "age": null,
+    "sex": null,
+    "location": "RRAUK (Hampshire / Bordon fosters)",
+    "distance_miles": 23.4,
+    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
