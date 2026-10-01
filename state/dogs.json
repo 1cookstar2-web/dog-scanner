@@ -396,18 +396,6 @@
     "first_seen": "2026-08-14T09:17:52.672486+00:00"
   },
   {
-    "url": "https://furbuddies.org/king",
-    "name": "King",
-    "breed": "Cocker Spaniel",
-    "age": null,
-    "sex": "Male",
-    "location": "FurBuddies (Hordle, New Forest)",
-    "distance_miles": 28.0,
-    "source": "FurBuddies",
-    "reserved": false,
-    "first_seen": "2026-08-13T19:43:29.906794+00:00"
-  },
-  {
     "url": "https://www.spanielassist.com/adopt#judy",
     "name": "Judy",
     "breed": "Cocker Spaniel / Working Cocker",
@@ -670,18 +658,6 @@
     "source": "Dogsblog",
     "reserved": false,
     "first_seen": "2026-06-08T10:38:49.822535+00:00"
-  },
-  {
-    "url": "https://furbuddies.org/remy",
-    "name": "Remy",
-    "breed": "Collie",
-    "age": null,
-    "sex": "Male",
-    "location": "FurBuddies (Hordle, New Forest)",
-    "distance_miles": 28.0,
-    "source": "FurBuddies",
-    "reserved": false,
-    "first_seen": "2026-06-05T15:30:05.439958+00:00"
   },
   {
     "url": "https://collierescueroughandsmooth.co.uk/need-adoption/unnamed/",
