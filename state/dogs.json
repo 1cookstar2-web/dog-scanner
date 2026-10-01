@@ -1,15 +1,39 @@
 [
   {
-    "url": "https://www.dogstrust.org.uk/rehoming/dogs/spaniel-english-springer/3668452",
-    "name": "Sierra",
-    "breed": "Spaniel (English Springer)",
-    "age": "1 years",
-    "sex": "Female",
-    "location": "Dogs Trust Evesham (Worcestershire)",
-    "distance_miles": 99.5,
-    "source": "Dogs Trust",
+    "url": "https://www.margaretgreenanimalrescue.org.uk/dog/53152/",
+    "name": "Rowan",
+    "breed": "Cocker Spaniel",
+    "age": "2 years",
+    "sex": "Male",
+    "location": "Margaret Green (Wareham, Dorset)",
+    "distance_miles": 49.7,
+    "source": "Margaret Green",
     "reserved": false,
-    "first_seen": "2026-09-30T19:59:12.117987+00:00"
+    "first_seen": "2026-10-01T16:30:52.376633+00:00"
+  },
+  {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6222/",
+    "name": "KitKat",
+    "breed": "Cocker Spaniel",
+    "age": "3 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-10-01T16:30:52.376633+00:00"
+  },
+  {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6232/",
+    "name": "Koala",
+    "breed": "Cocker Spaniel",
+    "age": "5 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-10-01T16:30:52.376633+00:00"
   },
   {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#mr-bean",
@@ -168,18 +192,6 @@
     "first_seen": "2026-09-19T09:29:50.728341+00:00"
   },
   {
-    "url": "https://woodgreen.org.uk/pets/raven-cocker-spaniel-dog/",
-    "name": "Raven",
-    "breed": "cocker spaniel",
-    "age": "2 years",
-    "sex": "Female",
-    "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
-    "distance_miles": 110.5,
-    "source": "Woodgreen Pets Charity",
-    "reserved": false,
-    "first_seen": "2026-09-17T17:06:22.418759+00:00"
-  },
-  {
     "url": "https://wadars.co.uk/wadars_dogs/irwin-coming-soon/",
     "name": "Winston \u2013 found a home",
     "breed": "Cocker Spaniel Male",
@@ -238,18 +250,6 @@
     "source": "Spaniel Rescue Foundation",
     "reserved": false,
     "first_seen": "2026-09-11T17:19:33.820620+00:00"
-  },
-  {
-    "url": "https://www.rspcasolentbranch.org.uk/daisy/",
-    "name": "Daisy",
-    "breed": "Collie",
-    "age": "1 year and 11 months",
-    "sex": "Female",
-    "location": "RSPCA Solent Branch (Stubbington Ark, Fareham PO14)",
-    "distance_miles": 11.2,
-    "source": "RSPCA Solent Branch",
-    "reserved": false,
-    "first_seen": "2026-09-11T13:45:27.698554+00:00"
   },
   {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3616525",
@@ -478,18 +478,6 @@
     "source": "Many Tears",
     "reserved": false,
     "first_seen": "2026-08-07T08:41:40.384989+00:00"
-  },
-  {
-    "url": "https://dogsnhomes.org.uk/adopt-a-dog/fran/",
-    "name": "Fran",
-    "breed": "Spaniel",
-    "age": "4 months",
-    "sex": "Male",
-    "location": "Dogs N Homes (Fleet, Hampshire)",
-    "distance_miles": 35.0,
-    "source": "Dogs N Homes",
-    "reserved": false,
-    "first_seen": "2026-08-07T00:14:16.724042+00:00"
   },
   {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3644070",
@@ -740,18 +728,6 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
-    "name": "Floki",
-    "breed": "Collie/Springer match (Romanian rescue)",
-    "age": null,
-    "sex": null,
-    "location": "RRAUK (Hampshire / Bordon fosters)",
-    "distance_miles": 23.4,
-    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
