@@ -1,27 +1,27 @@
 [
   {
-    "url": "https://www.foalfarm.org.uk/dogs/belle/",
-    "name": "Belle",
-    "breed": "Cocker Spaniel Cross",
-    "age": null,
-    "sex": "Female",
-    "location": "Foal Farm (Biggin Hill, Kent)",
-    "distance_miles": 57.6,
-    "source": "Foal Farm",
-    "reserved": true,
-    "first_seen": "2026-10-03T06:51:25.313619+00:00"
+    "url": "https://www.nawt.org.uk/rehoming/animal/13220/",
+    "name": "Otis",
+    "breed": "Border Collie",
+    "age": "0 years 4 months",
+    "sex": "Male",
+    "location": "NAWT Hertfordshire",
+    "distance_miles": 70.6,
+    "source": "NAWT",
+    "reserved": false,
+    "first_seen": "2026-10-03T12:13:53.569724+00:00"
   },
   {
-    "url": "https://www.foalfarm.org.uk/dogs/marley/",
-    "name": "Marley",
-    "breed": "Cavapoo",
-    "age": "2 Years",
-    "sex": "Male",
-    "location": "Foal Farm (Biggin Hill, Kent)",
-    "distance_miles": 57.6,
-    "source": "Foal Farm",
-    "reserved": true,
-    "first_seen": "2026-10-03T06:51:25.313619+00:00"
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6206/",
+    "name": "Marina",
+    "breed": "Cocker Spaniel",
+    "age": "6 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-10-03T12:13:53.569724+00:00"
   },
   {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6219/",
@@ -540,18 +540,6 @@
     "first_seen": "2026-07-22T12:07:12.673552+00:00"
   },
   {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/5997/",
-    "name": "Ureka",
-    "breed": "Cocker Spaniel",
-    "age": "1 year",
-    "sex": "Female",
-    "location": "Many Tears (In Foster: Wakefield,  Yorkshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-07-18T13:44:38.469176+00:00"
-  },
-  {
     "url": "https://www.rspca.org.uk/local/sussex-west-branch/findapet/details/WILFRED_/BSA2150037/rehome",
     "name": "Wilfred",
     "breed": "Welsh Border Collie",
@@ -1040,30 +1028,6 @@
     "location": "Dogs Trust Shoreham (Sussex)",
     "distance_miles": 31.3,
     "source": "Dogs Trust",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.foalfarm.org.uk/dogs/kylo/",
-    "name": "Kylo",
-    "breed": "Border Collie",
-    "age": "4 Years",
-    "sex": "Male",
-    "location": "Foal Farm (Biggin Hill, Kent)",
-    "distance_miles": 57.6,
-    "source": "Foal Farm",
-    "reserved": true,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.foalfarm.org.uk/dogs/oscar/",
-    "name": "Oscar",
-    "breed": "Staffordshire Bull Terrier Cross (body: Staffie/Collie mix)",
-    "age": "2 Years",
-    "sex": "Male",
-    "location": "Foal Farm (Biggin Hill, Kent)",
-    "distance_miles": 57.6,
-    "source": "Foal Farm",
     "reserved": true,
     "first_seen": null
   },
