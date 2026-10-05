@@ -1,5 +1,29 @@
 [
   {
+    "url": "https://wadars.co.uk/wadars_dogs/neo-coming-soon/",
+    "name": "Neo \u2013 coming soon",
+    "breed": "Cocker Spaniel Male",
+    "age": "3 years 9 months",
+    "sex": "Male",
+    "location": "Wadars (Worthing, West Sussex)",
+    "distance_miles": 23.8,
+    "source": "Wadars",
+    "reserved": false,
+    "first_seen": "2026-10-05T17:14:28.175171+00:00"
+  },
+  {
+    "url": "https://www.ferneanimalsanctuary.org/animal/rosie/",
+    "name": "Rosie",
+    "breed": "Collie/Springer match",
+    "age": null,
+    "sex": "Female",
+    "location": "Ferne Animal Sanctuary (Chard, Somerset)",
+    "distance_miles": 86.4,
+    "source": "Ferne",
+    "reserved": false,
+    "first_seen": "2026-10-05T17:14:28.175171+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6223/",
     "name": "KoKo",
     "breed": "Cocker Spaniel",
@@ -48,30 +72,6 @@
     "first_seen": "2026-10-03T12:13:53.569724+00:00"
   },
   {
-    "url": "https://www.margaretgreenanimalrescue.org.uk/dog/53152/",
-    "name": "Rowan",
-    "breed": "Cocker Spaniel",
-    "age": "2 years",
-    "sex": "Male",
-    "location": "Margaret Green (Wareham, Dorset)",
-    "distance_miles": 49.7,
-    "source": "Margaret Green",
-    "reserved": false,
-    "first_seen": "2026-10-01T16:30:52.376633+00:00"
-  },
-  {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/6222/",
-    "name": "KitKat",
-    "breed": "Cocker Spaniel",
-    "age": "3 years",
-    "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-10-01T16:30:52.376633+00:00"
-  },
-  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6232/",
     "name": "Koala",
     "breed": "Cocker Spaniel",
@@ -81,6 +81,18 @@
     "distance_miles": 150.3,
     "source": "Many Tears",
     "reserved": false,
+    "first_seen": "2026-10-01T16:30:52.376633+00:00"
+  },
+  {
+    "url": "https://www.margaretgreenanimalrescue.org.uk/dog/53152/",
+    "name": "Rowan",
+    "breed": "Cocker Spaniel",
+    "age": "2 years",
+    "sex": "Male",
+    "location": "Margaret Green (Wareham, Dorset)",
+    "distance_miles": 49.7,
+    "source": "Margaret Green",
+    "reserved": true,
     "first_seen": "2026-10-01T16:30:52.376633+00:00"
   },
   {
@@ -512,7 +524,7 @@
     "location": "Margaret Green (Wareham, Dorset)",
     "distance_miles": 49.7,
     "source": "Margaret Green",
-    "reserved": false,
+    "reserved": true,
     "first_seen": "2026-07-22T14:07:00.404101+00:00"
   },
   {
@@ -857,18 +869,6 @@
     "breed": "Beagle x Cocker Spaniel",
     "age": "4 years",
     "sex": "Male",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/4962/",
-    "name": "Lassie",
-    "breed": "Collie",
-    "age": "2 years",
-    "sex": "Female",
     "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
     "distance_miles": 150.3,
     "source": "Many Tears",
