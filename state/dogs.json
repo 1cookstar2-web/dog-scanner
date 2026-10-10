@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3668302",
+    "name": "Zephyr",
+    "breed": "Collie (Border)",
+    "age": "12y 8m",
+    "sex": "Female",
+    "location": "Dogs Trust Newbury (Berkshire)",
+    "distance_miles": 45.3,
+    "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": "2026-10-10T13:48:59.037599+00:00"
+  },
+  {
+    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/otis",
+    "name": "Otis",
+    "breed": "Spaniel: English Cocker",
+    "age": "3 Years\n  \n      ,     10 Months",
+    "sex": null,
+    "location": "Battersea London",
+    "distance_miles": 60.4,
+    "source": "Battersea",
+    "reserved": false,
+    "first_seen": "2026-10-10T13:48:59.037599+00:00"
+  },
+  {
+    "url": "https://www.nawt.org.uk/rehoming/animal/13330/",
+    "name": "Otis",
+    "breed": "Border Collie",
+    "age": "0 years 4 months",
+    "sex": "Male",
+    "location": "NAWT Hertfordshire",
+    "distance_miles": 70.6,
+    "source": "NAWT",
+    "reserved": true,
+    "first_seen": "2026-10-10T13:48:59.037599+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/bulldog/3669450",
     "name": "Junior",
     "breed": "Bulldog Cross \u00d7 Collie (Border)",
@@ -105,18 +141,6 @@
     "distance_miles": 150.3,
     "source": "Many Tears",
     "reserved": false,
-    "first_seen": "2026-10-03T12:13:53.569724+00:00"
-  },
-  {
-    "url": "https://www.nawt.org.uk/rehoming/animal/13220/",
-    "name": "Otis",
-    "breed": "Border Collie",
-    "age": "0 years 4 months",
-    "sex": "Male",
-    "location": "NAWT Hertfordshire",
-    "distance_miles": 70.6,
-    "source": "NAWT",
-    "reserved": true,
     "first_seen": "2026-10-03T12:13:53.569724+00:00"
   },
   {
