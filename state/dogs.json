@@ -48,6 +48,18 @@
     "first_seen": "2026-10-10T13:48:59.037599+00:00"
   },
   {
+    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/otis",
+    "name": "Otis",
+    "breed": "Spaniel: English Cocker",
+    "age": "3 Years\n  \n      ,     10 Months",
+    "sex": null,
+    "location": "Battersea London",
+    "distance_miles": 60.4,
+    "source": "Battersea",
+    "reserved": true,
+    "first_seen": "2026-10-10T13:48:59.037599+00:00"
+  },
+  {
     "url": "https://teckelsanimalsanctuaries.co.uk/animals/ember/",
     "name": "Ember",
     "breed": "Spaniel mix",
@@ -656,18 +668,6 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
-    "name": "Floki",
-    "breed": "Collie/Springer match (Romanian rescue)",
-    "age": null,
-    "sex": null,
-    "location": "RRAUK (Hampshire / Bordon fosters)",
-    "distance_miles": 23.4,
-    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
