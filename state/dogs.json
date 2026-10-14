@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://dbarc.org.uk/animals-for-rehoming/p/cyzmptf6rkxmatl-rjxz6-emlxj",
+    "name": "Hattie",
+    "breed": "Sprollie (collie x spaniel)",
+    "age": "Aprox. 1.5 Years",
+    "sex": "Female",
+    "location": "DBARC (Hurst, Wokingham)",
+    "distance_miles": 46.3,
+    "source": "DBARC",
+    "reserved": true,
+    "first_seen": "2026-10-14T17:27:29.773992+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3670216",
     "name": "Patty",
     "breed": "Collie (Border) Cross",
@@ -180,18 +192,6 @@
     "first_seen": "2026-10-07T13:53:09.938488+00:00"
   },
   {
-    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3665755",
-    "name": "Lola",
-    "breed": "Collie (Border) Cross",
-    "age": "4y 11m",
-    "sex": "Female",
-    "location": "Dogs Trust Harefield (West London)",
-    "distance_miles": 60.6,
-    "source": "Dogs Trust",
-    "reserved": true,
-    "first_seen": "2026-10-07T13:53:09.938488+00:00"
-  },
-  {
     "url": "https://wadars.co.uk/wadars_dogs/neo-coming-soon/",
     "name": "Neo \u2013 coming soon",
     "breed": "Cocker Spaniel Male",
@@ -274,18 +274,6 @@
     "source": "Dogs Trust",
     "reserved": true,
     "first_seen": "2026-09-25T10:29:33.900163+00:00"
-  },
-  {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/6156/",
-    "name": "October",
-    "breed": "Cocker Spaniel",
-    "age": "5 years",
-    "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-09-21T10:57:54.426722+00:00"
   },
   {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3662509",
