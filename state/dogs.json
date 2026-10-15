@@ -108,18 +108,6 @@
     "first_seen": "2026-10-13T11:05:18.163325+00:00"
   },
   {
-    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3650801",
-    "name": "Otis",
-    "breed": "Collie (Border)",
-    "age": "3y 3m",
-    "sex": "Male",
-    "location": "Dogs Trust Newbury (Berkshire)",
-    "distance_miles": 45.3,
-    "source": "Dogs Trust",
-    "reserved": false,
-    "first_seen": "2026-10-12T16:42:42.079710+00:00"
-  },
-  {
     "url": "https://dbarc.org.uk/animals-for-rehoming/p/gz46tr766wr68dr-kchc5-c9yck-grhr7-y2ssc-8ncm3-xwplp-t42dl-ml6xc-krphj-ew2jc-hwry6-29sk3-n4xtb-hpwy8-pxm8l-rb93j-9hxbm-94n97-7xjns-at9t4-w597y-yptt9-9yp79-byd6z-7edad-s3b46-g29t9-as5le-ebfmg",
     "name": "Rosie",
     "breed": "Cocker Spaniel",
@@ -144,6 +132,18 @@
     "first_seen": "2026-10-12T16:42:42.079710+00:00"
   },
   {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3650801",
+    "name": "Otis",
+    "breed": "Collie (Border)",
+    "age": "3y 3m",
+    "sex": "Male",
+    "location": "Dogs Trust Newbury (Berkshire)",
+    "distance_miles": 45.3,
+    "source": "Dogs Trust",
+    "reserved": true,
+    "first_seen": "2026-10-12T16:42:42.079710+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3668302",
     "name": "Zephyr",
     "breed": "Collie (Border)",
@@ -152,18 +152,6 @@
     "location": "Dogs Trust Newbury (Berkshire)",
     "distance_miles": 45.3,
     "source": "Dogs Trust",
-    "reserved": true,
-    "first_seen": "2026-10-10T13:48:59.037599+00:00"
-  },
-  {
-    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/otis",
-    "name": "Otis",
-    "breed": "Spaniel: English Cocker",
-    "age": "3 Years\n  \n      ,     11 Months",
-    "sex": null,
-    "location": "Battersea London",
-    "distance_miles": 60.4,
-    "source": "Battersea",
     "reserved": true,
     "first_seen": "2026-10-10T13:48:59.037599+00:00"
   },
@@ -300,21 +288,9 @@
     "first_seen": "2026-09-30T15:07:18.916817+00:00"
   },
   {
-    "url": "https://www.dogstrust.org.uk/rehoming/dogs/retriever-labrador/3667927",
-    "name": "Buddy",
-    "breed": "Retriever (Labrador) Cross \u00d7 Collie (Border)",
-    "age": "3 years",
-    "sex": "Male",
-    "location": "Dogs Trust Newbury (Berkshire)",
-    "distance_miles": 45.3,
-    "source": "Dogs Trust",
-    "reserved": true,
-    "first_seen": "2026-09-25T10:29:33.900163+00:00"
-  },
-  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3662509",
     "name": "Archer",
-    "breed": "Collie (Border) Cross",
+    "breed": "Collie (Border)",
     "age": "1y 9m",
     "sex": "Male",
     "location": "Dogs Trust Newbury (Berkshire)",
