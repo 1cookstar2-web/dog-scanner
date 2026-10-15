@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://woodgreen.org.uk/pets/calli-collie-border-x-lurcher-dog/",
+    "name": "Calli",
+    "breed": "collie",
+    "age": "8 years",
+    "sex": "Female",
+    "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
+    "distance_miles": 110.5,
+    "source": "Woodgreen Pets Charity",
+    "reserved": false,
+    "first_seen": "2026-10-15T12:31:05.810334+00:00"
+  },
+  {
+    "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#reggie",
+    "name": "Reggie",
+    "breed": "Cocker / English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "CAESSR (UK-wide fosters)",
+    "distance_miles": null,
+    "source": "CAESSR",
+    "reserved": false,
+    "first_seen": "2026-10-15T12:31:05.810334+00:00"
+  },
+  {
+    "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#ronnie",
+    "name": "Ronnie",
+    "breed": "Cocker / English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "CAESSR (UK-wide fosters)",
+    "distance_miles": null,
+    "source": "CAESSR",
+    "reserved": false,
+    "first_seen": "2026-10-15T12:31:05.810334+00:00"
+  },
+  {
     "url": "https://dbarc.org.uk/animals-for-rehoming/p/cyzmptf6rkxmatl-rjxz6-emlxj",
     "name": "Hattie",
     "breed": "Sprollie (collie x spaniel)",
@@ -644,18 +680,6 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
-    "name": "Floki",
-    "breed": "Collie/Springer match (Romanian rescue)",
-    "age": null,
-    "sex": null,
-    "location": "RRAUK (Hampshire / Bordon fosters)",
-    "distance_miles": 23.4,
-    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
