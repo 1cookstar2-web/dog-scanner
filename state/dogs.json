@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://dogsnhomes.org.uk/adopt-a-dog/hayden/",
+    "name": "Hayden",
+    "breed": "Spaniel",
+    "age": "4 months",
+    "sex": "Male",
+    "location": "Dogs N Homes (Fleet, Hampshire)",
+    "distance_miles": 35.0,
+    "source": "Dogs N Homes",
+    "reserved": false,
+    "first_seen": "2026-10-16T21:59:37.697982+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3668306",
     "name": "Rascal",
     "breed": "Collie (Border)",
@@ -360,18 +372,6 @@
     "first_seen": "2026-09-12T22:31:44.670962+00:00"
   },
   {
-    "url": "https://www.spanielrescuefoundation.org/srf185",
-    "name": "SRF185",
-    "breed": "Sprocker",
-    "age": null,
-    "sex": null,
-    "location": "Spaniel Rescue Foundation (Middle Rasen, Lincs; UK-wide fosters)",
-    "distance_miles": 182.8,
-    "source": "Spaniel Rescue Foundation",
-    "reserved": true,
-    "first_seen": "2026-09-11T17:19:33.820620+00:00"
-  },
-  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3616525",
     "name": "Monty",
     "breed": "Collie (Border) Cross",
@@ -565,14 +565,14 @@
   },
   {
     "url": "https://www.spanielrescuefoundation.org/srf149",
-    "name": "SRF149",
-    "breed": "Sprocker",
+    "name": "Minstrel",
+    "breed": "Working Cocker",
     "age": null,
     "sex": null,
     "location": "Spaniel Rescue Foundation (Middle Rasen, Lincs; UK-wide fosters)",
     "distance_miles": 182.8,
     "source": "Spaniel Rescue Foundation",
-    "reserved": true,
+    "reserved": false,
     "first_seen": "2026-07-01T18:28:52.952814+00:00"
   },
   {
