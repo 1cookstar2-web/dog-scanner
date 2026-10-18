@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.nawt.org.uk/rehoming/animal/13364/",
+    "name": "Parker",
+    "breed": "Sprollie",
+    "age": "0 years 3 months",
+    "sex": "Male",
+    "location": "NAWT Hertfordshire",
+    "distance_miles": 70.6,
+    "source": "NAWT",
+    "reserved": false,
+    "first_seen": "2026-10-18T16:34:57.019478+00:00"
+  },
+  {
     "url": "https://www.nawt.org.uk/rehoming/animal/13358/",
     "name": "Bella",
     "breed": "Cocker Spaniel",
@@ -96,6 +108,18 @@
     "first_seen": "2026-10-13T18:12:29.298043+00:00"
   },
   {
+    "url": "https://teckelsanimalsanctuaries.co.uk/animals/hazel/",
+    "name": "Hazel",
+    "breed": "Spaniel mix",
+    "age": "4 years",
+    "sex": "Female",
+    "location": "Teckels Animal Sanctuary (Whitminster, Glos)",
+    "distance_miles": 90.0,
+    "source": "Teckels Animal Sanctuary",
+    "reserved": false,
+    "first_seen": "2026-10-13T18:12:29.298043+00:00"
+  },
+  {
     "url": "https://www.ferneanimalsanctuary.org/animal/chaos/",
     "name": "Chaos",
     "breed": "Collie/Springer match",
@@ -144,16 +168,28 @@
     "first_seen": "2026-10-12T16:42:42.079710+00:00"
   },
   {
-    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3668302",
-    "name": "Zephyr",
-    "breed": "Collie (Border)",
-    "age": "12y 8m",
+    "url": "https://teckelsanimalsanctuaries.co.uk/animals/ember/",
+    "name": "Ember",
+    "breed": "Spaniel mix",
+    "age": "7 years",
     "sex": "Female",
-    "location": "Dogs Trust Newbury (Berkshire)",
-    "distance_miles": 45.3,
-    "source": "Dogs Trust",
+    "location": "Teckels Animal Sanctuary (Whitminster, Glos)",
+    "distance_miles": 90.0,
+    "source": "Teckels Animal Sanctuary",
     "reserved": false,
-    "first_seen": "2026-10-10T13:48:59.037599+00:00"
+    "first_seen": "2026-10-09T17:03:12.481156+00:00"
+  },
+  {
+    "url": "https://teckelsanimalsanctuaries.co.uk/animals/kirby/",
+    "name": "Kirby",
+    "breed": "Spaniel mix",
+    "age": "1 year",
+    "sex": "Male",
+    "location": "Teckels Animal Sanctuary (Whitminster, Glos)",
+    "distance_miles": 90.0,
+    "source": "Teckels Animal Sanctuary",
+    "reserved": false,
+    "first_seen": "2026-10-09T17:03:12.481156+00:00"
   },
   {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/bulldog/3669450",
@@ -178,18 +214,6 @@
     "source": "NESSR",
     "reserved": false,
     "first_seen": "2026-10-09T02:58:23.444741+00:00"
-  },
-  {
-    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3665568",
-    "name": "Pomme",
-    "breed": "Collie (Border) Cross",
-    "age": "9 months",
-    "sex": "Female",
-    "location": "Dogs Trust Evesham (Worcestershire)",
-    "distance_miles": 99.5,
-    "source": "Dogs Trust",
-    "reserved": true,
-    "first_seen": "2026-10-07T13:53:09.938488+00:00"
   },
   {
     "url": "https://wadars.co.uk/wadars_dogs/neo-coming-soon/",
@@ -372,6 +396,18 @@
     "first_seen": "2026-09-01T12:47:24.560355+00:00"
   },
   {
+    "url": "https://www.margaretgreenanimalrescue.org.uk/dog/42859/",
+    "name": "Pepper",
+    "breed": "Collie X JR",
+    "age": "10 years",
+    "sex": "Female",
+    "location": "Margaret Green (Wareham, Dorset)",
+    "distance_miles": 49.7,
+    "source": "Margaret Green",
+    "reserved": false,
+    "first_seen": "2026-08-31T14:03:54.561722+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6128/",
     "name": "Lucy",
     "breed": "Spaniel",
@@ -468,6 +504,42 @@
     "first_seen": "2026-08-07T08:41:40.384989+00:00"
   },
   {
+    "url": "https://www.dogsblog.com/glen-17/",
+    "name": "Glen",
+    "breed": "Collie Cross",
+    "age": "6+ years",
+    "sex": "Male",
+    "location": "Location not tagged",
+    "distance_miles": null,
+    "source": "Dogsblog",
+    "reserved": false,
+    "first_seen": "2026-07-27T11:51:20.330850+00:00"
+  },
+  {
+    "url": "https://www.dogsblog.com/lara-57/",
+    "name": "Lara",
+    "breed": "Springer Spaniel",
+    "age": "3-5 years",
+    "sex": "Female",
+    "location": "Location not tagged",
+    "distance_miles": null,
+    "source": "Dogsblog",
+    "reserved": false,
+    "first_seen": "2026-07-27T11:51:20.330850+00:00"
+  },
+  {
+    "url": "https://www.dogsblog.com/lucky-138/",
+    "name": "Lucky",
+    "breed": "Collie Cross",
+    "age": "3-5 years",
+    "sex": "Male",
+    "location": "Location not tagged",
+    "distance_miles": null,
+    "source": "Dogsblog",
+    "reserved": false,
+    "first_seen": "2026-07-27T11:51:20.330850+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6022/",
     "name": "Pop",
     "breed": "Collie x Jack Russell Terrier",
@@ -480,16 +552,16 @@
     "first_seen": "2026-07-22T12:07:12.673552+00:00"
   },
   {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/5934/",
-    "name": "Whispy",
-    "breed": "Cocker Spaniel",
-    "age": "8 years",
+    "url": "https://www.dogsblog.com/margot-17/",
+    "name": "Margot",
+    "breed": "Collie Cross",
+    "age": "1-2 years",
     "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
+    "location": "In Yorkshirehumberside",
+    "distance_miles": null,
+    "source": "Dogsblog",
     "reserved": false,
-    "first_seen": "2026-06-19T12:54:31.413738+00:00"
+    "first_seen": "2026-06-09T10:17:29.124426+00:00"
   },
   {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#daisy",
@@ -524,6 +596,18 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
+    "name": "Floki",
+    "breed": "Collie/Springer match (Romanian rescue)",
+    "age": null,
+    "sex": null,
+    "location": "RRAUK (Hampshire / Bordon fosters)",
+    "distance_miles": 23.4,
+    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
@@ -732,6 +816,18 @@
     "first_seen": null
   },
   {
+    "url": "https://www.dogsblog.com/bilbo-29/",
+    "name": "Bilbo",
+    "breed": "Spaniel Cross",
+    "age": "3-5 years",
+    "sex": "Male",
+    "location": "South East England",
+    "distance_miles": null,
+    "source": "Dogsblog",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
     "url": "https://essw.co.uk/#aimee",
     "name": "Aimee",
     "breed": "English Springer Spaniel (rescue specialist)",
@@ -861,6 +957,66 @@
     "distance_miles": 63.4,
     "source": "Mikey's Dog Rescue",
     "reserved": true,
+    "first_seen": null
+  },
+  {
+    "url": "https://www.dogsblog.com/elsa-75/",
+    "name": "Elsa",
+    "breed": "Spaniel Cross",
+    "age": null,
+    "sex": null,
+    "location": "Location not tagged",
+    "distance_miles": null,
+    "source": "Dogsblog",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://www.dogsblog.com/ernesto-2/",
+    "name": "Ernesto",
+    "breed": "Collie Cross",
+    "age": "3-5 years",
+    "sex": "Male",
+    "location": "Location not tagged",
+    "distance_miles": null,
+    "source": "Dogsblog",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://www.dogsblog.com/reyna-4/",
+    "name": "Reyna",
+    "breed": "Border Collie",
+    "age": "6+ years",
+    "sex": "Female",
+    "location": "Location not tagged",
+    "distance_miles": null,
+    "source": "Dogsblog",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://www.dogsblog.com/sherlock-26/",
+    "name": "Sherlock",
+    "breed": "Spaniel Cross",
+    "age": null,
+    "sex": null,
+    "location": "Location not tagged",
+    "distance_miles": null,
+    "source": "Dogsblog",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://www.dogsblog.com/syd-7/",
+    "name": "Syd",
+    "breed": "Cocker Spaniel Cross",
+    "age": null,
+    "sex": null,
+    "location": "Location not tagged",
+    "distance_miles": null,
+    "source": "Dogsblog",
+    "reserved": false,
     "first_seen": null
   }
 ]
