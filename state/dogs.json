@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://collierescueroughandsmooth.co.uk/need-adoption/shellie/",
+    "name": "Shellie",
+    "breed": "Sable & White Rough Collie  16 months old",
+    "age": null,
+    "sex": "Female",
+    "location": "Collie Rescue R&S (Sheffield HQ; UK-wide home-check/fosters)",
+    "distance_miles": 180.8,
+    "source": "Collie Rescue R&S",
+    "reserved": false,
+    "first_seen": "2026-10-20T17:19:54.913560+00:00"
+  },
+  {
     "url": "https://www.lastchanceanimalrescue.co.uk/kennel/dog.php#Finn",
     "name": "Finn",
     "breed": "Collie cross lurcher",
@@ -70,18 +82,6 @@
     "source": "NAWT",
     "reserved": false,
     "first_seen": "2026-10-18T13:15:14.663847+00:00"
-  },
-  {
-    "url": "https://dogsnhomes.org.uk/adopt-a-dog/hayden/",
-    "name": "Hayden",
-    "breed": "Spaniel",
-    "age": "4 months",
-    "sex": "Male",
-    "location": "Dogs N Homes (Fleet, Hampshire)",
-    "distance_miles": 35.0,
-    "source": "Dogs N Homes",
-    "reserved": false,
-    "first_seen": "2026-10-16T21:59:37.697982+00:00"
   },
   {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3668306",
