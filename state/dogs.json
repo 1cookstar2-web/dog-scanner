@@ -1,5 +1,29 @@
 [
   {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3671068",
+    "name": "Connie",
+    "breed": "Collie (Border)",
+    "age": "1y 2m",
+    "sex": "Female",
+    "location": "Dogs Trust Salisbury (Wiltshire)",
+    "distance_miles": 40.5,
+    "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": "2026-10-21T17:54:30.545818+00:00"
+  },
+  {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3672959",
+    "name": "Jazzy",
+    "breed": "Collie (Border)",
+    "age": "4 years",
+    "sex": "Female",
+    "location": "Dogs Trust Salisbury (Wiltshire)",
+    "distance_miles": 40.5,
+    "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": "2026-10-21T17:54:30.545818+00:00"
+  },
+  {
     "url": "https://collierescueroughandsmooth.co.uk/need-adoption/shellie/",
     "name": "Shellie",
     "breed": "Sable & White Rough Collie  16 months old",
@@ -82,6 +106,18 @@
     "source": "NAWT",
     "reserved": false,
     "first_seen": "2026-10-18T13:15:14.663847+00:00"
+  },
+  {
+    "url": "https://dogsnhomes.org.uk/adopt-a-dog/hayden/",
+    "name": "Hayden",
+    "breed": "Spaniel",
+    "age": "4 months",
+    "sex": "Male",
+    "location": "Dogs N Homes (Fleet, Hampshire)",
+    "distance_miles": 35.0,
+    "source": "Dogs N Homes",
+    "reserved": false,
+    "first_seen": "2026-10-16T21:59:37.697982+00:00"
   },
   {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3668306",
@@ -346,18 +382,6 @@
     "source": "DBARC",
     "reserved": true,
     "first_seen": "2026-09-12T22:31:44.670962+00:00"
-  },
-  {
-    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3616525",
-    "name": "Monty",
-    "breed": "Collie (Border) Cross",
-    "age": "1y 4m",
-    "sex": "Male",
-    "location": "Dogs Trust Evesham (Worcestershire)",
-    "distance_miles": 99.5,
-    "source": "Dogs Trust",
-    "reserved": false,
-    "first_seen": "2026-09-10T17:29:35.287215+00:00"
   },
   {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#charlie",
