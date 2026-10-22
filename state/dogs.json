@@ -1,5 +1,65 @@
 [
   {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/bulldog/3669332",
+    "name": "Ghost",
+    "breed": "Collie (Border) Cross",
+    "age": "2y 7m",
+    "sex": "Male",
+    "location": "Dogs Trust Newbury (Berkshire)",
+    "distance_miles": 45.3,
+    "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": "2026-10-22T09:36:36.959821+00:00"
+  },
+  {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6283/",
+    "name": "Comet",
+    "breed": "Cocker Spaniel",
+    "age": "6 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-10-22T09:36:36.959821+00:00"
+  },
+  {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6260/",
+    "name": "Rebecca",
+    "breed": "Cocker Spaniel",
+    "age": "5 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-10-22T09:36:36.959821+00:00"
+  },
+  {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6254/",
+    "name": "Yara",
+    "breed": "Cocker Spaniel",
+    "age": "5 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-10-22T09:36:36.959821+00:00"
+  },
+  {
+    "url": "https://collierescueroughandsmooth.co.uk/need-adoption/sage-hertfordshire/",
+    "name": "Sage \u2013 Hertfordshire",
+    "breed": "Sable & White Rough Collie 16 months old",
+    "age": null,
+    "sex": "Female",
+    "location": "Collie Rescue R&S (Sheffield HQ; UK-wide home-check/fosters)",
+    "distance_miles": 180.8,
+    "source": "Collie Rescue R&S",
+    "reserved": false,
+    "first_seen": "2026-10-22T09:36:36.959821+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3671068",
     "name": "Connie",
     "breed": "Collie (Border)",
@@ -25,7 +85,7 @@
   },
   {
     "url": "https://collierescueroughandsmooth.co.uk/need-adoption/shellie/",
-    "name": "Shellie",
+    "name": "Shellie \u2013 Glasgow",
     "breed": "Sable & White Rough Collie  16 months old",
     "age": null,
     "sex": "Female",
