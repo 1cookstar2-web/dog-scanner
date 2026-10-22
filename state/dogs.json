@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://alldogsmatter.co.uk/dogs/beef/",
+    "name": "Beef",
+    "breed": "Spaniel X",
+    "age": "3 months old (approx.)",
+    "sex": "Male",
+    "location": "AllDogsMatter (Waltham Abbey)",
+    "distance_miles": 66.1,
+    "source": "AllDogsMatter",
+    "reserved": false,
+    "first_seen": "2026-10-22T18:49:03.549272+00:00"
+  },
+  {
     "url": "https://www.margaretgreenanimalrescue.org.uk/dog/56584/",
     "name": "Neo",
     "breed": "Spaniel English Springer",
@@ -178,18 +190,6 @@
     "source": "NAWT",
     "reserved": false,
     "first_seen": "2026-10-18T13:15:14.663847+00:00"
-  },
-  {
-    "url": "https://dogsnhomes.org.uk/adopt-a-dog/hayden/",
-    "name": "Hayden",
-    "breed": "Spaniel",
-    "age": "4 months",
-    "sex": "Male",
-    "location": "Dogs N Homes (Fleet, Hampshire)",
-    "distance_miles": 35.0,
-    "source": "Dogs N Homes",
-    "reserved": false,
-    "first_seen": "2026-10-16T21:59:37.697982+00:00"
   },
   {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3668306",
