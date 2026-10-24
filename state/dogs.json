@@ -188,20 +188,8 @@
     "location": "NAWT Bedfordshire",
     "distance_miles": 88.4,
     "source": "NAWT",
-    "reserved": false,
+    "reserved": true,
     "first_seen": "2026-10-18T13:15:14.663847+00:00"
-  },
-  {
-    "url": "https://dogsnhomes.org.uk/adopt-a-dog/hayden/",
-    "name": "Hayden",
-    "breed": "Spaniel",
-    "age": "4 months",
-    "sex": "Male",
-    "location": "Dogs N Homes (Fleet, Hampshire)",
-    "distance_miles": 35.0,
-    "source": "Dogs N Homes",
-    "reserved": false,
-    "first_seen": "2026-10-16T21:59:37.697982+00:00"
   },
   {
     "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#reggie",
@@ -226,18 +214,6 @@
     "source": "CAESSR",
     "reserved": false,
     "first_seen": "2026-10-15T12:31:05.810334+00:00"
-  },
-  {
-    "url": "https://www.ferneanimalsanctuary.org/animal/chase/",
-    "name": "Chase",
-    "breed": "Collie/Springer match",
-    "age": null,
-    "sex": "Male",
-    "location": "Ferne Animal Sanctuary (Chard, Somerset)",
-    "distance_miles": 86.4,
-    "source": "Ferne",
-    "reserved": false,
-    "first_seen": "2026-10-13T18:12:29.298043+00:00"
   },
   {
     "url": "https://teckelsanimalsanctuaries.co.uk/animals/hazel/",
