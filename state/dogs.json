@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://woodgreen.org.uk/pets/lana-springer-spaniel-cross-dog/",
+    "name": "Lana",
+    "breed": "springer spaniel cross",
+    "age": "6 years",
+    "sex": "Female",
+    "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
+    "distance_miles": 110.5,
+    "source": "Woodgreen Pets Charity",
+    "reserved": false,
+    "first_seen": "2026-10-24T13:32:49.430394+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3671067",
     "name": "Bryony",
     "breed": "Collie (Border)",
@@ -104,7 +116,7 @@
     "location": "Dogs Trust Salisbury (Wiltshire)",
     "distance_miles": 40.5,
     "source": "Dogs Trust",
-    "reserved": false,
+    "reserved": true,
     "first_seen": "2026-10-21T17:54:30.545818+00:00"
   },
   {
@@ -190,18 +202,6 @@
     "source": "Dogs N Homes",
     "reserved": false,
     "first_seen": "2026-10-16T21:59:37.697982+00:00"
-  },
-  {
-    "url": "https://woodgreen.org.uk/pets/calli-collie-border-x-lurcher-dog/",
-    "name": "Calli",
-    "breed": "collie",
-    "age": "8 years",
-    "sex": "Female",
-    "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
-    "distance_miles": 110.5,
-    "source": "Woodgreen Pets Charity",
-    "reserved": false,
-    "first_seen": "2026-10-15T12:31:05.810334+00:00"
   },
   {
     "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#reggie",
@@ -993,18 +993,6 @@
     "distance_miles": null,
     "source": "ESSW",
     "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3566626",
-    "name": "Trilby",
-    "breed": "Collie (Border) Cross",
-    "age": "4y 11m",
-    "sex": "Male",
-    "location": "Dogs Trust Shoreham (Sussex)",
-    "distance_miles": 31.3,
-    "source": "Dogs Trust",
-    "reserved": true,
     "first_seen": null
   },
   {
