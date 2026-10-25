@@ -368,7 +368,7 @@
     "location": "Dogs Trust Evesham (Worcestershire)",
     "distance_miles": 99.5,
     "source": "Dogs Trust",
-    "reserved": false,
+    "reserved": true,
     "first_seen": "2026-09-19T09:29:50.728341+00:00"
   },
   {
