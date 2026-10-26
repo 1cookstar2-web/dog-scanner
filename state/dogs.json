@@ -25,10 +25,10 @@
   },
   {
     "url": "https://woodgreen.org.uk/pets/alfie-border-collie-dog/",
-    "name": "Pets available for adoption",
+    "name": "Alfie",
     "breed": "border collie",
-    "age": null,
-    "sex": null,
+    "age": "7 years",
+    "sex": "Male",
     "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
     "distance_miles": 110.5,
     "source": "Woodgreen Pets Charity",
@@ -226,18 +226,6 @@
     "source": "FurBuddies",
     "reserved": false,
     "first_seen": "2026-10-19T19:38:46.121306+00:00"
-  },
-  {
-    "url": "https://www.nawt.org.uk/rehoming/animal/13364/",
-    "name": "Parker",
-    "breed": "Sprollie",
-    "age": "0 years 3 months",
-    "sex": "Male",
-    "location": "NAWT Hertfordshire",
-    "distance_miles": 70.6,
-    "source": "NAWT",
-    "reserved": true,
-    "first_seen": "2026-10-18T16:34:57.019478+00:00"
   },
   {
     "url": "https://www.nawt.org.uk/rehoming/animal/13358/",
