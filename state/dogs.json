@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://dogsnhomes.org.uk/adopt-a-dog/lilly-rescue-puppy/",
+    "name": "Lilly",
+    "breed": "Border Collie",
+    "age": "4 months",
+    "sex": "Male",
+    "location": "Dogs N Homes (Fleet, Hampshire)",
+    "distance_miles": 35.0,
+    "source": "Dogs N Homes",
+    "reserved": false,
+    "first_seen": "2026-10-26T23:42:46.668202+00:00"
+  },
+  {
     "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/skye",
     "name": "Skye",
     "breed": "Spaniel: Cocker",
@@ -567,7 +579,7 @@
     "url": "https://woodgreen.org.uk/pets/max-border-collie-x-lurcher-dog/",
     "name": "Max",
     "breed": "border collie x lurcher Max",
-    "age": "7 years",
+    "age": "8 years",
     "sex": "Male",
     "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
     "distance_miles": 110.5,
