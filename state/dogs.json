@@ -24,18 +24,6 @@
     "first_seen": "2026-10-25T16:41:14.011811+00:00"
   },
   {
-    "url": "https://woodgreen.org.uk/pets/lana-springer-spaniel-cross-dog/",
-    "name": "Lana",
-    "breed": "springer spaniel cross",
-    "age": "6 years",
-    "sex": "Female",
-    "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
-    "distance_miles": 110.5,
-    "source": "Woodgreen Pets Charity",
-    "reserved": false,
-    "first_seen": "2026-10-24T13:32:49.430394+00:00"
-  },
-  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3671067",
     "name": "Bryony",
     "breed": "Collie (Border)",
@@ -562,18 +550,6 @@
     "source": "PPBC",
     "reserved": false,
     "first_seen": "2026-08-19T12:52:22.656864+00:00"
-  },
-  {
-    "url": "https://woodgreen.org.uk/pets/max-border-collie-x-lurcher-dog/",
-    "name": "Max",
-    "breed": "border collie x lurcher Max",
-    "age": "7 years",
-    "sex": "Male",
-    "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
-    "distance_miles": 110.5,
-    "source": "Woodgreen Pets Charity",
-    "reserved": false,
-    "first_seen": "2026-08-16T10:56:06.088545+00:00"
   },
   {
     "url": "https://alldogsmatter.co.uk/dogs/anna-2/",
