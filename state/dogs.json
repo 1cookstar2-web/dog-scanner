@@ -1,15 +1,15 @@
 [
   {
-    "url": "https://dogsnhomes.org.uk/adopt-a-dog/lilly-rescue-puppy/",
-    "name": "Lilly",
-    "breed": "Border Collie",
-    "age": "4 months",
-    "sex": "Male",
-    "location": "Dogs N Homes (Fleet, Hampshire)",
-    "distance_miles": 35.0,
-    "source": "Dogs N Homes",
+    "url": "https://www.nessr.org/single-post/marley-7-month-old-ess",
+    "name": "Marley",
+    "breed": "Ess",
+    "age": "7 month old",
+    "sex": null,
+    "location": "NESSR (North of England)",
+    "distance_miles": 232.5,
+    "source": "NESSR",
     "reserved": false,
-    "first_seen": "2026-10-26T23:42:46.668202+00:00"
+    "first_seen": "2026-10-27T08:15:55.091529+00:00"
   },
   {
     "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/skye",
