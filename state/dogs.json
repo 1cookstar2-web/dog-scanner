@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://mutts-in-distress.org.uk/mutts-dogs/#balloo",
+    "name": "Balloo",
+    "breed": "Border Collie",
+    "age": null,
+    "sex": "Male",
+    "location": "Mutts in Distress (Herts/Essex)",
+    "distance_miles": 87.0,
+    "source": "Mutts in Distress",
+    "reserved": false,
+    "first_seen": "2026-10-29T18:47:34.589612+00:00"
+  },
+  {
     "url": "https://teckelsanimalsanctuaries.co.uk/animals/chestnut/",
     "name": "Chestnut",
     "breed": "Spaniel",
@@ -20,32 +32,8 @@
     "location": "Dogs Trust Salisbury (Wiltshire)",
     "distance_miles": 40.5,
     "source": "Dogs Trust",
-    "reserved": false,
+    "reserved": true,
     "first_seen": "2026-10-28T15:30:18.982141+00:00"
-  },
-  {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/6285/",
-    "name": "Pebble",
-    "breed": "Cocker Spaniel",
-    "age": "7 years",
-    "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-10-28T15:30:18.982141+00:00"
-  },
-  {
-    "url": "https://www.lastchanceanimalrescue.co.uk/kennel/dog.php#Luna",
-    "name": "Luna",
-    "breed": "Cocker spaniel collie cross",
-    "age": "5yrs",
-    "sex": "Female",
-    "location": "Last Chance Edenbridge",
-    "distance_miles": 53.5,
-    "source": "Last Chance",
-    "reserved": false,
-    "first_seen": "2026-10-27T14:37:29.017918+00:00"
   },
   {
     "url": "https://www.nessr.org/single-post/marley-7-month-old-ess",
@@ -300,6 +288,18 @@
     "first_seen": "2026-10-18T13:15:14.663847+00:00"
   },
   {
+    "url": "https://dogsnhomes.org.uk/adopt-a-dog/hayden/",
+    "name": "Hayden",
+    "breed": "Spaniel",
+    "age": "4 months",
+    "sex": "Male",
+    "location": "Dogs N Homes (Fleet, Hampshire)",
+    "distance_miles": 35.0,
+    "source": "Dogs N Homes",
+    "reserved": false,
+    "first_seen": "2026-10-16T21:59:37.697982+00:00"
+  },
+  {
     "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#reggie",
     "name": "Reggie",
     "breed": "Cocker / English Springer Spaniel",
@@ -408,18 +408,6 @@
     "first_seen": "2026-09-30T15:07:18.916817+00:00"
   },
   {
-    "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#sweep",
-    "name": "Sweep",
-    "breed": "Border Collie (rescue specialist)",
-    "age": "5 years",
-    "sex": null,
-    "location": "PPBC (Ammanford, Wales; UK-wide fosters)",
-    "distance_miles": 147.3,
-    "source": "PPBC",
-    "reserved": false,
-    "first_seen": "2026-09-30T15:07:18.916817+00:00"
-  },
-  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3662509",
     "name": "Archer",
     "breed": "Collie (Border)",
@@ -490,18 +478,6 @@
     "source": "Dogs Trust",
     "reserved": false,
     "first_seen": "2026-09-10T17:29:35.287215+00:00"
-  },
-  {
-    "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#charlie",
-    "name": "Charlie",
-    "breed": "Border Collie (rescue specialist)",
-    "age": "10 years",
-    "sex": null,
-    "location": "PPBC (Ammanford, Wales; UK-wide fosters)",
-    "distance_miles": 147.3,
-    "source": "PPBC",
-    "reserved": false,
-    "first_seen": "2026-09-08T13:50:35.757858+00:00"
   },
   {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6098/",
