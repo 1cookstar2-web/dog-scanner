@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.margaretgreenanimalrescue.org.uk/dog/56621/",
+    "name": "Fig",
+    "breed": "Border Collie",
+    "age": null,
+    "sex": "Female",
+    "location": "Margaret Green (Wareham, Dorset)",
+    "distance_miles": 49.7,
+    "source": "Margaret Green",
+    "reserved": false,
+    "first_seen": "2026-10-30T15:43:59.398394+00:00"
+  },
+  {
     "url": "https://mutts-in-distress.org.uk/mutts-dogs/#balloo",
     "name": "Balloo",
     "breed": "Border Collie",
@@ -22,18 +34,6 @@
     "source": "Teckels Animal Sanctuary",
     "reserved": false,
     "first_seen": "2026-10-29T12:53:00.283731+00:00"
-  },
-  {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/6285/",
-    "name": "Pebble",
-    "breed": "Cocker Spaniel",
-    "age": "7 years",
-    "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-10-28T15:30:18.982141+00:00"
   },
   {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/spaniel-english-springer/3671401",
@@ -168,18 +168,6 @@
     "first_seen": "2026-10-22T14:38:48.915880+00:00"
   },
   {
-    "url": "https://www.dogstrust.org.uk/rehoming/dogs/bulldog/3669332",
-    "name": "Ghost",
-    "breed": "Bulldog Cross \u00d7 Collie (Border)",
-    "age": "2y 8m",
-    "sex": "Male",
-    "location": "Dogs Trust Newbury (Berkshire)",
-    "distance_miles": 45.3,
-    "source": "Dogs Trust",
-    "reserved": false,
-    "first_seen": "2026-10-22T09:36:36.959821+00:00"
-  },
-  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6283/",
     "name": "Comet",
     "breed": "Cocker Spaniel",
@@ -298,18 +286,6 @@
     "source": "NAWT",
     "reserved": true,
     "first_seen": "2026-10-18T13:15:14.663847+00:00"
-  },
-  {
-    "url": "https://dogsnhomes.org.uk/adopt-a-dog/hayden/",
-    "name": "Hayden",
-    "breed": "Spaniel",
-    "age": "4 months",
-    "sex": "Male",
-    "location": "Dogs N Homes (Fleet, Hampshire)",
-    "distance_miles": 35.0,
-    "source": "Dogs N Homes",
-    "reserved": false,
-    "first_seen": "2026-10-16T21:59:37.697982+00:00"
   },
   {
     "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#reggie",
@@ -600,18 +576,6 @@
     "first_seen": "2026-08-12T10:40:47.968184+00:00"
   },
   {
-    "url": "https://alldogsmatter.co.uk/dogs/safi/",
-    "name": "Safi",
-    "breed": "Spaniel cross",
-    "age": "2-3 years old (approx.)",
-    "sex": "Female",
-    "location": "AllDogsMatter (North London)",
-    "distance_miles": 66.1,
-    "source": "AllDogsMatter",
-    "reserved": false,
-    "first_seen": "2026-08-12T10:40:47.968184+00:00"
-  },
-  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6033/",
     "name": "Eve",
     "breed": "Cocker Spaniel",
@@ -622,18 +586,6 @@
     "source": "Many Tears",
     "reserved": false,
     "first_seen": "2026-08-08T11:47:20.204086+00:00"
-  },
-  {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/6042/",
-    "name": "Faith",
-    "breed": "Collie",
-    "age": "9 months",
-    "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-08-07T08:41:40.384989+00:00"
   },
   {
     "url": "https://www.dogsblog.com/glen-17/",
