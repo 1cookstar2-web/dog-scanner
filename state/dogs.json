@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.spanielassist.com/adopt#gunner",
+    "name": "Gunner",
+    "breed": "Cocker Spaniel / Working Cocker",
+    "age": null,
+    "sex": null,
+    "location": "Spaniel Assist (UK-wide fosters)",
+    "distance_miles": 107.1,
+    "source": "Spaniel Assist",
+    "reserved": false,
+    "first_seen": "2026-10-30T20:10:27.657845+00:00"
+  },
+  {
     "url": "https://www.margaretgreenanimalrescue.org.uk/dog/56621/",
     "name": "Fig",
     "breed": "Border Collie",
