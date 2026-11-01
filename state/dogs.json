@@ -36,30 +36,6 @@
     "first_seen": "2026-10-31T15:10:28.674135+00:00"
   },
   {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/6291/",
-    "name": "Floss",
-    "breed": "Cocker Spaniel",
-    "age": "2 years",
-    "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-10-31T15:10:28.674135+00:00"
-  },
-  {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/6293/",
-    "name": "Maggie",
-    "breed": "Bearded collie",
-    "age": "1 year",
-    "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-10-31T15:10:28.674135+00:00"
-  },
-  {
     "url": "https://www.spanielassist.com/adopt#gunner",
     "name": "Gunner",
     "breed": "Cocker Spaniel / Working Cocker",
@@ -108,6 +84,18 @@
     "first_seen": "2026-10-29T12:53:00.283731+00:00"
   },
   {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6285/",
+    "name": "Pebble",
+    "breed": "Cocker Spaniel",
+    "age": "7 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-10-28T15:30:18.982141+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/spaniel-english-springer/3671401",
     "name": "Dora",
     "breed": "Spaniel (English Springer) Cross",
@@ -153,18 +141,6 @@
     "distance_miles": 180.8,
     "source": "Collie Rescue R&S",
     "reserved": false,
-    "first_seen": "2026-10-26T14:12:24.536512+00:00"
-  },
-  {
-    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/skye",
-    "name": "Skye",
-    "breed": "Spaniel: Cocker",
-    "age": "6 Years\n  \n      ,     11 Months",
-    "sex": null,
-    "location": "Battersea Old Windsor",
-    "distance_miles": 50.8,
-    "source": "Battersea",
-    "reserved": true,
     "first_seen": "2026-10-26T14:12:24.536512+00:00"
   },
   {
@@ -636,6 +612,18 @@
     "first_seen": "2026-08-12T10:40:47.968184+00:00"
   },
   {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6033/",
+    "name": "Eve",
+    "breed": "Cocker Spaniel",
+    "age": "4 years",
+    "sex": "Female",
+    "location": "Many Tears (In Foster: Orpington,  Greater London; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-08-08T11:47:20.204086+00:00"
+  },
+  {
     "url": "https://www.dogsblog.com/lara-57/",
     "name": "Lara",
     "breed": "Springer Spaniel",
@@ -704,18 +692,6 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
-    "name": "Floki",
-    "breed": "Collie/Springer match (Romanian rescue)",
-    "age": null,
-    "sex": null,
-    "location": "RRAUK (Hampshire / Bordon fosters)",
-    "distance_miles": 23.4,
-    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
