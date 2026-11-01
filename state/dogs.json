@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3673214",
+    "name": "Percy",
+    "breed": "Collie (Border)",
+    "age": "7 months",
+    "sex": "Male",
+    "location": "Dogs Trust Evesham (Worcestershire)",
+    "distance_miles": 99.5,
+    "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": "2026-11-01T19:14:43.030324+00:00"
+  },
+  {
     "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#newrory",
     "name": "Newrory",
     "breed": "Cocker / English Springer Spaniel",
@@ -12,18 +24,6 @@
     "first_seen": "2026-10-31T22:34:34.693366+00:00"
   },
   {
-    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3671143",
-    "name": "Glen",
-    "breed": "Collie (Border)",
-    "age": "1 years",
-    "sex": "Male",
-    "location": "Dogs Trust Evesham (Worcestershire)",
-    "distance_miles": 99.5,
-    "source": "Dogs Trust",
-    "reserved": false,
-    "first_seen": "2026-10-31T15:10:28.674135+00:00"
-  },
-  {
     "url": "https://woodgreen.org.uk/pets/jim-collie-x-huntaway-dog/",
     "name": "Jim",
     "breed": "collie x huntaway Jim",
@@ -33,6 +33,18 @@
     "distance_miles": 110.5,
     "source": "Woodgreen Pets Charity",
     "reserved": false,
+    "first_seen": "2026-10-31T15:10:28.674135+00:00"
+  },
+  {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3671143",
+    "name": "Glen",
+    "breed": "Collie (Border)",
+    "age": "1 years",
+    "sex": "Male",
+    "location": "Dogs Trust Evesham (Worcestershire)",
+    "distance_miles": 99.5,
+    "source": "Dogs Trust",
+    "reserved": true,
     "first_seen": "2026-10-31T15:10:28.674135+00:00"
   },
   {
@@ -166,18 +178,6 @@
     "source": "Border Collie Spot",
     "reserved": false,
     "first_seen": "2026-10-25T16:41:14.011811+00:00"
-  },
-  {
-    "url": "https://woodgreen.org.uk/pets/lana-springer-spaniel-cross-dog/",
-    "name": "Lana",
-    "breed": "springer spaniel cross",
-    "age": "6 years",
-    "sex": "Female",
-    "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
-    "distance_miles": 110.5,
-    "source": "Woodgreen Pets Charity",
-    "reserved": false,
-    "first_seen": "2026-10-24T13:32:49.430394+00:00"
   },
   {
     "url": "https://alldogsmatter.co.uk/dogs/beef/",
