@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://www.margaretgreenanimalrescue.org.uk/dog/56634/",
+    "name": "Blaze",
+    "breed": "Border Collie",
+    "age": "8 years",
+    "sex": "Male",
+    "location": "Margaret Green (Wareham, Dorset)",
+    "distance_miles": 49.7,
+    "source": "Margaret Green",
+    "reserved": false,
+    "first_seen": "2026-11-04T17:31:12.168025+00:00"
+  },
+  {
+    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/barney-0",
+    "name": "Barney",
+    "breed": "Collie: Border",
+    "age": "1 Year\n  \n      ,     3 Months",
+    "sex": null,
+    "location": "Battersea London",
+    "distance_miles": 60.4,
+    "source": "Battersea",
+    "reserved": false,
+    "first_seen": "2026-11-04T17:31:12.168025+00:00"
+  },
+  {
+    "url": "https://www.ferneanimalsanctuary.org/animal/poppy/",
+    "name": "Poppy",
+    "breed": "Collie/Springer match",
+    "age": "3 years",
+    "sex": "Female",
+    "location": "Ferne Animal Sanctuary (Chard, Somerset)",
+    "distance_miles": 86.4,
+    "source": "Ferne",
+    "reserved": false,
+    "first_seen": "2026-11-04T17:31:12.168025+00:00"
+  },
+  {
     "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#rory",
     "name": "Rory",
     "breed": "Cocker / English Springer Spaniel",
@@ -10,18 +46,6 @@
     "source": "CAESSR",
     "reserved": false,
     "first_seen": "2026-11-04T02:24:26.856259+00:00"
-  },
-  {
-    "url": "https://www.ferneanimalsanctuary.org/animal/angel/",
-    "name": "Angel",
-    "breed": "Collie/Springer match",
-    "age": "3 years",
-    "sex": "Female",
-    "location": "Ferne Animal Sanctuary (Chard, Somerset)",
-    "distance_miles": 86.4,
-    "source": "Ferne",
-    "reserved": false,
-    "first_seen": "2026-11-03T16:58:21.295918+00:00"
   },
   {
     "url": "https://www.ferneanimalsanctuary.org/animal/axel-2/",
@@ -204,18 +228,6 @@
     "first_seen": "2026-10-22T14:38:48.915880+00:00"
   },
   {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/6283/",
-    "name": "Comet",
-    "breed": "Cocker Spaniel",
-    "age": "6 years",
-    "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-10-22T09:36:36.959821+00:00"
-  },
-  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6260/",
     "name": "Rebecca",
     "breed": "Cocker Spaniel",
@@ -276,30 +288,6 @@
     "first_seen": "2026-10-20T17:19:54.913560+00:00"
   },
   {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/6286/",
-    "name": "Erin",
-    "breed": "Cocker Spaniel",
-    "age": "5 years",
-    "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-10-20T12:18:26.107983+00:00"
-  },
-  {
-    "url": "https://www.nessr.org/single-post/oscar-7-year-old-wcs",
-    "name": "Oscar",
-    "breed": "Working Cocker Spaniel",
-    "age": "7 year old",
-    "sex": null,
-    "location": "NESSR (North of England)",
-    "distance_miles": 232.5,
-    "source": "NESSR",
-    "reserved": false,
-    "first_seen": "2026-10-20T12:18:26.107983+00:00"
-  },
-  {
     "url": "https://furbuddies.org/fia",
     "name": "Fia",
     "breed": "Smooth Collie",
@@ -322,6 +310,18 @@
     "source": "NAWT",
     "reserved": true,
     "first_seen": "2026-10-18T13:15:14.663847+00:00"
+  },
+  {
+    "url": "https://woodgreen.org.uk/pets/calli-collie-border-x-lurcher-dog/",
+    "name": "Calli",
+    "breed": "collie",
+    "age": "8 years",
+    "sex": "Female",
+    "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
+    "distance_miles": 110.5,
+    "source": "Woodgreen Pets Charity",
+    "reserved": false,
+    "first_seen": "2026-10-15T12:31:05.810334+00:00"
   },
   {
     "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#reggie",
@@ -382,6 +382,18 @@
     "source": "NESSR",
     "reserved": false,
     "first_seen": "2026-10-09T02:58:23.444741+00:00"
+  },
+  {
+    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/alice",
+    "name": "Alice",
+    "breed": "Spaniel: Cocker",
+    "age": "5 Years\n  \n      ,     10 Months",
+    "sex": null,
+    "location": "Battersea Old Windsor",
+    "distance_miles": 50.8,
+    "source": "Battersea",
+    "reserved": false,
+    "first_seen": "2026-10-05T23:12:14.022848+00:00"
   },
   {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#mr-bean",
@@ -521,23 +533,11 @@
     "breed": "Spaniel: Irish Water",
     "age": "3 Years\n  \n      ,     2 Months",
     "sex": null,
-    "location": "Battersea Old Windsor",
-    "distance_miles": 50.8,
+    "location": "Battersea (London / Old Windsor / Brands Hatch)",
+    "distance_miles": 62.7,
     "source": "Battersea",
     "reserved": false,
     "first_seen": "2026-08-23T14:52:02.675567+00:00"
-  },
-  {
-    "url": "https://www.rspca.org.uk/local/sussex-west-branch/findapet/details/PIPPIN_/BSA2148709/rehome",
-    "name": "Pippin",
-    "breed": "Collie (Smooth coat)",
-    "age": "6-12 Months",
-    "sex": null,
-    "location": "RSPCA Sussex West (Mount Noddy, Chichester)",
-    "distance_miles": 11.1,
-    "source": "RSPCA Sussex West",
-    "reserved": true,
-    "first_seen": "2026-08-23T11:40:54.796365+00:00"
   },
   {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#trixie",
@@ -562,18 +562,6 @@
     "source": "AllDogsMatter",
     "reserved": false,
     "first_seen": "2026-08-12T10:40:47.968184+00:00"
-  },
-  {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/6042/",
-    "name": "Faith",
-    "breed": "Collie",
-    "age": "10 months",
-    "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-08-07T08:41:40.384989+00:00"
   },
   {
     "url": "https://www.dogsblog.com/glen-17/",
