@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#rory",
+    "name": "Rory",
+    "breed": "Cocker / English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "CAESSR (UK-wide fosters)",
+    "distance_miles": null,
+    "source": "CAESSR",
+    "reserved": false,
+    "first_seen": "2026-11-04T02:24:26.856259+00:00"
+  },
+  {
     "url": "https://www.ferneanimalsanctuary.org/animal/angel/",
     "name": "Angel",
     "breed": "Collie/Springer match",
@@ -58,18 +70,6 @@
     "source": "Dogs Trust",
     "reserved": false,
     "first_seen": "2026-11-02T09:23:18.452523+00:00"
-  },
-  {
-    "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#newrory",
-    "name": "Newrory",
-    "breed": "Cocker / English Springer Spaniel",
-    "age": null,
-    "sex": null,
-    "location": "CAESSR (UK-wide fosters)",
-    "distance_miles": null,
-    "source": "CAESSR",
-    "reserved": false,
-    "first_seen": "2026-10-31T22:34:34.693366+00:00"
   },
   {
     "url": "https://woodgreen.org.uk/pets/jim-collie-x-huntaway-dog/",
@@ -538,6 +538,18 @@
     "source": "Battersea",
     "reserved": false,
     "first_seen": "2026-08-23T14:52:02.675567+00:00"
+  },
+  {
+    "url": "https://www.rspca.org.uk/local/sussex-west-branch/findapet/details/PIPPIN_/BSA2148709/rehome",
+    "name": "Pippin",
+    "breed": "Collie (Smooth coat)",
+    "age": "6-12 Months",
+    "sex": null,
+    "location": "RSPCA Sussex West (Mount Noddy, Chichester)",
+    "distance_miles": 11.1,
+    "source": "RSPCA Sussex West",
+    "reserved": true,
+    "first_seen": "2026-08-23T11:40:54.796365+00:00"
   },
   {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#trixie",
