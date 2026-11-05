@@ -300,6 +300,18 @@
     "first_seen": "2026-10-20T17:19:54.913560+00:00"
   },
   {
+    "url": "https://www.nessr.org/single-post/oscar-7-year-old-wcs",
+    "name": "Oscar",
+    "breed": "Working Cocker Spaniel",
+    "age": "7 year old",
+    "sex": null,
+    "location": "NESSR (North of England)",
+    "distance_miles": 232.5,
+    "source": "NESSR",
+    "reserved": false,
+    "first_seen": "2026-10-20T12:18:26.107983+00:00"
+  },
+  {
     "url": "https://furbuddies.org/fia",
     "name": "Fia",
     "breed": "Smooth Collie",
@@ -404,7 +416,7 @@
     "location": "Battersea Old Windsor",
     "distance_miles": 50.8,
     "source": "Battersea",
-    "reserved": false,
+    "reserved": true,
     "first_seen": "2026-10-05T23:12:14.022848+00:00"
   },
   {
@@ -586,6 +598,18 @@
     "source": "AllDogsMatter",
     "reserved": false,
     "first_seen": "2026-08-12T10:40:47.968184+00:00"
+  },
+  {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6041/",
+    "name": "Fallon",
+    "breed": "Collie",
+    "age": "2 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-08-06T12:17:53.465165+00:00"
   },
   {
     "url": "https://www.dogsblog.com/glen-17/",
