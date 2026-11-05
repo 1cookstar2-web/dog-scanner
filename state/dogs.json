@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.spanielrescuefoundation.org/srf202",
+    "name": "Galaxy",
+    "breed": "Cocker Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "Spaniel Rescue Foundation (Middle Rasen, Lincs; UK-wide fosters)",
+    "distance_miles": 182.8,
+    "source": "Spaniel Rescue Foundation",
+    "reserved": false,
+    "first_seen": "2026-11-05T23:43:27.689431+00:00"
+  },
+  {
     "url": "https://www.dogsblog.com/cindy-56/",
     "name": "Cindy",
     "breed": "Collie Cross",
@@ -579,7 +591,7 @@
     "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/niamh",
     "name": "Niamh",
     "breed": "Spaniel: Irish Water",
-    "age": "3 Years\n  \n      ,     2 Months",
+    "age": "3 Years\n  \n      ,     3 Months",
     "sex": null,
     "location": "Battersea (London / Old Windsor / Brands Hatch)",
     "distance_miles": 62.7,
