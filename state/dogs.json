@@ -240,18 +240,6 @@
     "first_seen": "2026-10-31T15:10:28.674135+00:00"
   },
   {
-    "url": "https://www.spanielassist.com/adopt#gunner",
-    "name": "Gunner",
-    "breed": "Cocker Spaniel / Working Cocker",
-    "age": null,
-    "sex": null,
-    "location": "Spaniel Assist (UK-wide fosters)",
-    "distance_miles": 107.1,
-    "source": "Spaniel Assist",
-    "reserved": false,
-    "first_seen": "2026-10-30T20:10:27.657845+00:00"
-  },
-  {
     "url": "https://www.margaretgreenanimalrescue.org.uk/dog/56621/",
     "name": "Fig",
     "breed": "German Shepherd X Border Collie",
@@ -754,6 +742,18 @@
     "source": "Dogsblog",
     "reserved": false,
     "first_seen": "2026-07-27T11:51:20.330850+00:00"
+  },
+  {
+    "url": "https://www.pawprints2freedom.co.uk/post/fred-1-year-old-male",
+    "name": "Fred",
+    "breed": "border collie to shame! Freds current famil",
+    "age": "1 years",
+    "sex": "Male",
+    "location": "Pawprints to Freedom (UK-wide fosters)",
+    "distance_miles": 107.1,
+    "source": "Pawprints to Freedom",
+    "reserved": false,
+    "first_seen": "2026-07-22T12:44:43.553189+00:00"
   },
   {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6022/",
