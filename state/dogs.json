@@ -1,5 +1,29 @@
 [
   {
+    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/dumpling",
+    "name": "Dumpling",
+    "breed": "Spaniel: Cocker",
+    "age": "4 Years\n  \n      ,     10 Months",
+    "sex": null,
+    "location": "Battersea Old Windsor",
+    "distance_miles": 50.8,
+    "source": "Battersea",
+    "reserved": false,
+    "first_seen": "2026-11-07T16:06:03.455816+00:00"
+  },
+  {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6304/",
+    "name": "Rita",
+    "breed": "Cocker Spaniel",
+    "age": "4 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-11-07T16:06:03.455816+00:00"
+  },
+  {
     "url": "https://woodgreen.org.uk/pets/stevie-cocker-spaniel-dog/",
     "name": "Stevie",
     "breed": "cocker spaniel",
@@ -24,18 +48,6 @@
     "first_seen": "2026-11-06T18:24:27.190717+00:00"
   },
   {
-    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/bliss",
-    "name": "Bliss",
-    "breed": "Spaniel: English Springer",
-    "age": "1 Year\n  \n      ,     1 Month",
-    "sex": null,
-    "location": "Battersea Old Windsor",
-    "distance_miles": 50.8,
-    "source": "Battersea",
-    "reserved": false,
-    "first_seen": "2026-11-06T11:35:49.736550+00:00"
-  },
-  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6313/",
     "name": "Rhonda",
     "breed": "Cocker Spaniel",
@@ -57,6 +69,18 @@
     "distance_miles": 150.3,
     "source": "Many Tears",
     "reserved": false,
+    "first_seen": "2026-11-06T11:35:49.736550+00:00"
+  },
+  {
+    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/bliss",
+    "name": "Bliss",
+    "breed": "Spaniel: English Springer",
+    "age": "1 Year\n  \n      ,     1 Month",
+    "sex": null,
+    "location": "Battersea Old Windsor",
+    "distance_miles": 50.8,
+    "source": "Battersea",
+    "reserved": true,
     "first_seen": "2026-11-06T11:35:49.736550+00:00"
   },
   {
@@ -322,18 +346,6 @@
     "source": "Dogs Trust",
     "reserved": false,
     "first_seen": "2026-10-23T15:10:45.836668+00:00"
-  },
-  {
-    "url": "https://www.margaretgreenanimalrescue.org.uk/dog/56584/",
-    "name": "Spaniel",
-    "breed": "English Springer",
-    "age": "7 years",
-    "sex": "Male",
-    "location": "Margaret Green (Wareham, Dorset)",
-    "distance_miles": 49.7,
-    "source": "Margaret Green",
-    "reserved": false,
-    "first_seen": "2026-10-22T14:38:48.915880+00:00"
   },
   {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6260/",
@@ -622,18 +634,6 @@
     "source": "PPBC",
     "reserved": false,
     "first_seen": "2026-09-01T12:47:24.560355+00:00"
-  },
-  {
-    "url": "https://www.margaretgreenanimalrescue.org.uk/dog/42859/",
-    "name": "Pepper",
-    "breed": "Collie X JR",
-    "age": "10 years",
-    "sex": "Female",
-    "location": "Margaret Green (Wareham, Dorset)",
-    "distance_miles": 49.7,
-    "source": "Margaret Green",
-    "reserved": true,
-    "first_seen": "2026-08-31T14:03:54.561722+00:00"
   },
   {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6128/",
