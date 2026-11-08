@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.ferneanimalsanctuary.org/animal/ben-and-alfie/",
+    "name": "Ben And Alfie",
+    "breed": "Collie/Springer match",
+    "age": null,
+    "sex": "Male",
+    "location": "Ferne Animal Sanctuary (Chard, Somerset)",
+    "distance_miles": 86.4,
+    "source": "Ferne",
+    "reserved": false,
+    "first_seen": "2026-11-08T20:36:04.577669+00:00"
+  },
+  {
     "url": "https://www.ferneanimalsanctuary.org/animal/milo/",
     "name": "Milo",
     "breed": "Collie/Springer match",
@@ -526,6 +538,18 @@
     "source": "CAESSR",
     "reserved": false,
     "first_seen": "2026-10-15T12:31:05.810334+00:00"
+  },
+  {
+    "url": "https://www.ferneanimalsanctuary.org/animal/chase/",
+    "name": "Chase",
+    "breed": "Collie/Springer match",
+    "age": null,
+    "sex": "Male",
+    "location": "Ferne Animal Sanctuary (Chard, Somerset)",
+    "distance_miles": 86.4,
+    "source": "Ferne",
+    "reserved": false,
+    "first_seen": "2026-10-13T18:12:29.298043+00:00"
   },
   {
     "url": "https://teckelsanimalsanctuaries.co.uk/animals/hazel/",
