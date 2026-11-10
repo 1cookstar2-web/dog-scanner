@@ -483,7 +483,7 @@
     "url": "https://www.nawt.org.uk/rehoming/animal/13358/",
     "name": "Bella",
     "breed": "Cocker Spaniel",
-    "age": "10 years 10 months",
+    "age": "10 years 11 months",
     "sex": "Female",
     "location": "NAWT Bedfordshire",
     "distance_miles": 88.4,
@@ -888,6 +888,18 @@
     "first_seen": null
   },
   {
+    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
+    "name": "Floki",
+    "breed": "Collie/Springer match (Romanian rescue)",
+    "age": null,
+    "sex": null,
+    "location": "RRAUK (Hampshire / Bordon fosters)",
+    "distance_miles": 23.4,
+    "source": "RRAUK",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
     "url": "https://www.arundawndogrescue.co.uk/bigwins",
     "name": "Bigwins",
     "breed": "Collie/Springer match",
@@ -903,7 +915,7 @@
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/akita/3621821",
     "name": "Hugo",
     "breed": "Akita Cross \u00d7 Collie (Border)",
-    "age": "1y 12m",
+    "age": "2 years",
     "sex": "Male",
     "location": "Dogs Trust Newbury (Berkshire)",
     "distance_miles": 45.3,
