@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#comet",
+    "name": "COMET",
+    "breed": "Border Collie (rescue specialist)",
+    "age": "6 years",
+    "sex": null,
+    "location": "PPBC (Ammanford, Wales; UK-wide fosters)",
+    "distance_miles": 147.3,
+    "source": "PPBC",
+    "reserved": false,
+    "first_seen": "2026-11-11T15:39:10.994097+00:00"
+  },
+  {
+    "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#jan",
+    "name": "JAN",
+    "breed": "Border Collie (rescue specialist)",
+    "age": "1 year",
+    "sex": null,
+    "location": "PPBC (Ammanford, Wales; UK-wide fosters)",
+    "distance_miles": 147.3,
+    "source": "PPBC",
+    "reserved": false,
+    "first_seen": "2026-11-11T15:39:10.994097+00:00"
+  },
+  {
+    "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#sj",
+    "name": "SJ",
+    "breed": "Border Collie (rescue specialist)",
+    "age": "6 years",
+    "sex": null,
+    "location": "PPBC (Ammanford, Wales; UK-wide fosters)",
+    "distance_miles": 147.3,
+    "source": "PPBC",
+    "reserved": false,
+    "first_seen": "2026-11-11T15:39:10.994097+00:00"
+  },
+  {
     "url": "https://alldogsmatter.co.uk/dogs/maximus/",
     "name": "Maximus",
     "breed": "Cockerspaniel",
@@ -588,18 +624,6 @@
     "first_seen": "2026-10-09T02:58:23.444741+00:00"
   },
   {
-    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/alice",
-    "name": "Alice",
-    "breed": "Spaniel: Cocker",
-    "age": "5 Years\n  \n      ,     10 Months",
-    "sex": null,
-    "location": "Battersea Old Windsor",
-    "distance_miles": 50.8,
-    "source": "Battersea",
-    "reserved": true,
-    "first_seen": "2026-10-05T23:12:14.022848+00:00"
-  },
-  {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#mr-bean",
     "name": "Mr Bean",
     "breed": "Border Collie (rescue specialist)",
@@ -896,6 +920,18 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
+    "name": "Floki",
+    "breed": "Collie/Springer match (Romanian rescue)",
+    "age": null,
+    "sex": null,
+    "location": "RRAUK (Hampshire / Bordon fosters)",
+    "distance_miles": 23.4,
+    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
