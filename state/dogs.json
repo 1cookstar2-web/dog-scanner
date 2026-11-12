@@ -1,5 +1,89 @@
 [
   {
+    "url": "https://spanielaid.co.uk/spaniel/spud-sa5789-foster-view-to-adopt/",
+    "name": "Spud",
+    "breed": "Springer spaniel",
+    "age": "4 months",
+    "sex": "Male",
+    "location": "Kent, England",
+    "distance_miles": 75.1,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-11-12T18:45:52.326343+00:00"
+  },
+  {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3631624",
+    "name": "Rosie",
+    "breed": "Collie (Border)",
+    "age": "2y 2m",
+    "sex": "Female",
+    "location": "Dogs Trust Evesham (Worcestershire)",
+    "distance_miles": 99.5,
+    "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": "2026-11-12T18:45:52.326343+00:00"
+  },
+  {
+    "url": "https://themayhew.org/dogs/milo-3/",
+    "name": "Milo",
+    "breed": "Springer Spaniel",
+    "age": "5 years 6 months old",
+    "sex": null,
+    "location": "Mayhew (London NW10)",
+    "distance_miles": 62.1,
+    "source": "Mayhew",
+    "reserved": true,
+    "first_seen": "2026-11-12T18:45:52.326343+00:00"
+  },
+  {
+    "url": "https://themayhew.org/dogs/ryder/",
+    "name": "Ryder",
+    "breed": "Springer Spaniel X JRT",
+    "age": "8 months old",
+    "sex": null,
+    "location": "Mayhew (London NW10)",
+    "distance_miles": 62.1,
+    "source": "Mayhew",
+    "reserved": true,
+    "first_seen": "2026-11-12T18:45:52.326343+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/pip-sa5666/",
+    "name": "Pip",
+    "breed": "Working cocker spaniel",
+    "age": "6 years",
+    "sex": "Male",
+    "location": "Leicester, Leicestershire, England",
+    "distance_miles": 127.8,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-11-12T18:45:52.326343+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/munshi-sa5764/",
+    "name": "Munshi",
+    "breed": "Spaniel (mix)",
+    "age": "5 months",
+    "sex": "Male",
+    "location": "Stamford, Lincolnshire, England",
+    "distance_miles": 158.9,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-11-12T18:45:52.326343+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/milo-sa5753/",
+    "name": "Milo",
+    "breed": "Cocker Spaniel",
+    "age": "8 years",
+    "sex": "Male",
+    "location": "Accrington, Lancashire, England",
+    "distance_miles": 218.9,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-11-12T18:45:52.326343+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3676997",
     "name": "Flora",
     "breed": "Collie (Border)",
@@ -201,18 +285,6 @@
     "distance_miles": 150.3,
     "source": "Many Tears",
     "reserved": false,
-    "first_seen": "2026-11-07T16:06:03.455816+00:00"
-  },
-  {
-    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/dumpling",
-    "name": "Dumpling",
-    "breed": "Spaniel: Cocker",
-    "age": "4 Years\n  \n      ,     10 Months",
-    "sex": null,
-    "location": "Battersea Old Windsor",
-    "distance_miles": 50.8,
-    "source": "Battersea",
-    "reserved": true,
     "first_seen": "2026-11-07T16:06:03.455816+00:00"
   },
   {
@@ -852,6 +924,18 @@
     "first_seen": "2026-08-07T08:41:40.384989+00:00"
   },
   {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6030/",
+    "name": "Enfys",
+    "breed": "Cocker Spaniel",
+    "age": "4 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-08-06T12:17:53.465165+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6041/",
     "name": "Fallon",
     "breed": "Collie",
@@ -1305,6 +1389,18 @@
     "distance_miles": 63.4,
     "source": "Mikey's Dog Rescue",
     "reserved": true,
+    "first_seen": null
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/chisel-sa5431/",
+    "name": "Chisel",
+    "breed": "Sprocker (Springer x Cocker spaniel)",
+    "age": "6 years",
+    "sex": "Male",
+    "location": "Burry Port, Carmarthenshire, Wales",
+    "distance_miles": 152.1,
+    "source": "Spaniel Aid",
+    "reserved": false,
     "first_seen": null
   },
   {
