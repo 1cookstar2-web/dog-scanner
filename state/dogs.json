@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3676997",
+    "name": "Flora",
+    "breed": "Collie (Border)",
+    "age": "1y 8m",
+    "sex": "Female",
+    "location": "Dogs Trust Evesham (Worcestershire)",
+    "distance_miles": 99.5,
+    "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": "2026-11-12T10:58:34.662147+00:00"
+  },
+  {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6309/",
+    "name": "Rowena",
+    "breed": "Cocker Spaniel",
+    "age": "3 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-11-12T10:58:34.662147+00:00"
+  },
+  {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6322/",
+    "name": "Wynter",
+    "breed": "Cocker Spaniel",
+    "age": "8 years",
+    "sex": "Male",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-11-12T10:58:34.662147+00:00"
+  },
+  {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#comet",
     "name": "COMET",
     "breed": "Border Collie (rescue specialist)",
@@ -368,7 +404,7 @@
     "location": "Margaret Green (Wareham, Dorset)",
     "distance_miles": 49.7,
     "source": "Margaret Green",
-    "reserved": false,
+    "reserved": true,
     "first_seen": "2026-10-30T15:43:59.398394+00:00"
   },
   {
@@ -552,6 +588,18 @@
     "first_seen": "2026-10-18T13:15:14.663847+00:00"
   },
   {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3668306",
+    "name": "Rascal",
+    "breed": "Collie (Border)",
+    "age": "10y 1m",
+    "sex": "Male",
+    "location": "Dogs Trust Newbury (Berkshire)",
+    "distance_miles": 45.3,
+    "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": "2026-10-16T11:33:26.522283+00:00"
+  },
+  {
     "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#reggie",
     "name": "Reggie",
     "breed": "Cocker / English Springer Spaniel",
@@ -732,6 +780,18 @@
     "first_seen": "2026-09-01T12:47:24.560355+00:00"
   },
   {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6128/",
+    "name": "Lucy",
+    "breed": "Spaniel",
+    "age": "5 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-08-27T16:22:06.600503+00:00"
+  },
+  {
     "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/niamh",
     "name": "Niamh",
     "breed": "Spaniel: Irish Water",
@@ -838,18 +898,6 @@
     "source": "Dogsblog",
     "reserved": false,
     "first_seen": "2026-07-27T11:51:20.330850+00:00"
-  },
-  {
-    "url": "https://www.pawprints2freedom.co.uk/post/fred-1-year-old-male",
-    "name": "Fred",
-    "breed": "border collie to shame! Freds current famil",
-    "age": "1 years",
-    "sex": "Male",
-    "location": "Pawprints to Freedom (UK-wide fosters)",
-    "distance_miles": 107.1,
-    "source": "Pawprints to Freedom",
-    "reserved": false,
-    "first_seen": "2026-07-22T12:44:43.553189+00:00"
   },
   {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6022/",
