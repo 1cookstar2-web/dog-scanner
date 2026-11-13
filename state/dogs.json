@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/spaniel-english-springer/3676994",
+    "name": "Eggnog",
+    "breed": "Spaniel (English Springer) Cross",
+    "age": "3y 1m",
+    "sex": "Female",
+    "location": "Dogs Trust Salisbury (Wiltshire)",
+    "distance_miles": 40.5,
+    "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": "2026-11-13T13:01:42.012467+00:00"
+  },
+  {
     "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#parker",
     "name": "Parker",
     "breed": "Cocker / English Springer Spaniel",
@@ -562,18 +574,6 @@
     "source": "Dogs Trust",
     "reserved": false,
     "first_seen": "2026-10-23T15:10:45.836668+00:00"
-  },
-  {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/6283/",
-    "name": "Comet",
-    "breed": "Cocker Spaniel",
-    "age": "6 years",
-    "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-10-22T09:36:36.959821+00:00"
   },
   {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6260/",
