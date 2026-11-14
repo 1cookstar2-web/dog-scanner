@@ -1,5 +1,29 @@
 [
   {
+    "url": "https://spanielaid.co.uk/spaniel/moss-sa5751/",
+    "name": "Moss",
+    "breed": "English springer spaniel",
+    "age": "6 years",
+    "sex": "Male",
+    "location": "Littlehampton, West Sussex, England",
+    "distance_miles": 19.6,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-11-14T19:23:04.154892+00:00"
+  },
+  {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6353/",
+    "name": "Betty",
+    "breed": "Cocker Spaniel",
+    "age": "5 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-11-14T19:23:04.154892+00:00"
+  },
+  {
     "url": "https://www.ferneanimalsanctuary.org/animal/beau/",
     "name": "Beau",
     "breed": "Collie/Springer match",
