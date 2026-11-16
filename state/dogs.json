@@ -1,5 +1,89 @@
 [
   {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3670364",
+    "name": "Thistle",
+    "breed": "Collie (Border) Cross",
+    "age": "3y 7m",
+    "sex": "Female",
+    "location": "Dogs Trust Salisbury (Wiltshire)",
+    "distance_miles": 40.5,
+    "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": "2026-11-16T18:24:31.066712+00:00"
+  },
+  {
+    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/barney",
+    "name": "Barney",
+    "breed": "Collie: Border",
+    "age": "1 Year\n  \n      ,     3 Months",
+    "sex": null,
+    "location": "Battersea London",
+    "distance_miles": 60.4,
+    "source": "Battersea",
+    "reserved": false,
+    "first_seen": "2026-11-16T18:24:31.066712+00:00"
+  },
+  {
+    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/marmalade",
+    "name": "Marmalade",
+    "breed": "Collie: Border",
+    "age": "4 Years\n  \n      ,     4 Months",
+    "sex": null,
+    "location": "Battersea London",
+    "distance_miles": 60.4,
+    "source": "Battersea",
+    "reserved": false,
+    "first_seen": "2026-11-16T18:24:31.066712+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/teddy-sa5748/",
+    "name": "Teddy",
+    "breed": "Spaniel (mix)",
+    "age": null,
+    "sex": "Male",
+    "location": "OX7, Chipping Norton, England",
+    "distance_miles": 67.9,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-11-16T18:24:31.066712+00:00"
+  },
+  {
+    "url": "https://www.ferneanimalsanctuary.org/animal/bramble/",
+    "name": "Bramble",
+    "breed": "Collie/Springer match",
+    "age": null,
+    "sex": "Female",
+    "location": "Ferne Animal Sanctuary (Chard, Somerset)",
+    "distance_miles": 86.4,
+    "source": "Ferne",
+    "reserved": false,
+    "first_seen": "2026-11-16T18:24:31.066712+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/red-sa-5772/",
+    "name": "Red",
+    "breed": "Working cocker spaniel",
+    "age": "2 years 11 months",
+    "sex": "Female",
+    "location": "MK43, Bedfordshire, England",
+    "distance_miles": 88.4,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-11-16T18:24:31.066712+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/maisie-sa5735/",
+    "name": "Maisie",
+    "breed": "English springer spaniel",
+    "age": "13 years",
+    "sex": "Female",
+    "location": "PL15, Cornwall, England",
+    "distance_miles": 167.3,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-11-16T18:24:31.066712+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/moss-sa5751/",
     "name": "Moss",
     "breed": "English springer spaniel",
@@ -360,18 +444,6 @@
     "first_seen": "2026-11-05T18:19:26.313250+00:00"
   },
   {
-    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/barney-0",
-    "name": "Barney",
-    "breed": "Collie: Border",
-    "age": "1 Year\n  \n      ,     3 Months",
-    "sex": null,
-    "location": "Battersea London",
-    "distance_miles": 60.4,
-    "source": "Battersea",
-    "reserved": false,
-    "first_seen": "2026-11-04T17:31:12.168025+00:00"
-  },
-  {
     "url": "https://www.ferneanimalsanctuary.org/animal/poppy/",
     "name": "Poppy",
     "breed": "Collie/Springer match",
@@ -584,7 +656,7 @@
     "location": "Dogs Trust Salisbury (Wiltshire)",
     "distance_miles": 40.5,
     "source": "Dogs Trust",
-    "reserved": false,
+    "reserved": true,
     "first_seen": "2026-10-21T17:54:30.545818+00:00"
   },
   {
@@ -682,6 +754,18 @@
     "source": "NESSR",
     "reserved": false,
     "first_seen": "2026-10-09T02:58:23.444741+00:00"
+  },
+  {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6232/",
+    "name": "Koala",
+    "breed": "Cocker Spaniel",
+    "age": "5 years",
+    "sex": "Female",
+    "location": "Many Tears (In Foster: Wakefield,  Yorkshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-10-01T16:30:52.376633+00:00"
   },
   {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#mr-bean",
@@ -1045,10 +1129,10 @@
   },
   {
     "url": "https://mikeysdogrescue.co.uk/pages/adopt-a-dog",
-    "name": "Leia",
-    "breed": "Cocker Spaniel",
-    "age": "4 Years Old",
-    "sex": "Female",
+    "name": "Bertie",
+    "breed": "Spaniel Cross",
+    "age": "2 Years Old",
+    "sex": "Male",
     "location": "Mikey's Dog Rescue (Dorset)",
     "distance_miles": 63.4,
     "source": "Mikey's Dog Rescue",
