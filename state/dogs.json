@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/siberian-husky/3670877",
+    "name": "Crystal",
+    "breed": "Siberian Husky Cross \u00d7 Collie (Border)",
+    "age": "6y 11m",
+    "sex": "Female",
+    "location": "Dogs Trust Harefield (West London)",
+    "distance_miles": 60.6,
+    "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": "2026-11-17T10:17:56.492113+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3670364",
     "name": "Thistle",
     "breed": "Collie (Border) Cross",
@@ -206,7 +218,7 @@
   {
     "url": "https://spanielaid.co.uk/spaniel/milo-sa5753/",
     "name": "Milo",
-    "breed": "Cocker Spaniel",
+    "breed": "Spaniel (mix)",
     "age": "8 years",
     "sex": "Male",
     "location": "Accrington, Lancashire, England",
@@ -910,18 +922,6 @@
     "source": "Battersea",
     "reserved": false,
     "first_seen": "2026-08-23T14:52:02.675567+00:00"
-  },
-  {
-    "url": "https://www.rspca.org.uk/local/sussex-west-branch/findapet/details/PIPPIN_/BSA2148709/rehome",
-    "name": "Pippin",
-    "breed": "Collie (Smooth coat)",
-    "age": "6-12 Months",
-    "sex": null,
-    "location": "RSPCA Sussex West (Mount Noddy, Chichester)",
-    "distance_miles": 11.1,
-    "source": "RSPCA Sussex West",
-    "reserved": true,
-    "first_seen": "2026-08-23T11:40:54.796365+00:00"
   },
   {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#trixie",
