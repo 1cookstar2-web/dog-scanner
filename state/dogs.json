@@ -3,7 +3,7 @@
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3670364",
     "name": "Thistle",
     "breed": "Collie (Border) Cross",
-    "age": "3y 7m",
+    "age": "3y 8m",
     "sex": "Female",
     "location": "Dogs Trust Salisbury (Wiltshire)",
     "distance_miles": 40.5,
@@ -996,18 +996,6 @@
     "first_seen": "2026-07-27T11:51:20.330850+00:00"
   },
   {
-    "url": "https://www.dogsblog.com/reyna-3/",
-    "name": "Reyna",
-    "breed": "Border Collie",
-    "age": "6+ years",
-    "sex": "Female",
-    "location": "Location not tagged",
-    "distance_miles": null,
-    "source": "Dogsblog",
-    "reserved": false,
-    "first_seen": "2026-07-27T11:51:20.330850+00:00"
-  },
-  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6022/",
     "name": "Pop",
     "breed": "Collie x Jack Russell Terrier",
@@ -1433,6 +1421,18 @@
     "breed": "Collie Cross",
     "age": "3-5 years",
     "sex": "Male",
+    "location": "Location not tagged",
+    "distance_miles": null,
+    "source": "Dogsblog",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://www.dogsblog.com/reyna-4/",
+    "name": "Reyna",
+    "breed": "Border Collie",
+    "age": "6+ years",
+    "sex": "Female",
     "location": "Location not tagged",
     "distance_miles": null,
     "source": "Dogsblog",
