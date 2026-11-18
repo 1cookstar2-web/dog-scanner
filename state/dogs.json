@@ -1,5 +1,29 @@
 [
   {
+    "url": "https://woodgreen.org.uk/pets/dodger-labrador-x-brittany-spaniel-dog/",
+    "name": "Dodger",
+    "breed": "spaniel",
+    "age": "3 years",
+    "sex": "Male",
+    "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
+    "distance_miles": 110.5,
+    "source": "Woodgreen Pets Charity",
+    "reserved": false,
+    "first_seen": "2026-11-18T18:00:07.010358+00:00"
+  },
+  {
+    "url": "https://woodgreen.org.uk/pets/rebel-cocker-spaniel-cross-dog/",
+    "name": "Rebel",
+    "breed": "cocker spaniel cross",
+    "age": "4 months",
+    "sex": "Female",
+    "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
+    "distance_miles": 110.5,
+    "source": "Woodgreen Pets Charity",
+    "reserved": false,
+    "first_seen": "2026-11-18T18:00:07.010358+00:00"
+  },
+  {
     "url": "https://www.spanielassist.com/adopt#bentley",
     "name": "Bentley",
     "breed": "Cocker Spaniel / Working Cocker",
@@ -34,6 +58,18 @@
     "source": "Pawprints to Freedom",
     "reserved": false,
     "first_seen": "2026-11-18T01:39:48.189543+00:00"
+  },
+  {
+    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/felix",
+    "name": "Felix",
+    "breed": "Collie: Border",
+    "age": "1 Year\n  \n      ,     4 Months",
+    "sex": null,
+    "location": "Battersea London",
+    "distance_miles": 60.4,
+    "source": "Battersea",
+    "reserved": false,
+    "first_seen": "2026-11-17T19:14:03.472273+00:00"
   },
   {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/spaniel-english-springer/3673075",
@@ -288,6 +324,18 @@
     "first_seen": "2026-11-12T10:58:34.662147+00:00"
   },
   {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6322/",
+    "name": "Wynter",
+    "breed": "Cocker Spaniel",
+    "age": "8 years",
+    "sex": "Male",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-11-12T10:58:34.662147+00:00"
+  },
+  {
     "url": "https://www.protectingprelovedbordercollies.org.uk/dogs-for-rehoming#comet",
     "name": "COMET",
     "breed": "Border Collie (rescue specialist)",
@@ -346,18 +394,6 @@
     "source": "Ferne",
     "reserved": false,
     "first_seen": "2026-11-10T14:29:59.095798+00:00"
-  },
-  {
-    "url": "https://phoenixrehoming.co.uk/animals/bandit/",
-    "name": "Interested in adopting Bandit?",
-    "breed": "Collie/Springer match",
-    "age": "5 months",
-    "sex": null,
-    "location": "Phoenix Rehoming (Havant, Hampshire)",
-    "distance_miles": 5.8,
-    "source": "Phoenix Rehoming",
-    "reserved": false,
-    "first_seen": "2026-11-09T23:52:30.563777+00:00"
   },
   {
     "url": "https://www.ferneanimalsanctuary.org/animal/ben-and-alfie/",
@@ -540,18 +576,6 @@
     "first_seen": "2026-11-02T09:23:18.452523+00:00"
   },
   {
-    "url": "https://woodgreen.org.uk/pets/jim-collie-x-huntaway-dog/",
-    "name": "Jim",
-    "breed": "collie x huntaway Reserved",
-    "age": "4 years",
-    "sex": "Male",
-    "location": "Woodgreen Pets Charity (Godmanchester, Cambs)",
-    "distance_miles": 110.5,
-    "source": "Woodgreen Pets Charity",
-    "reserved": false,
-    "first_seen": "2026-10-31T15:10:28.674135+00:00"
-  },
-  {
     "url": "https://www.margaretgreenanimalrescue.org.uk/dog/56621/",
     "name": "Fig",
     "breed": "German Shepherd X Border Collie",
@@ -694,18 +718,6 @@
     "source": "Many Tears",
     "reserved": false,
     "first_seen": "2026-10-20T12:18:26.107983+00:00"
-  },
-  {
-    "url": "https://furbuddies.org/fia",
-    "name": "Fia",
-    "breed": "Smooth Collie",
-    "age": null,
-    "sex": "Female",
-    "location": "FurBuddies (Hordle, New Forest)",
-    "distance_miles": 28.0,
-    "source": "FurBuddies",
-    "reserved": false,
-    "first_seen": "2026-10-19T19:38:46.121306+00:00"
   },
   {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3668306",
@@ -1076,6 +1088,18 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
+    "name": "Floki",
+    "breed": "Collie/Springer match (Romanian rescue)",
+    "age": null,
+    "sex": null,
+    "location": "RRAUK (Hampshire / Bordon fosters)",
+    "distance_miles": 23.4,
+    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
