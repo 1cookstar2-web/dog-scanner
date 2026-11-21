@@ -144,18 +144,6 @@
     "first_seen": "2026-11-19T16:46:33.761393+00:00"
   },
   {
-    "url": "https://spanielaid.co.uk/spaniel/honey-sa5693/",
-    "name": "Honey",
-    "breed": "Spaniel (mix)",
-    "age": "6 years 5 months",
-    "sex": "Female",
-    "location": "Gloucester, Gloucestershire, England",
-    "distance_miles": 90.2,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-11-19T00:12:39.116041+00:00"
-  },
-  {
     "url": "https://woodgreen.org.uk/pets/dodger-labrador-x-brittany-spaniel-dog/",
     "name": "Dodger",
     "breed": "spaniel",
@@ -972,18 +960,6 @@
     "first_seen": "2026-09-01T12:47:24.560355+00:00"
   },
   {
-    "url": "https://www.pawprints2freedom.co.uk/post/astor-1-year-old-female",
-    "name": "Astor",
-    "breed": "collie type who will turn heads wher",
-    "age": "1 years",
-    "sex": "Female",
-    "location": "Pawprints to Freedom (UK-wide fosters)",
-    "distance_miles": 107.1,
-    "source": "Pawprints to Freedom",
-    "reserved": false,
-    "first_seen": "2026-08-29T03:55:17.479573+00:00"
-  },
-  {
     "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/niamh",
     "name": "Niamh",
     "breed": "Spaniel: Irish Water",
@@ -1136,6 +1112,18 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
+    "reserved": false,
+    "first_seen": null
+  },
+  {
+    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
+    "name": "Floki",
+    "breed": "Collie/Springer match (Romanian rescue)",
+    "age": null,
+    "sex": null,
+    "location": "RRAUK (Hampshire / Bordon fosters)",
+    "distance_miles": 23.4,
+    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
