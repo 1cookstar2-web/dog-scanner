@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3678356",
+    "name": "Charlie",
+    "breed": "Collie (Border) Cross",
+    "age": "9 months",
+    "sex": "Male",
+    "location": "Dogs Trust Newbury (Berkshire)",
+    "distance_miles": 45.3,
+    "source": "Dogs Trust",
+    "reserved": false,
+    "first_seen": "2026-11-21T21:52:15.737504+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6364/",
     "name": "Aderyn",
     "breed": "Cocker Spaniel",
@@ -672,18 +684,6 @@
     "first_seen": "2026-10-29T12:53:00.283731+00:00"
   },
   {
-    "url": "https://www.nessr.org/single-post/marley-7-month-old-ess",
-    "name": "Marley",
-    "breed": "Ess",
-    "age": "7 month old",
-    "sex": null,
-    "location": "NESSR (North of England)",
-    "distance_miles": 232.5,
-    "source": "NESSR",
-    "reserved": false,
-    "first_seen": "2026-10-27T08:15:55.091529+00:00"
-  },
-  {
     "url": "https://teckelsanimalsanctuaries.co.uk/animals/rusty/",
     "name": "Rusty",
     "breed": "Spaniel",
@@ -873,18 +873,6 @@
     "distance_miles": 46.3,
     "source": "DBARC",
     "reserved": false,
-    "first_seen": "2026-09-12T22:31:44.670962+00:00"
-  },
-  {
-    "url": "https://dbarc.org.uk/animals-for-rehoming/p/gz46tr766wr68dr-kchc5-c9yck-grhr7-y2ssc-8ncm3-xwplp-t42dl-ml6xc-krphj-ew2jc-hwry6-29sk3-n4xtb-hpwy8-pxm8l-rb93j-9hxbm-94n97-7xjns-at9t4-w597y-yptt9-9yp79-byd6z-7edad-s3b46-g29t9-as5le-3c6yy",
-    "name": "Buddy",
-    "breed": "Collie Cross",
-    "age": "Aprox. 8 Years",
-    "sex": "Male",
-    "location": "DBARC (Hurst, Wokingham)",
-    "distance_miles": 46.3,
-    "source": "DBARC",
-    "reserved": true,
     "first_seen": "2026-09-12T22:31:44.670962+00:00"
   },
   {
