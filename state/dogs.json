@@ -204,18 +204,6 @@
     "first_seen": "2026-11-18T01:39:48.189543+00:00"
   },
   {
-    "url": "https://www.pawprints2freedom.co.uk/post/mason-3-year-old-male",
-    "name": "Mason",
-    "breed": "Collie Size: Large Location: Wrexham",
-    "age": "3 years",
-    "sex": "Male",
-    "location": "Pawprints to Freedom (UK-wide fosters)",
-    "distance_miles": 107.1,
-    "source": "Pawprints to Freedom",
-    "reserved": false,
-    "first_seen": "2026-11-18T01:39:48.189543+00:00"
-  },
-  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/spaniel-english-springer/3673075",
     "name": "Ludo",
     "breed": "Spaniel (English Springer)",
@@ -723,7 +711,7 @@
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3671067",
     "name": "Bryony",
     "breed": "Collie (Border)",
-    "age": "1 years",
+    "age": "1y 1m",
     "sex": "Female",
     "location": "Dogs Trust Salisbury (Wiltshire)",
     "distance_miles": 40.5,
@@ -879,7 +867,7 @@
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3616525",
     "name": "Monty",
     "breed": "Collie (Border) Cross",
-    "age": "1y 5m",
+    "age": "1y 6m",
     "sex": "Male",
     "location": "Dogs Trust Evesham (Worcestershire)",
     "distance_miles": 99.5,
