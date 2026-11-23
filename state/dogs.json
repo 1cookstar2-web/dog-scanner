@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6365/",
+    "name": "Articuno",
+    "breed": "Cocker Spaniel",
+    "age": "6 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-11-23T12:20:08.366011+00:00"
+  },
+  {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/spaniel-english-springer/3669661",
     "name": "Rocco",
     "breed": "Spaniel (English Springer)",
@@ -74,7 +86,7 @@
   {
     "url": "https://spanielaid.co.uk/spaniel/maebel-sa5761/",
     "name": "Maebel",
-    "breed": "Cocker cross",
+    "breed": "Cocker spaniel cross",
     "age": "1 year",
     "sex": "Female",
     "location": "Preston, Lancashire, England",
@@ -99,7 +111,7 @@
     "url": "https://spanielaid.co.uk/spaniel/angel-sa5765/",
     "name": "Angel",
     "breed": "Cocker spaniel",
-    "age": "4 years",
+    "age": "4 years 9 months",
     "sex": "Female",
     "location": "Hockley Heath, Solihull, England",
     "distance_miles": null,
@@ -158,8 +170,8 @@
   {
     "url": "https://spanielaid.co.uk/spaniel/enzo-sa5711-and-leo-sa5710/",
     "name": "Enzo",
-    "breed": "Spaniel (mix)",
-    "age": null,
+    "breed": "Springer spaniel",
+    "age": "18 months",
     "sex": null,
     "location": "Wigan, England",
     "distance_miles": null,
@@ -336,18 +348,6 @@
     "first_seen": "2026-11-14T14:25:59.820210+00:00"
   },
   {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/6350/",
-    "name": "Macsen",
-    "breed": "Collie",
-    "age": "9 months",
-    "sex": "Male",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-11-14T14:25:59.820210+00:00"
-  },
-  {
     "url": "https://spanielaid.co.uk/spaniel/boris/",
     "name": "Boris",
     "breed": "Working cocker spaniel",
@@ -468,18 +468,6 @@
     "first_seen": "2026-11-11T15:39:10.994097+00:00"
   },
   {
-    "url": "https://alldogsmatter.co.uk/dogs/maximus/",
-    "name": "Maximus",
-    "breed": "Cockerspaniel",
-    "age": "8 weeks",
-    "sex": "Male",
-    "location": "AllDogsMatter (North London)",
-    "distance_miles": 66.1,
-    "source": "AllDogsMatter",
-    "reserved": false,
-    "first_seen": "2026-11-10T14:29:59.095798+00:00"
-  },
-  {
     "url": "https://www.ferneanimalsanctuary.org/animal/izzy/",
     "name": "Izzy",
     "breed": "Collie/Springer match",
@@ -528,18 +516,6 @@
     "first_seen": "2026-11-08T16:17:08.636589+00:00"
   },
   {
-    "url": "https://www.manytearsrescue.org/adopt/dogs/6307/",
-    "name": "Rhiannon",
-    "breed": "Cocker Spaniel",
-    "age": "2 years",
-    "sex": "Female",
-    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
-    "distance_miles": 150.3,
-    "source": "Many Tears",
-    "reserved": false,
-    "first_seen": "2026-11-08T16:17:08.636589+00:00"
-  },
-  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6305/",
     "name": "Rosita",
     "breed": "Cocker Spaniel",
@@ -562,6 +538,18 @@
     "source": "Many Tears",
     "reserved": false,
     "first_seen": "2026-11-08T16:17:08.636589+00:00"
+  },
+  {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6304/",
+    "name": "Rita",
+    "breed": "Cocker Spaniel",
+    "age": "4 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-11-07T16:06:03.455816+00:00"
   },
   {
     "url": "https://www.spanielrescuefoundation.org/srf202",
@@ -656,7 +644,7 @@
     "location": "Dogs Trust Salisbury (Wiltshire)",
     "distance_miles": 40.5,
     "source": "Dogs Trust",
-    "reserved": false,
+    "reserved": true,
     "first_seen": "2026-11-02T09:23:18.452523+00:00"
   },
   {
