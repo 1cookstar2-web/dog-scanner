@@ -668,7 +668,7 @@
     "location": "Margaret Green (Wareham, Dorset)",
     "distance_miles": 49.7,
     "source": "Margaret Green",
-    "reserved": true,
+    "reserved": false,
     "first_seen": "2026-10-30T15:43:59.398394+00:00"
   },
   {
@@ -1368,32 +1368,8 @@
     "first_seen": null
   },
   {
-    "url": "https://essw.co.uk/#lanie",
-    "name": "Lanie",
-    "breed": "English Springer Spaniel (rescue specialist)",
-    "age": null,
-    "sex": null,
-    "location": "ESSW (UK-wide fosters; enquire for closest)",
-    "distance_miles": null,
-    "source": "ESSW",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
     "url": "https://essw.co.uk/#momo",
     "name": "Momo",
-    "breed": "English Springer Spaniel (rescue specialist)",
-    "age": null,
-    "sex": null,
-    "location": "ESSW (UK-wide fosters; enquire for closest)",
-    "distance_miles": null,
-    "source": "ESSW",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://essw.co.uk/#nipper",
-    "name": "Nipper",
     "breed": "English Springer Spaniel (rescue specialist)",
     "age": null,
     "sex": null,
