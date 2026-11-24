@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.manytearsrescue.org/adopt/dogs/6363/",
+    "name": "Acorn",
+    "breed": "Cocker Spaniel",
+    "age": "5 years",
+    "sex": "Female",
+    "location": "Many Tears (Many Tears,  Llanelli,  Carmarthenshire; UK-wide fosters)",
+    "distance_miles": 150.3,
+    "source": "Many Tears",
+    "reserved": false,
+    "first_seen": "2026-11-24T00:06:13.087415+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6365/",
     "name": "Articuno",
     "breed": "Cocker Spaniel",
@@ -39,7 +51,7 @@
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3678356",
     "name": "Charlie",
     "breed": "Collie (Border) Cross",
-    "age": "9 months",
+    "age": "10 months",
     "sex": "Male",
     "location": "Dogs Trust Newbury (Berkshire)",
     "distance_miles": 45.3,
@@ -314,7 +326,7 @@
   {
     "url": "https://spanielaid.co.uk/spaniel/maisie-sa5735/",
     "name": "Maisie",
-    "breed": "English springer spaniel",
+    "breed": "while we review current applications English springer spaniel",
     "age": "13 years",
     "sex": "Female",
     "location": "PL15, Cornwall, England",
@@ -410,7 +422,7 @@
   {
     "url": "https://spanielaid.co.uk/spaniel/pip-sa5666/",
     "name": "Pip",
-    "breed": "Working cocker spaniel",
+    "breed": "while we review current applications Working cocker spaniel",
     "age": "6 years",
     "sex": "Male",
     "location": "Leicester, Leicestershire, England",
