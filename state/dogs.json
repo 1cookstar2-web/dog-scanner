@@ -1,5 +1,65 @@
 [
   {
+    "url": "https://www.ferneanimalsanctuary.org/animal/rufus/",
+    "name": "Rufus",
+    "breed": "Collie/Springer match",
+    "age": null,
+    "sex": "Male",
+    "location": "Ferne Animal Sanctuary (Chard, Somerset)",
+    "distance_miles": 86.4,
+    "source": "Ferne",
+    "reserved": false,
+    "first_seen": "2026-11-24T20:23:30.009258+00:00"
+  },
+  {
+    "url": "https://www.pets4homes.co.uk/classifieds/hzliebeo0-darling-maddie-stroud/",
+    "name": "Darling Maddie",
+    "breed": "English Springer Spaniel",
+    "age": "12 years",
+    "sex": null,
+    "location": "Stroud, Gloucestershire",
+    "distance_miles": 90.2,
+    "source": "Pets4Homes (Rescue)",
+    "reserved": false,
+    "first_seen": "2026-11-24T20:23:30.009258+00:00"
+  },
+  {
+    "url": "https://www.caessr.org.uk/rehoming/dogs/needing-homes.html#newvinny",
+    "name": "Newvinny",
+    "breed": "Cocker / English Springer Spaniel",
+    "age": null,
+    "sex": null,
+    "location": "CAESSR (UK-wide fosters)",
+    "distance_miles": null,
+    "source": "CAESSR",
+    "reserved": false,
+    "first_seen": "2026-11-24T20:23:30.009258+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/merle-sa5773/",
+    "name": "Merle",
+    "breed": "Cocker spaniel",
+    "age": "8 years",
+    "sex": "Female",
+    "location": "CO7, Suffolk, England",
+    "distance_miles": 129.4,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-11-24T20:23:30.009258+00:00"
+  },
+  {
+    "url": "https://spanielaid.co.uk/spaniel/scout-sa5681/",
+    "name": "Scout",
+    "breed": "Working cocker spaniel",
+    "age": "3 years 3 months",
+    "sex": "Male",
+    "location": "Macclesfield, Cheshire, England",
+    "distance_miles": 177.9,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-11-24T20:23:30.009258+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6363/",
     "name": "Acorn",
     "breed": "Cocker Spaniel",
@@ -314,7 +374,7 @@
   {
     "url": "https://spanielaid.co.uk/spaniel/red-sa-5772/",
     "name": "Red",
-    "breed": "Working cocker spaniel",
+    "breed": "Spaniel (mix)",
     "age": "2 years 11 months",
     "sex": "Female",
     "location": "MK43, Bedfordshire, England",
@@ -417,18 +477,6 @@
     "distance_miles": 62.1,
     "source": "Mayhew",
     "reserved": true,
-    "first_seen": "2026-11-12T18:45:52.326343+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/pip-sa5666/",
-    "name": "Pip",
-    "breed": "while we review current applications Working cocker spaniel",
-    "age": "6 years",
-    "sex": "Male",
-    "location": "Leicester, Leicestershire, England",
-    "distance_miles": 127.8,
-    "source": "Spaniel Aid",
-    "reserved": false,
     "first_seen": "2026-11-12T18:45:52.326343+00:00"
   },
   {
