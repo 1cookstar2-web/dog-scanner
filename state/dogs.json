@@ -1,5 +1,29 @@
 [
   {
+    "url": "https://www.margaretgreenanimalrescue.org.uk/dog/56559/",
+    "name": "Toby",
+    "breed": "Cocker Spaniel",
+    "age": "10 years",
+    "sex": "Male",
+    "location": "Margaret Green (Wareham, Dorset)",
+    "distance_miles": 49.7,
+    "source": "Margaret Green",
+    "reserved": false,
+    "first_seen": "2026-11-25T22:41:49.517537+00:00"
+  },
+  {
+    "url": "https://www.dogsblog.com/maddie-63/",
+    "name": "Maddie",
+    "breed": "Springer Spaniel",
+    "age": "6+ years",
+    "sex": "Female",
+    "location": "South West England",
+    "distance_miles": null,
+    "source": "Dogsblog",
+    "reserved": false,
+    "first_seen": "2026-11-25T22:41:49.517537+00:00"
+  },
+  {
     "url": "https://www.dogsblog.com/rowan-15/",
     "name": "Rowan",
     "breed": "Spaniel Cross",
@@ -74,7 +98,7 @@
   {
     "url": "https://spanielaid.co.uk/spaniel/scout-sa5681/",
     "name": "Scout",
-    "breed": "Working cocker spaniel",
+    "breed": "Spaniel (mix)",
     "age": "3 years 3 months",
     "sex": "Male",
     "location": "Macclesfield, Cheshire, England",
@@ -153,18 +177,6 @@
     "distance_miles": 60.4,
     "source": "Battersea",
     "reserved": false,
-    "first_seen": "2026-11-20T20:47:07.425667+00:00"
-  },
-  {
-    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/benji",
-    "name": "Benji",
-    "breed": "Spaniel: English Springer",
-    "age": "1 Year\n  \n      ,     10 Months",
-    "sex": null,
-    "location": "Battersea Old Windsor",
-    "distance_miles": 50.8,
-    "source": "Battersea",
-    "reserved": true,
     "first_seen": "2026-11-20T20:47:07.425667+00:00"
   },
   {
@@ -391,18 +403,6 @@
     "sex": "Female",
     "location": "MK43, Bedfordshire, England",
     "distance_miles": 88.4,
-    "source": "Spaniel Aid",
-    "reserved": false,
-    "first_seen": "2026-11-16T18:24:31.066712+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/maisie-sa5735/",
-    "name": "Maisie",
-    "breed": "while we review current applications English springer spaniel",
-    "age": "13 years",
-    "sex": "Female",
-    "location": "PL15, Cornwall, England",
-    "distance_miles": 167.3,
     "source": "Spaniel Aid",
     "reserved": false,
     "first_seen": "2026-11-16T18:24:31.066712+00:00"
@@ -745,7 +745,7 @@
   },
   {
     "url": "https://collierescueroughandsmooth.co.uk/need-adoption/major-wrexham/",
-    "name": "Major \u2013 Wrexham",
+    "name": "Major \u2013 Nottingam",
     "breed": "Sable & White Rough Collie",
     "age": "2 years",
     "sex": "Male",
@@ -1056,6 +1056,18 @@
     "first_seen": "2026-07-27T11:51:20.330850+00:00"
   },
   {
+    "url": "https://www.dogsblog.com/lara-57/",
+    "name": "Lara",
+    "breed": "Springer Spaniel",
+    "age": "3-5 years",
+    "sex": "Female",
+    "location": "Location not tagged",
+    "distance_miles": null,
+    "source": "Dogsblog",
+    "reserved": false,
+    "first_seen": "2026-07-27T11:51:20.330850+00:00"
+  },
+  {
     "url": "https://www.manytearsrescue.org/adopt/dogs/6022/",
     "name": "Pop",
     "breed": "Collie x Jack Russell Terrier",
@@ -1112,18 +1124,6 @@
     "location": "Second Chance Animal Rescue (Southampton)",
     "distance_miles": 20.4,
     "source": "Second Chance Animal Rescue",
-    "reserved": false,
-    "first_seen": null
-  },
-  {
-    "url": "https://rrauk.com/floki-handsome-intelligent-blue-merle-border-collie/",
-    "name": "Floki",
-    "breed": "Collie/Springer match (Romanian rescue)",
-    "age": null,
-    "sex": null,
-    "location": "RRAUK (Hampshire / Bordon fosters)",
-    "distance_miles": 23.4,
-    "source": "RRAUK",
     "reserved": false,
     "first_seen": null
   },
