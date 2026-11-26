@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://spanielaid.co.uk/spaniel/memphis-sa5773-foster-with-a-view-to-adopt/",
+    "name": "Unknown",
+    "breed": "Spaniel (mix)",
+    "age": null,
+    "sex": "Male",
+    "location": "Warrington, Cheshire, England",
+    "distance_miles": 177.9,
+    "source": "Spaniel Aid",
+    "reserved": false,
+    "first_seen": "2026-11-26T23:05:12.467270+00:00"
+  },
+  {
     "url": "https://spanielaid.co.uk/spaniel/stanley-sa5732/",
     "name": "Stanley",
     "breed": "Springer spaniel",
@@ -230,7 +242,7 @@
   {
     "url": "https://spanielaid.co.uk/spaniel/enzo-sa5711-and-leo-sa5710/",
     "name": "Enzo",
-    "breed": "Springer spaniel",
+    "breed": "Spaniel (mix)",
     "age": "18 months",
     "sex": null,
     "location": "Wigan, England",
@@ -262,30 +274,6 @@
     "source": "Woodgreen Pets Charity",
     "reserved": false,
     "first_seen": "2026-11-18T18:00:07.010358+00:00"
-  },
-  {
-    "url": "https://www.spanielassist.com/adopt#bentley",
-    "name": "Bentley",
-    "breed": "Cocker Spaniel / Working Cocker",
-    "age": null,
-    "sex": null,
-    "location": "Spaniel Assist (UK-wide fosters)",
-    "distance_miles": 107.1,
-    "source": "Spaniel Assist",
-    "reserved": false,
-    "first_seen": "2026-11-18T01:39:48.189543+00:00"
-  },
-  {
-    "url": "https://www.spanielassist.com/adopt#lady",
-    "name": "Lady",
-    "breed": "Cocker Spaniel / Working Cocker",
-    "age": null,
-    "sex": null,
-    "location": "Spaniel Assist (UK-wide fosters)",
-    "distance_miles": 107.1,
-    "source": "Spaniel Assist",
-    "reserved": false,
-    "first_seen": "2026-11-18T01:39:48.189543+00:00"
   },
   {
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3670364",
@@ -344,18 +332,6 @@
     "location": "Ferne Animal Sanctuary (Chard, Somerset)",
     "distance_miles": 86.4,
     "source": "Ferne",
-    "reserved": false,
-    "first_seen": "2026-11-16T18:24:31.066712+00:00"
-  },
-  {
-    "url": "https://spanielaid.co.uk/spaniel/red-sa-5772/",
-    "name": "Red",
-    "breed": "Spaniel (mix)",
-    "age": "2 years 11 months",
-    "sex": "Female",
-    "location": "MK43, Bedfordshire, England",
-    "distance_miles": 88.4,
-    "source": "Spaniel Aid",
     "reserved": false,
     "first_seen": "2026-11-16T18:24:31.066712+00:00"
   },
@@ -824,7 +800,7 @@
     "location": "Dogs Trust Newbury (Berkshire)",
     "distance_miles": 45.3,
     "source": "Dogs Trust",
-    "reserved": false,
+    "reserved": true,
     "first_seen": "2026-09-20T11:41:44.983475+00:00"
   },
   {
@@ -910,6 +886,18 @@
     "source": "PPBC",
     "reserved": false,
     "first_seen": "2026-08-19T12:52:22.656864+00:00"
+  },
+  {
+    "url": "https://www.battersea.org.uk/dogs/dog-rehoming-gallery/poppy",
+    "name": "Poppy",
+    "breed": "Spaniel: Cocker",
+    "age": "4 Years\n  \n      ,     4 Months",
+    "sex": null,
+    "location": "Battersea Old Windsor",
+    "distance_miles": 50.8,
+    "source": "Battersea",
+    "reserved": false,
+    "first_seen": "2026-08-17T16:25:19.691416+00:00"
   },
   {
     "url": "https://woodgreen.org.uk/pets/max-border-collie-x-lurcher-dog/",
