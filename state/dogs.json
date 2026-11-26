@@ -12,18 +12,6 @@
     "first_seen": "2026-11-25T22:41:49.517537+00:00"
   },
   {
-    "url": "https://www.dogsblog.com/maddie-63/",
-    "name": "Maddie",
-    "breed": "Springer Spaniel",
-    "age": "6+ years",
-    "sex": "Female",
-    "location": "South West England",
-    "distance_miles": null,
-    "source": "Dogsblog",
-    "reserved": false,
-    "first_seen": "2026-11-25T22:41:49.517537+00:00"
-  },
-  {
     "url": "https://www.dogsblog.com/rowan-15/",
     "name": "Rowan",
     "breed": "Spaniel Cross",
@@ -195,7 +183,7 @@
     "url": "https://www.dogstrust.org.uk/rehoming/dogs/collie-border/3670877",
     "name": "Crystal",
     "breed": "Collie (Border) Cross",
-    "age": "6y 11m",
+    "age": "6y 12m",
     "sex": "Female",
     "location": "Dogs Trust Harefield (West London)",
     "distance_miles": 60.6,
@@ -1049,18 +1037,6 @@
     "breed": "Collie Cross",
     "age": "6+ years",
     "sex": "Male",
-    "location": "Location not tagged",
-    "distance_miles": null,
-    "source": "Dogsblog",
-    "reserved": false,
-    "first_seen": "2026-07-27T11:51:20.330850+00:00"
-  },
-  {
-    "url": "https://www.dogsblog.com/lara-57/",
-    "name": "Lara",
-    "breed": "Springer Spaniel",
-    "age": "3-5 years",
-    "sex": "Female",
     "location": "Location not tagged",
     "distance_miles": null,
     "source": "Dogsblog",
